@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "V8.9 "
+  },
+  "language": {
+    "el_AD": {
+      "name": "Common Speech",
+      "region": "Arda",
+      "bidirectional": false
+    }
+  }
+}
