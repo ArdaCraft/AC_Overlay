@@ -1,5 +1,6 @@
 ﻿In a hole in the ground, there lived a hobbit...
 I am a servant of the Secret Fire, wielder of the flame of Anor.
+You cannot pass!
 It's a dangerous business, Frodo, going out your door.
 One Ring to rule them all...
 It's the job that's never started as takes longest to finish.
@@ -10,14 +11,14 @@ Begone, foul dwimmerlaik, lord of carrion!
 Do you not know death when you see it?
 To the sea, to the sea!
 The world is indeed full of peril and in it there are many dark places.
-The Dark Lord has Nine. But we have One, mightier than they: the White Rider.
-I sang of leaves, of leaves of gold, and leaves of gold there grew...
+The Dark Lord has Nine. But we have One, mightier than they...
+I sang of leaves, of leaves of gold...
 Cold be hand and heart and bone...
-Fear nothing! Have peace until the morning! Heed no nightly noises!
+Fear nothing! Have peace until the morning!
 Death! Ride, ride to ruin and the world’s ending!
 Snow-white, Snow-white, O Lady clear!
 A Elbereth, Gilthoniel!
-The way is shut. It was made by those who are Dead, and the Dead keep it.
+The way is shut.
 NO ADMITTANCE EXCEPT ON PARTY BUSINESS.
 All shall love me and despair!
 Not if I found it on the highway would I take it.
@@ -31,7 +32,7 @@ Far over the misty mountains cold...
 Ónen i-estel edain, ú-chebin estel anim.
 Home is behind, the world ahead...
 Faithless is he that says farewell when the road darkens.
-Sorry - I don't want any adventures, thank you. Not today. Good morning!
+Sorry - I don't want any adventures, thank you.
 Dark have been my dreams of late.
 Above all shadows rides the sun...
 In every wood, in every spring, there is a different green.
@@ -48,20 +49,21 @@ And when the sun shines, it will shine out the clearer.
 For even the very wise cannot see all ends.
 Home is behind, the world ahead.
 From the ashes a fire shall be woken.
+Elendil!
 All we have to decide is what to do with the time that is given us.
 Courage is found in unlikely places.
-It is useless to meet revenge with revenge: it will heal nothing.
+It is useless to meet revenge with revenge.
 Go not to the elves for counsel, for they will say both no and yes.
 Many that live deserve death. And some that die deserve life.
 O wanderers in the shadowed land, despair not!
 Sing hey for the bath at close of day!
-O Orofarne, Lassemista, Carnimirie!
+O Orofarnë, Lassemista, Carnimírië!
 The world was young, the mountains green...
 The world is grey, the mountains cold...
-In Dwimordene, in Lorien, seldom have walked the feet of men.
+In Dwimordene, in Lórien, seldom have walked the feet of men.
 Gil-galad was an Elven-king, of him the harpers sadly sing...
 I will not say the day is done, nor bid the stars farewell.
-Where now is the horse and the rider?
+Where now the horse and the rider?
 The days have gone down in the West behind the hills into shadow.
 Ai, laurië lantar lassi súrinen...
 An Elven-maid there was of old, a shining star by day...
@@ -74,3 +76,12 @@ Red fell the dew in Rammas Echor.
 To the bottle I go, to heal my heart and drown my woe!
 Elen sila lumenn' omentielvo.
 Êl síla erin lû e-govaned vîn.
+Baruk Khazâd! Khazâd ai-mênu!
+Be silent, and keep your forked tongue behind your teeth!
+Fool of a Took!
+While there's life there's hope.
+I do not love the bright sword for its sharpness...
+One thing drives out another!
+Deep roots are not reached by the frost...
+The hands of the King are hands of healing.
+The Shadow can only mock, it cannot make.
