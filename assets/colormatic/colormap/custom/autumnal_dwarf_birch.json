@@ -1,0 +1,7 @@
+{
+    "format": "grid",
+    "blocks": ["conquest:autumnal_dwarf_birch"],
+    "yVariance": "4",
+    "yoffset": "0",
+    "source": "./autumnal_dwarf_birch.png"
+}

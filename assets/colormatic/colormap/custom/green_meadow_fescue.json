@@ -1,0 +1,7 @@
+{
+    "format": "grid",
+    "blocks": ["conquest:green_meadow_fescue", "conquest:greater_wood_rush"],
+    "yVariance": "4",
+    "yoffset": "0",
+    "source": "./green_meadow_fescue.png"
+}

@@ -1,0 +1,7 @@
+{
+    "format": "grid",
+    "blocks": ["conquest:dead_grass"],
+    "yVariance": "4",
+    "yoffset": "0",
+    "source": "./dead_grass.png"
+}

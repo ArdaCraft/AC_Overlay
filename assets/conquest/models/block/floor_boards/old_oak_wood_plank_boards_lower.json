@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/floor_boards/template_board_lower",
+	"textures": {
+		"0": "conquest:block/1_basic_refined/3_wood/oak/old_oak_wood_planks"
+	}
+}

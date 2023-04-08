@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "bites=0": { "model": "conquest:block/food/plate_glazed_meal0" },
+        "bites=1": { "model": "conquest:block/food/plate_glazed_meal1" },
+        "bites=2": { "model": "conquest:block/food/plate_glazed_meal2" },
+        "bites=3": { "model": "conquest:block/food/plate_glazed_meal3" },
+        "bites=4": { "model": "conquest:block/food/plate_glazed_meal4" },
+        "bites=5": { "model": "conquest:block/food/plate_glazed_meal5" },
+        "bites=6": { "model": "conquest:block/food/plate_glazed" }
+    }
+}

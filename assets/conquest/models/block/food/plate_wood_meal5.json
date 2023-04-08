@@ -1,0 +1,17 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "xone/plate_wood",
+        "plate": "xone/plate_wood",
+        "food": "xone/plate_wood_meal5"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 1, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#plate", "cullface": "down" },
+                "up":    { "uv": [ 0,  0, 16, 16 ], "texture": "#food" }
+            }
+        }
+    ]
+}

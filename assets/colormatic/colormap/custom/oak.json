@@ -1,0 +1,6 @@
+{
+    "format": "grid",
+    "blocks": ["minecraft:oak_leaves"],
+    "yVariance": "2",
+    "yoffset": "2"
+}

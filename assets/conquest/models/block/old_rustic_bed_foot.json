@@ -1,0 +1,107 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "conquest:block/4_furniture/3_wood/old_rustic_bed/old_rustic_bed_vertical",
+		"1": "conquest:block/4_furniture/3_wood/old_rustic_bed/old_rustic_bed_horizontal",
+		"3": "conquest:block/4_furniture/3_wood/old_rustic_bed/planks_oak_horizontal",
+		"4": "conquest:block/4_furniture/3_wood/old_rustic_bed/bed_feet_top",
+		"particle": "conquest:block/4_furniture/3_wood/old_rustic_bed/old_rustic_bed_vertical"
+	},
+	"elements": [
+		{
+			"name": "s1",
+			"from": [0, -3.5, -1.5],
+			"to": [3.5, 12.5, 2],
+			"faces": {
+				"north": {"uv": [11.5, 0, 15, 16], "texture": "#0"},
+				"east": {"uv": [9, 0, 12.5, 16], "texture": "#0"},
+				"south": {"uv": [3.5, 0, 7, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 5.5, 16], "texture": "#0"},
+				"up": {"uv": [9, 4, 12.5, 7.5], "texture": "#0"},
+				"down": {"uv": [4, 4, 7.5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "s2",
+			"from": [12.5, -3.5, -1.5],
+			"to": [16, 12.5, 2],
+			"faces": {
+				"north": {"uv": [3.5, 0, 7, 16], "texture": "#0"},
+				"east": {"uv": [3, 0, 6.5, 16], "texture": "#0"},
+				"south": {"uv": [6, 0, 9.5, 16], "texture": "#0"},
+				"west": {"uv": [5, 0, 8.5, 16], "texture": "#0"},
+				"up": {"uv": [9, 7, 12.5, 10.5], "texture": "#0"},
+				"down": {"uv": [4, 10, 7.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bed_feet1",
+			"from": [-0.5, 8.5, -0.5],
+			"to": [16.5, 12, 1.5],
+			"faces": {
+				"north": {"uv": [0, 9, 16, 12.5], "texture": "#1"},
+				"east": {"uv": [8.5, 10, 10.5, 13.5], "texture": "#1"},
+				"south": {"uv": [0, 8, 16, 11.5], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [11, 3, 13, 6.5], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [0, 4, 16, 6], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bed_side1",
+			"from": [-0.5, 3.5, 2],
+			"to": [2.5, 6.5, 16],
+			"faces": {
+				"east": {"uv": [2, 12, 16, 15], "texture": "#1"},
+				"west": {"uv": [2, 4.5, 16, 7.5], "texture": "#1"},
+				"up": {"uv": [0, 4.5, 14, 7.5], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 4, 14, 7], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bed_side2",
+			"from": [13.5, 3.5, 2],
+			"to": [16.5, 6.5, 16],
+			"faces": {
+				"east": {"uv": [2, 4, 16, 7], "texture": "#1"},
+				"west": {"uv": [2, 0, 16, 3], "texture": "#1"},
+				"up": {"uv": [2, 10, 16, 13], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 7, 14, 10], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bed_sheets",
+			"from": [0, 5.5, 2],
+			"to": [16, 9.5, 16],
+			"faces": {
+				"north": {"uv": [1.5, 0, 5.5, 16], "rotation": 90, "texture": "#4"},
+				"east": {"uv": [1, 6, 15, 10], "rotation": 180, "texture": "#4"},
+				"south": {"uv": [14, 1, 16, 15], "rotation": 90, "texture": "#4"},
+				"west": {"uv": [1, 4, 15, 8], "texture": "#4"},
+				"up": {"uv": [1.5, 0, 15.5, 16], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [0, 0.5, 16, 14.5], "texture": "#3"}
+			}
+		},
+		{
+			"name": "bed_feet1",
+			"from": [-0.5, 3.5, -0.5],
+			"to": [16.5, 6.5, 2],
+			"faces": {
+				"north": {"uv": [0, 9, 16, 12], "texture": "#1"},
+				"east": {"uv": [9.5, 4, 12, 7], "texture": "#1"},
+				"south": {"uv": [0, 2, 16, 5.5], "texture": "#1"},
+				"west": {"uv": [12, 4.5, 14.5, 7.5], "texture": "#1"},
+				"up": {"uv": [0, 4, 16, 6.5], "texture": "#1"},
+				"down": {"uv": [0, 14, 16, 16], "rotation": 180, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "foot",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

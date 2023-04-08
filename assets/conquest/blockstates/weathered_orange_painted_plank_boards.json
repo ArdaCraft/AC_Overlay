@@ -1,0 +1,13 @@
+{"variants":
+	{
+		"type=top,facing=south":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_upper","y":90 },
+		"type=top,facing=west":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_upper" },
+		"type=top,facing=north":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_upper","y":90 },
+		"type=top,facing=east":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_upper" },
+		
+		"type=bottom,facing=south":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_lower","y":90 },
+		"type=bottom,facing=west":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_lower" },
+		"type=bottom,facing=north":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_lower","y":90 },
+		"type=bottom,facing=east":{"model":"conquest:block/floor_boards/weathered_orange_painted_plank_boards_lower"}
+	}
+}

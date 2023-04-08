@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "block/cobblestone"
+	},
+	"display": {
+		"fixed": {
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	}
+}

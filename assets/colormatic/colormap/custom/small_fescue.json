@@ -1,0 +1,7 @@
+{
+    "format": "grid",
+    "blocks": ["conquest:small_fescue"],
+    "yVariance": "4",
+    "yOffset": "0",
+    "source": "./small_fescue.png"
+}

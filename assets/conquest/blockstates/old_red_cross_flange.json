@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "toggle=1,facing=south": { "model": "conquest:block/small_panels/aspen_tall_board_flat", "y": 180 },
+        "toggle=1,facing=west": { "model": "conquest:block/small_panels/aspen_tall_board_flat", "y": 270 },
+        "toggle=1,facing=north": { "model": "conquest:block/small_panels/aspen_tall_board_flat" },
+        "toggle=1,facing=east": { "model": "conquest:block/small_panels/aspen_tall_board_flat", "y": 90 },
+
+        "toggle=2,facing=south": { "model": "conquest:block/small_panels/", "y": 180 },
+        "toggle=2,facing=west": { "model": "conquest:block/small_panels/", "y": 270 },
+        "toggle=2,facing=north": { "model": "conquest:block/small_panels/" },
+        "toggle=2,facing=east": { "model": "conquest:block/small_panels/", "y": 90 }
+    }
+}

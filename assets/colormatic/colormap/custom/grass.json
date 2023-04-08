@@ -1,0 +1,7 @@
+{
+    "format": "grid",
+    "blocks": ["conquest:grass", "minecraft:grass_block", "minecraft:grass", "minecraft:tall_grass", "conquest:tall_grass", "minecraft:sugar_cane", "conquest:clover_covered_grass", "conquest:clover_covered_grass_stairs", "conquest:clover_covered_grass_layer", "conquest:jungle_ground_cover", "conquest:clover_covered_grass_vertical_slab", "conquest:clover_covered_grass_vertical_quarter", "conquest:clover_covered_grass_vertical_corner", "conquest:taiga_grass", "conquest:taiga_grass_layer", "conquest:taiga_grass_vertical_slab", "conquest:taiga_grass_vertical_corner", "conquest:taiga_grass_vertical_quarter", "conquest:taiga_grass_stairs", "conquest:grass_block_layer", "conquest:grass_block_stairs", "conquest:grass_block_vertical_slab", "conquest:grass_block_vertical_corner", "conquest:grass_block_vertical_quarter", "conquest:common_meadow_grass"],
+    "yVariance": "5",
+    "yoffset": "1",
+    "source": "./grass.png"
+}

@@ -1,7 +1,8 @@
 {
-  "pack": {
-    "pack_format": 8,
-    "pack_id": "ac_overlay",
-    "description": "Place above the Conquest Reforged resource pack"
-  }
+	"pack": {
+		"description": "Place above the Conquest Reforged resource pack",
+		"pack_format": 9,
+		"pack_id": "ac_overlay"
+	}
 }
+
