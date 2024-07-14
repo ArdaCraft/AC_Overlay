@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"0": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam",
+		"1": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam_top",
+		"particle": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam"
+	},
+	"elements": [
+		{
+			"name": "Axis",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#0"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#0"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#1"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#1"}
+			}
+		}
+	]
+}

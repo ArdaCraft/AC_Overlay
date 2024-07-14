@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=top,facing=south": { "model": "conquest:block/beam_spruce_shallow_diagonal_top" },
+        "type=top,facing=west": { "model": "conquest:block/beam_spruce_shallow_diagonal_top", "y": 90 },
+        "type=top,facing=north": { "model": "conquest:block/beam_spruce_shallow_diagonal_top", "y": 180 },
+        "type=top,facing=east": { "model": "conquest:block/beam_spruce_shallow_diagonal_top", "y": 270  },
+
+        "type=bottom,facing=south": { "model": "conquest:block/beam_spruce_shallow_diagonal_bottom" },
+        "type=bottom,facing=west": { "model": "conquest:block/beam_spruce_shallow_diagonal_bottom", "y": 90 },
+        "type=bottom,facing=north": { "model": "conquest:block/beam_spruce_shallow_diagonal_bottom", "y": 180 },
+        "type=bottom,facing=east": { "model": "conquest:block/beam_spruce_shallow_diagonal_bottom", "y": 270  }
+    }
+}

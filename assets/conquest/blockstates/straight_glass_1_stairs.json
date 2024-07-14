@@ -1,0 +1,174 @@
+{
+    "variants": {
+        "facing=north,half=bottom,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight",
+            "y": 180,
+            "yoffset": -8
+        },
+        "facing=east,half=bottom,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight",
+            "y": 270,
+            "yoffset": -8
+        },
+        "facing=south,half=bottom,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight",
+            "yoffset": -8
+        },
+        "facing=west,half=bottom,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight",
+            "y": 90,
+            "yoffset": -8
+        },
+        "facing=north,half=bottom,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 270,
+            "yoffset": -8
+        },
+        "facing=east,half=bottom,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "yoffset": -8
+        },
+        "facing=south,half=bottom,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 90,
+            "yoffset": -8
+        },
+        "facing=west,half=bottom,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 180,
+            "yoffset": -8
+        },
+        "facing=north,half=bottom,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 180,
+            "yoffset": -8
+        },
+        "facing=east,half=bottom,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 270,
+            "yoffset": -8
+        },
+        "facing=south,half=bottom,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "yoffset": -8
+        },
+        "facing=west,half=bottom,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 90,
+            "yoffset": -8
+        },
+        "facing=north,half=bottom,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 180,
+            "yoffset": -8
+        },
+        "facing=east,half=bottom,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 270,
+            "yoffset": -8
+        },
+        "facing=south,half=bottom,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "yoffset": -8
+        },
+        "facing=west,half=bottom,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 90,
+            "yoffset": -8
+        },
+        "facing=north,half=bottom,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 90,
+            "yoffset": -8
+        },
+        "facing=east,half=bottom,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 180,
+            "yoffset": -8
+        },
+        "facing=south,half=bottom,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 270,
+            "yoffset": -8
+        },
+        "facing=west,half=bottom,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "yoffset": -8
+        },
+        "facing=north,half=top,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight",
+            "y": 180
+        },
+        "facing=east,half=top,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight",
+            "y": 270
+        },
+        "facing=south,half=top,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight"
+        },
+        "facing=west,half=top,shape=straight": {
+            "model": "conquest:block/sandstone_plinth_cornice_straight",
+            "y": 90
+        },
+        "facing=north,half=top,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 270
+        },
+        "facing=east,half=top,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer"
+        },
+        "facing=south,half=top,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 90
+        },
+        "facing=west,half=top,shape=outer_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 180
+        },
+        "facing=north,half=top,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 180
+        },
+        "facing=east,half=top,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 270
+        },
+        "facing=south,half=top,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer"
+        },
+        "facing=west,half=top,shape=outer_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_outer",
+            "y": 90
+        },
+        "facing=north,half=top,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 180
+        },
+        "facing=east,half=top,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 270
+        },
+        "facing=south,half=top,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner"
+        },
+        "facing=west,half=top,shape=inner_right": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 90
+        },
+        "facing=north,half=top,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 90
+        },
+        "facing=east,half=top,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 180
+        },
+        "facing=south,half=top,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner",
+            "y": 270
+        },
+        "facing=west,half=top,shape=inner_left": {
+            "model": "conquest:block/sandstone_plinth_cornice_inner"
+        }
+    }
+}

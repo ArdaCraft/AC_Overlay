@@ -15,9 +15,9 @@
         "toggle=3,facing=north": { "model": "conquest:block/" },
         "toggle=3,facing=east": { "model": "conquest:block/", "y": 90 },
 
-        "toggle=4,facing=south": { "model": "conquest:block/", "y": 180 },
-        "toggle=4,facing=west": { "model": "conquest:block/", "y": 270 },
-        "toggle=4,facing=north": { "model": "conquest:block/" },
-        "toggle=4,facing=east": { "model": "conquest:block/", "y": 90 }
+        "toggle=4,facing=south": { "model": "conquest:block/food/cookie_jar", "y": 180 },
+        "toggle=4,facing=west": { "model": "conquest:block/food/cookie_jar", "y": 270 },
+        "toggle=4,facing=north": { "model": "conquest:block/food/cookie_jar" },
+        "toggle=4,facing=east": { "model": "conquest:block/food/cookie_jar", "y": 90 }
     }
 }

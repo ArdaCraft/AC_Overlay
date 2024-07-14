@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "conquest:xone/simple_tall_wooden_door_back_middle",
+		"1": "conquest:xone/simple_tall_wooden_door_back_top",
+		"2": "conquest:xone/simple_tall_wooden_door_middle",
+		"3": "conquest:xone/simple_tall_wooden_door_top",
+		"particle": "conquest:xone/simple_tall_wooden_door_back_middle"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [2, 16, 16],
+			"faces": {
+				"north": {"uv": [13.5, 0, 15.5, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [13.5, 0, 15.5, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 8.5, 16, 10.5], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [2, 6, 0],
+			"to": [3, 10, 16],
+			"faces": {
+				"north": {"uv": [1.5, 0, 2.5, 4], "texture": "#2"},
+				"east": {"uv": [0, 6, 16, 10], "texture": "#0"},
+				"south": {"uv": [1.5, 0, 2.5, 4], "texture": "#2"},
+				"up": {"uv": [0.5, 0, 1.5, 16], "texture": "#2"},
+				"down": {"uv": [0.5, 0, 1.5, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 16, 0],
+			"to": [2, 32, 16],
+			"faces": {
+				"north": {"uv": [13.5, 0, 15.5, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [13.5, 0, 15.5, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 8.5, 16, 10.5], "rotation": 90, "texture": "#3"}
+			}
+		},
+		{
+			"from": [2, 23.5, 0],
+			"to": [3, 27, 16],
+			"faces": {
+				"north": {"uv": [1.5, 0, 2.5, 3.5], "texture": "#3"},
+				"east": {"uv": [0, 5, 16, 8.5], "texture": "#1"},
+				"south": {"uv": [1.5, 0, 2.5, 3.5], "texture": "#3"},
+				"up": {"uv": [0.5, 0, 1.5, 16], "texture": "#3"},
+				"down": {"uv": [0.5, 0, 1.5, 16], "texture": "#3"}
+			}
+		}
+	]
+}

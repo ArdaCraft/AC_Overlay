@@ -1,0 +1,13 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/obj/banquet_couch_rug.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:xone/banquet_couch/banquet_couch_yellow_wood",
+        "fabric": "conquest:xone/banquet_couch/banquet_couch_yellow_fabric",
+        "extra": "conquest:xone/banquet_couch/banquet_couch_yellow_extra",
+        "wood": "conquest:xone/banquet_couch/banquet_couch_yellow_wood"
+	},
+	"display": {}
+}

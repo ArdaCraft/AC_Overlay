@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_column",
+	"textures": {
+		"end": "conquest:block/1_basic_refined/1_stone/4_marble/travertine_slab_topbottom",
+		"particle": "conquest:block/2_advanced_refined/1_stone/3_marble/travertine_cornice",
+		"side": "conquest:block/2_advanced_refined/1_stone/3_marble/travertine_cornice"
+	},
+	"elements": [
+		{
+			"name": "Cube46",
+			"from": [0, 11, 12],
+			"to": [16, 13, 16],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 5], "texture": "#side"},
+				"east": {"uv": [12, 3, 16, 5], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 3, 16, 5], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 3, 4, 5], "texture": "#side", "cullface": "west"},
+				"down": {"uv": [0, 4, 16, 0], "texture": "#end"}
+			}
+		},
+		{
+			"name": "Cube47",
+			"from": [0, 8, 13.5],
+			"to": [16, 11, 16],
+			"faces": {
+				"north": {"uv": [0, 5, 16, 8], "texture": "#side"},
+				"east": {"uv": [13.5, 5, 16, 8], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 5, 16, 8], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 5, 2.5, 8], "texture": "#side", "cullface": "west"},
+				"down": {"uv": [0, 2.5, 16, 0], "texture": "#end"}
+			}
+		},
+		{
+			"name": "Cube45",
+			"from": [0, 13, 10],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#side"},
+				"east": {"uv": [10, 0, 16, 3], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 6, 3], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 6], "texture": "#end", "cullface": "up"},
+				"down": {"uv": [0, 6, 16, 0], "texture": "#end"}
+			}
+		}
+	]
+}

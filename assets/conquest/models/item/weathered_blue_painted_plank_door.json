@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "conquest:item/weathered_blue_painted_plank_door"
+  }
+}

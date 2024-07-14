@@ -1,0 +1,15 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl m_2fe6c01c-dbcc-6a10-eb33-da78d89a8f0d
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd #pot
+
+newmtl none

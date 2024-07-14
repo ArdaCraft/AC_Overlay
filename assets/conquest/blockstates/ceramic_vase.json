@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "conquest:block/dolia"
+			},
+			{
+				"model": "conquest:block/dolia",
+				"y": 90
+			},
+			{
+				"model": "conquest:block/dolia",
+				"y": 180
+			},
+			{
+				"model": "conquest:block/dolia",
+				"y": 270
+			},
+			{
+				"model": "conquest:block/dolia2"
+			},
+			{
+				"model": "conquest:block/dolia2",
+				"y": 90
+			},
+			{
+				"model": "conquest:block/dolia2",
+				"y": 180
+			},
+			{
+				"model": "conquest:block/dolia2",
+				"y": 270
+			}
+		]
+	}
+}

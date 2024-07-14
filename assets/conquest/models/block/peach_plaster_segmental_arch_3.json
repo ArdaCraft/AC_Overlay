@@ -1,0 +1,11 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/block/obj/smooth_segmental_arch_3.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "minecraft:block/red_concrete",
+        "keystones": "minecraft:block/red_concrete",
+        "arch2": "minecraft:block/red_concrete"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/food/bread_loaf1",
+	"textures": {
+		"0": "conquest:xone/rye_bread",
+		"particle": "conquest:xone/rye_bread"
+	}
+}

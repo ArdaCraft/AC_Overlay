@@ -1,0 +1,6 @@
+{   "parent": "conquest:block/simple_oak_wood_shutters_open_1",
+    "textures": {
+        "particle": "conquest:block/2_advanced_refined/7_wood/simple_ash_wood_shutters",
+        "texture": "conquest:block/2_advanced_refined/7_wood/simple_ash_wood_shutters"
+    }
+}

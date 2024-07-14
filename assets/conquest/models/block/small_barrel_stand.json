@@ -1,0 +1,11 @@
+{
+	"loader": "forge:obj",
+	"parent": "block/block",
+	"model": "conquest:models/obj/small_barrel_stand.obj",
+	"ambientToFullbright": true,
+	"flip-v": true,
+	"textures": {
+		"particle": "conquest:block/3_decoration/3_wood/small_barrel/small_barrel_stand",
+		"stand": "conquest:block/3_decoration/3_wood/tall_round_barrel/tall_round_barrel_stand"
+	}
+}

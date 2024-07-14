@@ -1,0 +1,11 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/block/obj/generic_facade_round_arch_3_right.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/1_basic_refined/1_stone/3_limestone/light_limestone_arch/arch",
+        "arch2": "conquest:block/1_basic_refined/1_stone/3_limestone/light_limestone_arch/big_arch",
+        "keystones": "conquest:block/1_basic_refined/1_stone/3_limestone/light_limestone_arch/keystones"
+    }
+}
