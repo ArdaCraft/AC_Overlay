@@ -1,0 +1,131 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "xone/byz_cake",
+		"1": "xone/cheese_board",
+		"particle": "xone/byz_cake"
+	},
+	"elements": [
+		{
+			"from": [0.5, 0.04644, 2.5],
+			"to": [15.5, 0.54644, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.29644, 8.25]},
+			"faces": {
+				"north": {"uv": [8.5, 10.25, 16, 10.5], "texture": "#1"},
+				"east": {"uv": [8.5, 10.25, 8.75, 16], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [8.5, 10.25, 16, 10.5], "texture": "#1"},
+				"west": {"uv": [15.75, 10.25, 16, 16], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [8.5, 10.25, 16, 16], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [1.78858, 0.55331, 3.35355],
+			"to": [9.78858, 0.55331, 11.35355],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [5.78858, 0.55331, 7.85355]},
+			"faces": {
+				"up": {"uv": [8, 0, 16, 8], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.28858, 0.55331, 5.85355],
+			"to": [15.28858, 0.55331, 12.85355],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [11.78858, 0.55331, 9.85355]},
+			"faces": {
+				"up": {"uv": [8, 0, 15, 6], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0.5, 5],
+			"to": [10, 3, 8.5],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 1.75, 7]},
+			"faces": {
+				"north": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"east": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"west": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"up": {"uv": [0, 3.5, 4, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 0.5, 7],
+			"to": [5, 3, 10.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [3, 1.75, 8.5]},
+			"faces": {
+				"north": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"east": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"west": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.5, 0.5, 7.5],
+			"to": [14.5, 3, 11],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [12.5, 1.75, 9.25]},
+			"faces": {
+				"north": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"east": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"west": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 3, 7.5],
+			"to": [11.5, 5.5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 4.25, 9.25]},
+			"faces": {
+				"north": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"east": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"west": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 3.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 0.5, 9.5],
+			"to": [9.5, 3, 13],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7.5, 1.75, 11]},
+			"faces": {
+				"north": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"east": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 7, 4, 9.5], "texture": "#0"},
+				"west": {"uv": [4, 7, 7.5, 9.5], "texture": "#0"},
+				"up": {"uv": [0, 3.5, 4, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [52, -78, 0],
+			"translation": [-0.5, 8.5, 3],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [52, -156, 0],
+			"translation": [-0.5, 8.5, 3],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 4.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 4.5, 0]
+		},
+		"ground": {
+			"translation": [0, 1, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [29, 45, 0],
+			"translation": [0, 3, 0]
+		},
+		"head": {
+			"rotation": [0, -39, 0],
+			"translation": [0, 18.5, 0],
+			"scale": [1.45, 1.45, 1.45]
+		}
+	}
+}

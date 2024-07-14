@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "facing=east,light=0": { "model": "conquest:block/wooden_lantern_wall" },
+        "facing=south,light=0": { "model": "conquest:block/wooden_lantern_wall", "y": 90 },
+        "facing=west,light=0": { "model": "conquest:block/wooden_lantern_wall", "y": 180 },
+        "facing=north,light=0": { "model": "conquest:block/wooden_lantern_wall", "y": 270 },
+        "facing=up,light=0": [{ "model": "conquest:block/wooden_lantern_ground" }, { "model": "conquest:block/wooden_lantern2_ground" }, { "model": "conquest:block/wooden_lantern_ground", "y": 90 }, { "model": "conquest:block/wooden_lantern2_ground", "y": 90 }],
+        "facing=down,light=0": [{ "model": "conquest:block/wooden_lantern_hanging" }, { "model": "conquest:block/wooden_lantern2_hanging" }, { "model": "conquest:block/wooden_lantern_hanging", "y": 90 }, { "model": "conquest:block/wooden_lantern2_hanging", "y": 90 }],
+
+        "facing=east,light=1": { "model": "conquest:block/wooden_lantern_wall_lit" },
+        "facing=south,light=1": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 90 },
+        "facing=west,light=1": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 180 },
+        "facing=north,light=1": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 270 },
+        "facing=up,light=1": [{ "model": "conquest:block/wooden_lantern_ground_lit" }, { "model": "conquest:block/wooden_lantern2_ground_lit" }, { "model": "conquest:block/wooden_lantern_ground_lit", "y": 90 }, { "model": "conquest:block/wooden_lantern2_ground_lit", "y": 90 }],
+        "facing=down,light=1": [{ "model": "conquest:block/wooden_lantern_hanging_lit" }, { "model": "conquest:block/wooden_lantern2_hanging_lit" }, { "model": "conquest:block/wooden_lantern_hanging_lit", "y": 90 }, { "model": "conquest:block/wooden_lantern2_hanging_lit", "y": 90 }],
+
+        "facing=east,light=2": { "model": "conquest:block/wooden_lantern_wall_lit" },
+        "facing=south,light=2": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 90 },
+        "facing=west,light=2": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 180 },
+        "facing=north,light=2": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 270 },
+        "facing=up,light=2": [{ "model": "conquest:block/wooden_lantern_ground_lit" }, { "model": "conquest:block/wooden_lantern2_ground_lit" }, { "model": "conquest:block/wooden_lantern_ground_lit", "y": 90 }, { "model": "conquest:block/wooden_lantern2_ground_lit", "y": 90 }],
+        "facing=down,light=2": [{ "model": "conquest:block/wooden_lantern_hanging_lit" }, { "model": "conquest:block/wooden_lantern2_hanging_lit" }, { "model": "conquest:block/wooden_lantern_hanging_lit", "y": 90 }, { "model": "conquest:block/wooden_lantern2_hanging_lit", "y": 90 }],
+
+        "facing=east,light=3": { "model": "conquest:block/wooden_lantern_wall_lit" },
+        "facing=south,light=3": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 90 },
+        "facing=west,light=3": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 180 },
+        "facing=north,light=3": { "model": "conquest:block/wooden_lantern_wall_lit", "y": 270 },
+        "facing=up,light=3": [{ "model": "conquest:block/wooden_lantern_ground_lit" }, { "model": "conquest:block/wooden_lantern2_ground_lit" }, { "model": "conquest:block/wooden_lantern_ground_lit", "y": 90 }, { "model": "conquest:block/wooden_lantern2_ground_lit", "y": 90 }],
+        "facing=down,light=3": [{ "model": "conquest:block/wooden_lantern_hanging_lit" }, { "model": "conquest:block/wooden_lantern2_hanging_lit" }, { "model": "conquest:block/wooden_lantern_hanging_lit", "y": 90 }, { "model": "conquest:block/wooden_lantern2_hanging_lit", "y": 90 }]
+    }
+}

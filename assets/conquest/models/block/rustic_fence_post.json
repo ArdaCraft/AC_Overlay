@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"0": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam",
+		"1": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam_top",
+		"particle": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam"
+	},
+	"elements": [
+		{
+			"name": "Cube",
+			"from": [6.025, 16, 6.025],
+			"to": [9.975, 26, 9.975],
+			"faces": {
+				"north": {"uv": [6, 6, 9.95, 16], "texture": "#0"},
+				"east": {"uv": [6, 6, 9.95, 16], "texture": "#0"},
+				"south": {"uv": [6, 6, 9.95, 16], "texture": "#0"},
+				"west": {"uv": [6, 6, 9.95, 16], "texture": "#0"},
+				"up": {"uv": [6, 6, 10, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"east": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"west": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"up": {"uv": [6, 6, 10, 10], "texture": "#1"},
+				"down": {"uv": [6, 6, 10, 10], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "rustic_fence_post",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [1]
+		}
+	]
+}

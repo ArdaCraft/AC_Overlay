@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "conquest:block/basic_mortar1",
+	"textures": {
+		"mortar": "conquest:xone/marble_mortar"
+	}
+}

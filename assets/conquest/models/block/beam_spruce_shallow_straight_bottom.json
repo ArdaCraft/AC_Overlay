@@ -1,0 +1,10 @@
+{
+    "loader": "forge:obj",
+	"parent": "block/block",
+    "model": "conquest:models/obj/22_degree_diagonal_branch.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+	"textures": {
+		"particle": "minecraft:block/stripped_spruce_log"
+	}
+}

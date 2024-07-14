@@ -1,0 +1,18 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/obj/candle_lantern_wall.obj",
+	"parent": "block/block",
+    "ambientToFullbright": true,
+    "flip-v": true,
+	"textures": {
+		"particle": "conquest:xone/candle_lantern_iron",
+		"chain": "conquest:block/3_decoration/2_metal/small_iron_chains"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-2, 0, -4.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}

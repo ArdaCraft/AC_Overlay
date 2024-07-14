@@ -1,10 +1,10 @@
 {
     "variants": {
         "bites=0": { "model": "conquest:block/food/bread_plate" },
-        "bites=1": { "model": "conquest:block/food/bread_plate" },
-        "bites=2": { "model": "conquest:block/food/bread_plate" },
-        "bites=3": { "model": "conquest:block/food/bread_plate" },
-        "bites=4": { "model": "conquest:block/food/bread_plate" },
+        "bites=1": { "model": "conquest:block/food/panis" },
+        "bites=2": [ { "model": "conquest:block/food/panis_stack_2" }, { "model": "conquest:block/food/panis_stack_3" }, { "model": "conquest:block/food/panis_stack_4" } ],
+        "bites=3": { "model": "conquest:block/food/byz_cake" },
+        "bites=4": { "model": "conquest:block/food/meat_pie" },
         "bites=5": { "model": "conquest:block/food/bread_plate" },
         "bites=6": { "model": "conquest:block/food/bread_plate" }
     }

@@ -1,0 +1,11 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/block/obj/smooth_round_arch_2.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/2_advanced_refined/3_plaster/orange_plaster",
+        "keystones": "conquest:block/2_advanced_refined/3_plaster/orange_plaster",
+        "arch2": "conquest:block/2_advanced_refined/3_plaster/orange_plaster"
+    }
+}

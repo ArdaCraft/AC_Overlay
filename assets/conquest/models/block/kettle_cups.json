@@ -1,0 +1,11 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/obj/kettle_cups.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/3_decoration/2_metal/tea_kettle",
+        "cups": "block/terracotta_cup",
+        "kettle": "conquest:block/3_decoration/2_metal/tea_kettle"
+	}
+}

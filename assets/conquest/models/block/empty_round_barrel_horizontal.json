@@ -1,0 +1,13 @@
+{
+	"loader": "forge:obj",
+	"model": "conquest:models/obj/small_barrel_side.obj",
+	"ambientToFullbright": true,
+	"flip-v": true,
+	"textures": {
+		"particle": "conquest:block/3_decoration/3_wood/small_barrel/small_barrel_side",
+		"side": "conquest:block/3_decoration/3_wood/small_barrel/small_barrel_side",
+		"top": "conquest:block/3_decoration/3_wood/small_barrel/small_barrel_top",
+		"bottom": "conquest:block/3_decoration/3_wood/small_barrel/small_barrel_bottom",
+		"stand": "conquest:block/3_decoration/3_wood/small_barrel/small_barrel_stand"
+	}
+}

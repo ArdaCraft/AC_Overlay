@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "bites=0": { "model": "conquest:block/food/big_bread" },
+        "bites=1": [ { "model": "conquest:block/food/bread_loafs1" }, { "model": "conquest:block/food/bread_loafs2" }, { "model": "conquest:block/food/bread_loafs3" } ],
+        "bites=2": [ { "model": "conquest:block/food/bread_loaf2" }, { "model": "conquest:block/food/bread_loaf3" },{ "model": "conquest:block/food/bread_loaf4" }, { "model": "conquest:block/food/bread_loaf1" } ],
+        "bites=3": [ { "model": "conquest:block/food/blood_bread3" }, { "model": "conquest:block/food/blood_bread1" }, { "model": "conquest:block/food/blood_bread2" } ],
+        "bites=4": [ { "model": "conquest:block/food/rye_loafs1" }, { "model": "conquest:block/food/rye_loafs2" }, { "model": "conquest:block/food/rye_loafs3" } ],
+        "bites=5": [ { "model": "conquest:block/food/rye_loaf2" }, { "model": "conquest:block/food/rye_loaf3" }, { "model": "conquest:block/food/rye_loaf4" }, { "model": "conquest:block/food/rye_loaf1" } ],
+        "bites=6": [ { "model": "conquest:block/food/hardtack1" }, { "model": "conquest:block/food/hardtack2" }, { "model": "conquest:block/food/hardtack3" } ]
+    }
+}

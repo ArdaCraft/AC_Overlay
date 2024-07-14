@@ -1,0 +1,11 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/block/obj/generic_facade_segmental_arch_3_right.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:xone/byzan_arch/arch",
+        "arch2": "conquest:xone/byzan_arch/big_arch",
+        "keystones": "conquest:xone/byzan_arch/keystones"
+    }
+}

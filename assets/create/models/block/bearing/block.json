@@ -1,0 +1,6 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "create:block/mechanical_bearing_side"
+	}
+}

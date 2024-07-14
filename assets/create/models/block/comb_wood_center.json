@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "create:block/comb_center",
+	"textures": {
+		"comb": "create:xone/comb_wood"
+	}
+}

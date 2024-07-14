@@ -1,0 +1,67 @@
+{
+    "variants": {
+		"facing=north,part=foot": [
+		{ "model": "conquest:block/broken_bed_frame_foot1", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_foot2", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_foot3", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_foot3", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_foot1", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_foot2", "y": 180 } ],
+		
+		"facing=east,part=foot": [
+		{ "model": "conquest:block/broken_bed_frame_foot1", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_foot2", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_foot3", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_foot3", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_foot1", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_foot2", "y": 270 } ],
+		
+		"facing=south,part=foot": [
+		{ "model": "conquest:block/broken_bed_frame_foot1" },
+		{ "model": "conquest:block/broken_bed_frame_foot2" },
+		{ "model": "conquest:block/broken_bed_frame_foot3" },
+		{ "model": "conquest:block/broken_bed_frame_foot3" },
+		{ "model": "conquest:block/broken_bed_frame_foot1" },
+		{ "model": "conquest:block/broken_bed_frame_foot2" } ],
+		
+        "facing=west,part=foot": [
+		{ "model": "conquest:block/broken_bed_frame_foot1", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_foot2", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_foot3", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_foot3", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_foot1", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_foot2", "y": 90 } ],
+		
+        "facing=north,part=head": [
+		{ "model": "conquest:block/broken_bed_frame_head1", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_head2", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_head3", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_head2", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_head3", "y": 180 },
+		{ "model": "conquest:block/broken_bed_frame_head1", "y": 180 } ],
+		
+		"facing=east,part=head": [
+		{ "model": "conquest:block/broken_bed_frame_head1", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_head2", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_head3", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_head2", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_head3", "y": 270 },
+		{ "model": "conquest:block/broken_bed_frame_head1", "y": 270 } ],
+		
+		"facing=south,part=head": [
+		{ "model": "conquest:block/broken_bed_frame_head1" },
+		{ "model": "conquest:block/broken_bed_frame_head2" },
+		{ "model": "conquest:block/broken_bed_frame_head3" },
+		{ "model": "conquest:block/broken_bed_frame_head2" },
+		{ "model": "conquest:block/broken_bed_frame_head3" },
+		{ "model": "conquest:block/broken_bed_frame_head1" } ],
+		
+        "facing=west,part=head": [
+		{ "model": "conquest:block/broken_bed_frame_head1", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_head2", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_head3", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_head2", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_head3", "y": 90 },
+		{ "model": "conquest:block/broken_bed_frame_head1", "y": 90 } ]
+    }
+}

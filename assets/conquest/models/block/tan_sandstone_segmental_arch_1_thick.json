@@ -1,0 +1,10 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/block/obj/generic_segmental_arch_1_thick.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/1_basic_refined/1_stone/5_sandstone/tan_sandstone_brick_arch/arch",
+        "keystones": "conquest:block/1_basic_refined/1_stone/5_sandstone/tan_sandstone_brick_arch/keystones"
+    }
+}

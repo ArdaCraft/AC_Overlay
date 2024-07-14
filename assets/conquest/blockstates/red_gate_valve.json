@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "toggle=1,facing=south": { "model": "conquest:block/banquet_couch_red_raised", "y": 270 },
+        "toggle=1,facing=west": { "model": "conquest:block/banquet_couch_red_raised" },
+        "toggle=1,facing=north": { "model": "conquest:block/banquet_couch_red_raised", "y": 90 },
+        "toggle=1,facing=east": { "model": "conquest:block/banquet_couch_red_raised", "y": 180 },
+
+        "toggle=2,facing=south": { "model": "conquest:block/banquet_couch_red_pillow", "y": 270 },
+        "toggle=2,facing=west": { "model": "conquest:block/banquet_couch_red_pillow" },
+        "toggle=2,facing=north": { "model": "conquest:block/banquet_couch_red_pillow", "y": 90 },
+        "toggle=2,facing=east": { "model": "conquest:block/banquet_couch_red_pillow", "y": 180 },
+		
+        "toggle=3,facing=south": { "model": "conquest:block/banquet_couch_red_rug", "y": 270 },
+        "toggle=3,facing=west": { "model": "conquest:block/banquet_couch_red_rug" },
+        "toggle=3,facing=north": { "model": "conquest:block/banquet_couch_red_rug", "y": 90 },
+        "toggle=3,facing=east": { "model": "conquest:block/banquet_couch_red_rug", "y": 180 },
+
+        "toggle=4,facing=south": { "model": "conquest:block/banquet_couch_red_flat", "y": 270 },
+        "toggle=4,facing=west": { "model": "conquest:block/banquet_couch_red_flat" },
+        "toggle=4,facing=north": { "model": "conquest:block/banquet_couch_red_flat", "y": 90 },
+        "toggle=4,facing=east": { "model": "conquest:block/banquet_couch_red_flat", "y": 180 }
+    }
+}

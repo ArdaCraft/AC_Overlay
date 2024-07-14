@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "facing=east,light=0": { "model": "conquest:block/candle_lantern_wall_iron", "y": 180 },
+        "facing=south,light=0": { "model": "conquest:block/candle_lantern_wall_iron", "y": 270 },
+        "facing=west,light=0": { "model": "conquest:block/candle_lantern_wall_iron" },
+        "facing=north,light=0": { "model": "conquest:block/candle_lantern_wall_iron", "y": 90 },
+        "facing=up,light=0": [{ "model": "conquest:block/candle_lantern_ground_iron" }, { "model": "conquest:block/candle_lantern_ground_iron", "y":90 }, { "model": "conquest:block/candle_lantern_ground_iron", "y":180 }, { "model": "conquest:block/candle_lantern_ground_iron", "y":270 }],
+        "facing=down,light=0": [{ "model": "conquest:block/candle_lantern_hanging_iron" }, { "model": "conquest:block/candle_lantern_hanging_iron", "y":90 }, { "model": "conquest:block/candle_lantern_hanging_iron", "y":180 }, { "model": "conquest:block/candle_lantern_hanging_iron", "y":270 }],
+
+        "facing=east,light=1": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 180 },
+        "facing=south,light=1": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 270 },
+        "facing=west,light=1": { "model": "conquest:block/candle_lantern_wall_iron_lit" },
+        "facing=north,light=1": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 90 },
+        "facing=up,light=1": [{ "model": "conquest:block/candle_lantern_ground_iron_lit" }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":90 }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":180 }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":270 }],
+        "facing=down,light=1": [{ "model": "conquest:block/candle_lantern_hanging_iron_lit" }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":90 }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":180 }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":270 }],
+
+        "facing=east,light=2": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 180 },
+        "facing=south,light=2": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 270 },
+        "facing=west,light=2": { "model": "conquest:block/candle_lantern_wall_iron_lit" },
+        "facing=north,light=2": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 90 },
+        "facing=up,light=2": [{ "model": "conquest:block/candle_lantern_ground_iron_lit" }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":90 }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":180 }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":270 }],
+        "facing=down,light=2": [{ "model": "conquest:block/candle_lantern_hanging_iron_lit" }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":90 }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":180 }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":270 }],
+
+        "facing=east,light=3": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 180 },
+        "facing=south,light=3": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 270 },
+        "facing=west,light=3": { "model": "conquest:block/candle_lantern_wall_iron_lit" },
+        "facing=north,light=3": { "model": "conquest:block/candle_lantern_wall_iron_lit", "y": 90 },
+        "facing=up,light=3": [{ "model": "conquest:block/candle_lantern_ground_iron_lit" }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":90 }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":180 }, { "model": "conquest:block/candle_lantern_ground_iron_lit", "y":270 }],
+        "facing=down,light=3": [{ "model": "conquest:block/candle_lantern_hanging_iron_lit" }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":90 }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":180 }, { "model": "conquest:block/candle_lantern_hanging_iron_lit", "y":270 }]
+    }
+}
