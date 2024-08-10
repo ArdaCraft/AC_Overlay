@@ -1,5 +1,5 @@
 {
-	"parent": "conquest:block/templates/parent_boards",
+	"parent": "conquest:block/templates/parent_boards_vertical",
 	"textures": {
 		"particle": "conquest:block/1_basic_refined/3_wood/red_acacia_wood_planks"
 	}
