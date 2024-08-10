@@ -1,0 +1,18 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+      "parent": "conquest:block/dead_deciduous_branches"
+  },
+  "perspectives": {
+      "gui": {
+          "parent": "conquest:item/dead_deciduous_branches_inv"
+      },
+      "ground": {
+          "parent": "conquest:item/dead_deciduous_branches_inv"
+      },
+      "textures": {
+          "layer0": "conquest:block/9_organic/2_leaves/dead_deciduous_branches_1",
+          "particle": "conquest:block/9_organic/2_leaves/dead_deciduous_branches_1"
+      }
+  }
+}

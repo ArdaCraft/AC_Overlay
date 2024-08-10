@@ -1,7 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["conquest:lush_grass"],
-    "yVariance": "4",
-    "yoffset": "0",
-    "source": "./lush_grass.png"
-}

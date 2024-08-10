@@ -1,6 +1,0 @@
-{
-	"parent": "conquest:block/floor_boards/template_board_upper_vertical",
-	"textures": {
-		"0": "conquest:block/2_advanced_refined/7_wood/1_painted/weathered_orange_painted_planks"
-	}
-}

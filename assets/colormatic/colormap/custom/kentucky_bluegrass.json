@@ -1,7 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["conquest:kentucky_bluegrass"],
-    "yVariance": "4",
-    "yoffset": "0",
-    "source": "./kentucky_bluegrass.png"
-}

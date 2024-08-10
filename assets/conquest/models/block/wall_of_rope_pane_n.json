@@ -1,1 +1,17 @@
-{"credit":"Made with Blockbench","textures":{"particle":"conquest:block/2_advanced_refined/7_wood/rope_wrapped_around_log","texture":"conquest:block/3_decoration/empty_line"},"elements":[{"from":[8,0,0],"to":[8.001,16,10],"faces":{"east":{"uv":[6,0,16,16],"texture":"#texture"},"west":{"uv":[16,0,6,16],"texture":"#texture"}}}]}
+{
+"textures": {
+    "particle": "conquest:block/3_decoration/empty_line",
+    "bars": "conquest:block/3_decoration/empty_line",
+    "edge": "conquest:block/3_decoration/empty_line"
+},
+"elements": [ 
+{
+    "from": [ 8, 0, 0 ],
+    "to": [ 8.0625, 16, 8 ],
+    "faces": {
+        "west":  { "uv": [ 8, 0, 16, 16 ], "texture": "#bars" },
+        "east":  { "uv": [ 8, 0, 16, 16 ], "texture": "#bars" }
+    }
+}
+]
+}

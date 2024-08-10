@@ -1,7 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["minecraft:fern", "conquest:fern", "conquest:jungle_ground_cover", "conquest:large_fern", "minecraft:large_fern"],
-    "yVariance": "4",
-    "yoffset": "0",
-    "source": "./bracken.png"
-}

@@ -1,0 +1,111 @@
+{
+	"credit": "Designed by Jugbot with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+	"parent": "block/block",
+	"textures": {
+		"texture": "conquest:block/1_basic_refined/3_wood/tarred_birch_wood_beam_top",
+		"particle": "conquest:block/1_basic_refined/3_wood/tarred_birch_wood_beam",
+		"down": "conquest:block/1_basic_refined/3_wood/tarred_birch_wood_beam"
+	},
+	"elements": [
+		{
+			"name": "fence_slant",
+			"from": [13, -9.5, 10.5],
+			"to": [16, -8, 13.5],
+			"faces": {
+				"north": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"east": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"south": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"west": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"down": {"uv": [6, 6.5, 9, 9.5], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "fence_slant",
+			"from": [13.5, 6, 8],
+			"to": [15.5, 8, 19.3137],
+			"rotation": {"angle": 45, "axis": "x", "origin": [13.5, 8, 8]},
+			"faces": {
+				"east": {"uv": [4.5, 0, 6.5, 11], "rotation": 90, "texture": "#down"},
+				"south": {"uv": [6.5, 7, 8.5, 9], "texture": "#texture"},
+				"west": {"uv": [4.5, 5, 6.5, 16], "rotation": 90, "texture": "#down"},
+				"up": {"uv": [4.5, 0, 6.5, 11], "texture": "#down"},
+				"down": {"uv": [4.5, 5, 6.5, 16], "texture": "#down"}
+			}
+		},
+		{
+			"name": "fence_slant",
+			"from": [13.5, 14, 0],
+			"to": [15.5, 16, 11.3137],
+			"rotation": {"angle": 45, "axis": "x", "origin": [13.5, 16, 0]},
+			"faces": {
+				"north": {"uv": [6.5, 7, 8.5, 9], "texture": "#texture"},
+				"east": {"uv": [4.5, 5, 6.5, 16], "rotation": 90, "texture": "#down"},
+				"west": {"uv": [4.5, 0, 6.5, 11], "rotation": 90, "texture": "#down"},
+				"up": {"uv": [4.5, 5, 6.5, 16], "texture": "#down"},
+				"down": {"uv": [4.5, 5, 6.5, 16], "texture": "#down"}
+			}
+		},
+		{
+			"name": "fence_slant",
+			"from": [13.5, -0.5, 8],
+			"to": [15.5, 1.5, 19.3137],
+			"rotation": {"angle": 45, "axis": "x", "origin": [13.5, 1.5, 8]},
+			"faces": {
+				"east": {"uv": [4.5, 0, 6.5, 11], "rotation": 90, "texture": "#down"},
+				"south": {"uv": [6.5, 7, 8.5, 9], "texture": "#texture"},
+				"west": {"uv": [4.5, 5, 6.5, 16], "rotation": 90, "texture": "#down"},
+				"up": {"uv": [4.5, 0, 6.5, 11], "texture": "#down"},
+				"down": {"uv": [4.5, 5, 6.5, 16], "texture": "#down"}
+			}
+		},
+		{
+			"name": "fence_slant",
+			"from": [13.5, 7.5, 0],
+			"to": [15.5, 9.5, 11.3137],
+			"rotation": {"angle": 45, "axis": "x", "origin": [13.5, 9.5, 0]},
+			"faces": {
+				"north": {"uv": [6.5, 7, 8.5, 9], "texture": "#texture"},
+				"east": {"uv": [4.5, 5, 6.5, 16], "rotation": 90, "texture": "#down"},
+				"west": {"uv": [4.5, 0, 6.5, 11], "rotation": 90, "texture": "#down"},
+				"up": {"uv": [4.5, 5, 6.5, 16], "texture": "#down"},
+				"down": {"uv": [4.5, 5, 6.5, 16], "texture": "#down"}
+			}
+		},
+		{
+			"name": "fence_slant",
+			"from": [13, -8, 10.5],
+			"to": [16, 8, 13.5],
+			"faces": {
+				"north": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"east": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"south": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"west": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"up": {"uv": [6, 6.5, 9, 9.5], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "fence_slant",
+			"from": [13, -1.5, 2.5],
+			"to": [16, 0, 5.5],
+			"faces": {
+				"north": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"east": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"south": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"west": {"uv": [7, 1.5, 10, 0], "texture": "#down"},
+				"down": {"uv": [6, 6.5, 9, 9.5], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "fence_slant",
+			"from": [13, 0, 2.5],
+			"to": [16, 16, 5.5],
+			"faces": {
+				"north": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"east": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"south": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"west": {"uv": [7, 16, 10, 0], "texture": "#down"},
+				"up": {"uv": [6, 6.5, 9, 9.5], "texture": "#texture"}
+			}
+		}
+	]
+}

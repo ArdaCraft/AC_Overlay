@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "conquest:block/9_organic/2_leaves/white_poplar_leaves_1"
+  },
+  "gui_light": "front"
+}

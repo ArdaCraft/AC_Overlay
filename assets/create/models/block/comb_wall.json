@@ -1,0 +1,72 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "create:xone/comb",
+		"comb": "create:xone/comb"
+	},
+	"elements": [
+		{
+			"from": [3, 0.025, 1],
+			"to": [13, 1.475, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2.725, -8]},
+			"faces": {
+				"north": {"uv": [3, 14.5, 13, 15.95], "texture": "#comb"},
+				"south": {"uv": [3, 14.5, 13, 15.95], "texture": "#comb"},
+				"up": {"uv": [3, 13.5, 13, 14.5], "texture": "#comb"},
+				"down": {"uv": [3, 13.5, 13, 14.5], "texture": "#comb"}
+			}
+		},
+		{
+			"from": [3.25, 1.475, 1.5],
+			"to": [12.75, 7.475, 1.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2.775, -8]},
+			"faces": {
+				"north": {"uv": [3.5, 7.5, 13, 13.5], "texture": "#comb"},
+				"south": {"uv": [3.5, 7.5, 13, 13.5], "texture": "#comb"}
+			}
+		},
+		{
+			"from": [2.5, 0, 1],
+			"to": [3.5, 1.5, 2],
+			"rotation": {"angle": 45, "axis": "y", "origin": [3, -1.25, 1.5]},
+			"faces": {
+				"north": {"uv": [15, 13.5, 16, 15], "texture": "#comb"},
+				"east": {"uv": [15, 13.5, 16, 15], "texture": "#comb"},
+				"south": {"uv": [15, 13.5, 16, 15], "texture": "#comb"},
+				"west": {"uv": [15, 13.5, 16, 15], "texture": "#comb"},
+				"up": {"uv": [15, 12.5, 16, 13.5], "texture": "#comb"},
+				"down": {"uv": [15, 12.5, 16, 13.5], "texture": "#comb"}
+			}
+		},
+		{
+			"from": [12.5, 0, 1],
+			"to": [13.5, 1.5, 2],
+			"rotation": {"angle": 45, "axis": "y", "origin": [13, -1.25, 1.5]},
+			"faces": {
+				"north": {"uv": [0, 13.5, 1, 15], "texture": "#comb"},
+				"east": {"uv": [0, 13.5, 1, 15], "texture": "#comb"},
+				"south": {"uv": [0, 13.5, 1, 15], "texture": "#comb"},
+				"west": {"uv": [0, 13.5, 1, 15], "texture": "#comb"},
+				"up": {"uv": [0, 12.5, 1, 13.5], "texture": "#comb"},
+				"down": {"uv": [0, 12.5, 1, 13.5], "texture": "#comb"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-2, 0, 0],
+			"translation": [0, 0, -1.9],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "standing",
+			"origin": [13.5, 1.75, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

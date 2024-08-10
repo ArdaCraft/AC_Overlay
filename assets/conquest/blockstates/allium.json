@@ -1,0 +1,92 @@
+{
+    "variants": {
+        "layers=1": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_1_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_1_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_1_c_2tall"
+            }
+        ],
+        "layers=2": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_2_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_2_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_2_c_2tall"
+            }
+        ],
+        "layers=3": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_3_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_3_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_3_c_2tall"
+            }
+        ],
+        "layers=4": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_4_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_4_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_4_c_2tall"
+            }
+        ],
+        "layers=5": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_5_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_5_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_5_c_2tall"
+            }
+        ],
+        "layers=6": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_6_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_6_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_6_c_2tall"
+            }
+        ],
+        "layers=7": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_7_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_7_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_7_c_2tall"
+            }
+        ],
+        "layers=8": [
+            {
+                "model": "conquest:block/allium_plant_dense_model_8_a_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_8_b_2tall"
+            },
+            {
+                "model": "conquest:block/allium_plant_dense_model_8_c_2tall"
+            }
+        ]
+    }
+}

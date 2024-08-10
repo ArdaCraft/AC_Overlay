@@ -1,5 +1,5 @@
 {
-	"loader": "forge:obj",
+	"loader": "porting_lib:obj",
 	"model": "conquest:models/block/obj/thick_diagonal_oak_branch_45_45.obj",
 	"ambientToFullbright": true,
 	"flip-v": true,

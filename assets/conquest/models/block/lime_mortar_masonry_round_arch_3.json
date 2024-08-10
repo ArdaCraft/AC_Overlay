@@ -1,0 +1,11 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/block/obj/smooth_round_arch_3.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/1_basic_refined/1_stone/lime_mortar_masonry_arch/arch",
+        "arch2": "conquest:block/1_basic_refined/1_stone/lime_mortar_masonry_arch/big_arch",
+        "keystones": "conquest:block/1_basic_refined/1_stone/lime_mortar_masonry_arch/keystones"
+    }
+}

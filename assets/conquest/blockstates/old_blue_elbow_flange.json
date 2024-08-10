@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "toggle=1,facing=south": { "model": "conquest:block/wicker_chest", "y": 180 },
+        "toggle=1,facing=west": { "model": "conquest:block/wicker_chest", "y": 270 },
+        "toggle=1,facing=north": { "model": "conquest:block/wicker_chest" },
+        "toggle=1,facing=east": { "model": "conquest:block/wicker_chest", "y": 90 },
+
+        "toggle=2,facing=south": { "model": "conquest:block/wicker_chest", "y": 180, "xoffset": -4 },
+        "toggle=2,facing=west": { "model": "conquest:block/wicker_chest", "y": 270, "zoffset": -4 },
+        "toggle=2,facing=north": { "model": "conquest:block/wicker_chest", "xoffset": 4 },
+        "toggle=2,facing=east": { "model": "conquest:block/wicker_chest", "y": 90, "zoffset": 4 },
+
+        "toggle=3,facing=south": { "model": "conquest:block/wicker_chest", "y": 180, "xoffset": 4 },
+        "toggle=3,facing=west": { "model": "conquest:block/wicker_chest", "y": 270, "zoffset": 4 },
+        "toggle=3,facing=north": { "model": "conquest:block/wicker_chest", "xoffset": -4 },
+        "toggle=3,facing=east": { "model": "conquest:block/wicker_chest", "y": 90, "zoffset": -4 }
+    }
+}

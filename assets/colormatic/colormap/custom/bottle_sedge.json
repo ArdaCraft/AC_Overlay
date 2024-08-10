@@ -1,7 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["conquest:bottle_sedge"],
-    "yVariance": "4",
-    "yoffset": "0",
-    "source": "./bottle_sedge.png"
-}

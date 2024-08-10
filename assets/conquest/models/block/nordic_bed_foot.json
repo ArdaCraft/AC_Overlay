@@ -1,0 +1,13 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/nordic_bed_foot.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:xone/nordic_bed/bed_planks",
+        "bed_foot_side": "conquest:xone/nordic_bed/bed_foot_side",
+        "bed_head_side": "conquest:xone/nordic_bed/bed_head_side",
+        "bed_foot_top": "conquest:xone/nordic_bed/bed_foot_top"
+	},
+	"display": {}
+}

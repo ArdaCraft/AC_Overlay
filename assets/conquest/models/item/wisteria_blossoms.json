@@ -1,0 +1,18 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+      "parent": "conquest:block/wisteria_blossoms"
+  },
+  "perspectives": {
+      "gui": {
+          "parent": "conquest:item/wisteria_blossoms_inv"
+      },
+      "ground": {
+          "parent": "conquest:item/wisteria_blossoms_inv"
+      },
+      "textures": {
+          "layer0": "conquest:block/9_organic/2_leaves/wisteria_blossoms",
+          "particle": "conquest:block/9_organic/2_leaves/wisteria_blossoms"
+      }
+  }
+}

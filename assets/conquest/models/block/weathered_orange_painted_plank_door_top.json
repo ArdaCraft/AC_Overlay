@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"top_back": "conquest:xone/simple_wooden_door_back_top",
+		"particle": "conquest:xone/simple_wooden_door_top",
+		"top": "conquest:xone/simple_wooden_door_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [2, 16, 16],
+			"faces": {
+				"north": {"uv": [13.5, 0, 15.5, 16], "texture": "#top"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#top_back"},
+				"south": {"uv": [13.5, 0, 15.5, 16], "texture": "#top"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"up": {"uv": [0, 8.5, 16, 10.5], "rotation": 90, "texture": "#top"}
+			}
+		},
+		{
+			"from": [2, 7.5, 0],
+			"to": [3, 11, 16],
+			"faces": {
+				"north": {"uv": [1.5, 0, 2.5, 3.5], "texture": "#top"},
+				"east": {"uv": [0, 5, 16, 8.5], "texture": "#top_back"},
+				"south": {"uv": [1.5, 0, 2.5, 3.5], "texture": "#top"},
+				"up": {"uv": [0.5, 0, 1.5, 16], "texture": "#top"},
+				"down": {"uv": [0.5, 0, 1.5, 16], "texture": "#top"}
+			}
+		}
+	]
+}

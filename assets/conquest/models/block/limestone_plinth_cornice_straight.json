@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "conquest:block/travertine_plinth_cornice_straight",
+	"textures": {
+		"end": "block/stone",
+		"particle": "conquest:block/2_advanced_refined/1_stone/2_limestone/limestone_plinth",
+		"side": "conquest:block/2_advanced_refined/1_stone/2_limestone/limestone_plinth"
+	}
+}

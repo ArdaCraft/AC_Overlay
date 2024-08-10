@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "open=false,facing=south,half=top": { "model": "create:block/comb_center" },
+        "open=false,facing=west,half=top": { "model": "create:block/comb_center", "y": 90 },
+        "open=false,facing=north,half=top": { "model": "create:block/comb_center", "y": 180 },
+        "open=false,facing=east,half=top": { "model": "create:block/comb_center", "y": 270 },
+
+        "open=true,facing=south,half=top": { "model": "create:block/comb_wall" },
+        "open=true,facing=west,half=top": { "model": "create:block/comb_wall", "y": 90 },
+        "open=true,facing=north,half=top": { "model": "create:block/comb_wall", "y": 180 },
+        "open=true,facing=east,half=top": { "model": "create:block/comb_wall", "y": 270 },
+		
+        "open=false,facing=south,half=bottom": { "model": "create:block/comb_wood_center" },
+        "open=false,facing=west,half=bottom": { "model": "create:block/comb_wood_center", "y": 90 },
+        "open=false,facing=north,half=bottom": { "model": "create:block/comb_wood_center", "y": 180 },
+        "open=false,facing=east,half=bottom": { "model": "create:block/comb_wood_center", "y": 270 },
+
+        "open=true,facing=south,half=bottom": { "model": "create:block/comb_wood_wall" },
+        "open=true,facing=west,half=bottom": { "model": "create:block/comb_wood_wall", "y": 90 },
+        "open=true,facing=north,half=bottom": { "model": "create:block/comb_wood_wall", "y": 180 },
+        "open=true,facing=east,half=bottom": { "model": "create:block/comb_wood_wall", "y": 270 }
+    }
+}

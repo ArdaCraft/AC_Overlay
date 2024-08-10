@@ -44,5 +44,11 @@
 				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
 			}
 		}
-	]
+	],
+	"display": {
+		"fixed": {
+			"translation": [-10, 0, -2],
+			"scale": [2, 2, 2]
+		}
+	}
 }

@@ -1,0 +1,26 @@
+{
+	"loader": "porting_lib:obj",
+	"parent": "block/block",
+	"model": "conquest:models/obj/bronze_lantern_ground.obj",
+	"ambientToFullbright": true,
+	"flip-v": true,
+	"textures": {
+		"lantern": "conquest:xone/bronze_lantern",
+		"particle": "conquest:xone/bronze_lantern_top",
+		"chain": "conquest:xone/small_bronze_chains"
+	},
+	"display": {
+		"fixed": {
+			"translation": [
+				0,
+				0,
+				-6
+			],
+			"scale": [
+				2,
+				2,
+				2
+			]
+		}
+	}
+}

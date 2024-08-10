@@ -1,0 +1,18 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+      "parent": "conquest:block/bright_autumnal_weeping_willow_leaves"
+  },
+  "perspectives": {
+      "gui": {
+          "parent": "conquest:item/bright_autumnal_weeping_willow_leaves_inv"
+      },
+      "ground": {
+          "parent": "conquest:item/bright_autumnal_weeping_willow_leaves_inv"
+      },
+      "textures": {
+          "layer0": "conquest:block/9_organic/2_leaves/bright_autumnal_willow_cross_leaves",
+          "particle": "conquest:block/9_organic/2_leaves/bright_autumnal_willow_cross_leaves"
+      }
+  }
+}

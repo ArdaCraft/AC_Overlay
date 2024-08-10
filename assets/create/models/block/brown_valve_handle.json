@@ -1,0 +1,17 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/smooth_log_seat.obj",
+	"parent": "block/block",
+    "ambientToFullbright": true,
+    "flip-v": true,
+	"textures": {
+		"top": "create:xone/smooth_log_seat_top",
+		"particle": "create:xone/smooth_log_seat"
+	},
+	"display": {
+		"fixed": {
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	}
+}

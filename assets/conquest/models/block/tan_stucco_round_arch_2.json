@@ -1,0 +1,11 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/block/obj/smooth_round_arch_2.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/2_advanced_refined/3_plaster/orange_stucco",
+        "keystones": "conquest:block/2_advanced_refined/3_plaster/orange_stucco",
+        "arch2": "conquest:block/2_advanced_refined/3_plaster/orange_stucco"
+    }
+}

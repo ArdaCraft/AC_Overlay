@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "toggle=1,facing=south": { "model": "conquest:block/small_barrel_stand", "y": 180 },
+        "toggle=1,facing=west": { "model": "conquest:block/small_barrel_stand", "y": 270 },
+        "toggle=1,facing=north": { "model": "conquest:block/small_barrel_stand" },
+        "toggle=1,facing=east": { "model": "conquest:block/small_barrel_stand", "y": 90 },
+
+        "toggle=2,facing=south": { "model": "conquest:block/tall_round_barrel_stand", "y": 180 },
+        "toggle=2,facing=west": { "model": "conquest:block/tall_round_barrel_stand", "y": 270 },
+        "toggle=2,facing=north": { "model": "conquest:block/tall_round_barrel_stand" },
+        "toggle=2,facing=east": { "model": "conquest:block/tall_round_barrel_stand", "y": 90 }
+    }
+}

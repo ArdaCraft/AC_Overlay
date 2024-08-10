@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "toggle=1,facing=east": { "model": "conquest:block/kettle", "y": 270 },
+        "toggle=1,facing=south":{ "model": "conquest:block/kettle" },
+        "toggle=1,facing=west": { "model": "conquest:block/kettle", "y": 90 },
+        "toggle=1,facing=north":{ "model": "conquest:block/kettle", "y": 180 },
+        "toggle=2,facing=east": { "model": "conquest:block/kettle_open", "y": 270 },
+        "toggle=2,facing=south":{ "model": "conquest:block/kettle_open" },
+        "toggle=2,facing=west": { "model": "conquest:block/kettle_open", "y": 90 },
+        "toggle=2,facing=north":{ "model": "conquest:block/kettle_open", "y": 180 },
+        "toggle=3,facing=east": { "model": "conquest:block/kettle_cups", "y": 270 },
+        "toggle=3,facing=south":{ "model": "conquest:block/kettle_cups" },
+        "toggle=3,facing=west": { "model": "conquest:block/kettle_cups", "y": 90 },
+        "toggle=3,facing=north":{ "model": "conquest:block/kettle_cups", "y": 180 }
+    }
+}

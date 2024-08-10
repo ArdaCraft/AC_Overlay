@@ -1,5 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "xone/dwarven_chair",
+		"5": "block/granite",
+		"particle": "xone/dwarven_chair"
+	},
 	"elements": [
 		{
 			"from": [0, 0, 0],

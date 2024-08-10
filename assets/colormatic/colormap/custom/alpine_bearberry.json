@@ -1,7 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["conquest:alpine_bearberry"],
-    "yVariance": "4",
-    "yoffset": "0",
-    "source": "./alpine_bearberry.png"
-}
