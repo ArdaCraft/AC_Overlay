@@ -1,0 +1,18 @@
+{
+    "loader": "forge:separate_transforms",
+    "base": {
+        "parent": "conquest:block/diseased_horse_chestnut_leaves"
+    },
+    "perspectives": {
+        "gui": {
+            "parent": "conquest:item/diseased_horse_chestnut_leaves_inv"
+        },
+        "ground": {
+            "parent": "conquest:item/diseased_horse_chestnut_leaves_inv"
+        },
+        "textures": {
+            "layer0": "conquest:block/9_organic/2_leaves/diseased_horse_chestnut_leaves",
+            "particle": "conquest:block/9_organic/2_leaves/diseased_horse_chestnut_leaves"
+        }
+    }
+  }

@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/templates/parent_boards_half_extended",
+	"textures": {
+		"particle": "conquest:block/1_basic_refined/3_wood/spruce/spruce_platform_top"
+	}
+}

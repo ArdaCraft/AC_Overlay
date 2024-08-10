@@ -1,0 +1,11 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/bronze_lantern_hanging.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+	"textures": {
+		"lantern": "conquest:xone/bronze_lantern_lit",
+		"particle": "conquest:xone/bronze_lantern_top_lit",
+		"chain": "conquest:xone/small_bronze_chains"
+	}
+}

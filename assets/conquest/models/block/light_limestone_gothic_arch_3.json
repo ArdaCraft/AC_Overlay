@@ -1,0 +1,11 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/block/obj/generic_gothic_arch_3.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:xone/byzan_arch3/arch",
+        "arch2": "conquest:xone/byzan_arch3/big_arch",
+        "keystones": "conquest:xone/byzan_arch3/keystones"
+    }
+}

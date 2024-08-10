@@ -1,0 +1,8 @@
+{
+  "parent": "conquest:block/templates/parent_window_small_half_updown",
+  "textures": {
+    "bottom": "conquest:block/2_advanced_refined/1_stone/5_sandstone/sandstone_frieze",
+    "side": "conquest:block/2_advanced_refined/1_stone/5_sandstone/sandstone_frieze",
+    "top": "conquest:block/2_advanced_refined/1_stone/5_sandstone/sandstone_frieze"
+  }
+}

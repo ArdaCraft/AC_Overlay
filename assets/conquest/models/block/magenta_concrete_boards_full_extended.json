@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/templates/parent_boards_full_extended_vertical",
+	"textures": {
+		"particle": "minecraft:block/magenta_concrete"
+	}
+}

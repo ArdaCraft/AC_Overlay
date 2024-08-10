@@ -1,0 +1,32 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/bucket.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+	"parent": "block/block",
+    "textures": {
+		"outer": "conquest:block/3_decoration/3_wood/bucket",
+		"inner": "conquest:block/3_decoration/3_wood/bucket_inner",
+		"base": "conquest:block/3_decoration/3_wood/bucket_bottom",
+		"particle": "conquest:block/3_decoration/3_wood/bucket_bottom"
+	},
+	"display": {
+		"ground": {
+			"translation": [0, 4.1739, 0]
+		},
+		"gui": {
+			"rotation": [34, 22, 0],
+			"translation": [0, 1.3919, 13.217],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"rotation": [-163, -7, -6],
+			"translation": [0.0023, -1.387, 0],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"fixed": {
+			"translation": [0, 0, -12],
+			"scale": [2, 2, 2]
+		}
+	}
+}

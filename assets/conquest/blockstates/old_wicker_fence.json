@@ -1,0 +1,189 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model":"conquest:block/old_wicker_fence_nsew"
+  },
+  "variants": {
+    "layers=8,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post" },
+
+    "layers=8,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n" },
+    "layers=8,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n", "y": 90 },
+    "layers=8,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n", "y": 180 },
+    "layers=8,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n", "y": 270 },
+
+    "layers=8,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne" },
+    "layers=8,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne", "y": 90 },
+    "layers=8,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne", "y": 180 },
+    "layers=8,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne", "y": 270 },
+
+    "layers=8,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns" },
+    "layers=8,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns", "y": 90 },
+
+    "layers=8,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse" },
+    "layers=8,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse", "y": 90 },
+    "layers=8,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse", "y": 180 },
+    "layers=8,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse", "y": 270 },
+
+    "layers=8,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew" },
+
+
+    "layers=7,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -2 },
+
+    "layers=7,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_7" },
+    "layers=7,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_7", "y": 90 },
+    "layers=7,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n_7", "y": 180 },
+    "layers=7,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n_7", "y": 270 },
+
+    "layers=7,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne_7" },
+    "layers=7,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne_7", "y": 90 },
+    "layers=7,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne_7", "y": 180 },
+    "layers=7,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne_7", "y": 270 },
+
+    "layers=7,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns_7" },
+    "layers=7,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns_7", "y": 90 },
+
+    "layers=7,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse_7" },
+    "layers=7,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_7", "y": 90 },
+    "layers=7,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_7", "y": 180 },
+    "layers=7,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse_7", "y": 270 },
+
+    "layers=7,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew_7" },
+
+
+    "layers=6,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -4 },
+
+    "layers=6,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_6" },
+    "layers=6,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_6", "y": 90 },
+    "layers=6,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n_6", "y": 180 },
+    "layers=6,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n_6", "y": 270 },
+
+    "layers=6,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne_6" },
+    "layers=6,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne_6", "y": 90 },
+    "layers=6,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne_6", "y": 180 },
+    "layers=6,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne_6", "y": 270 },
+
+    "layers=6,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns_6" },
+    "layers=6,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns_6", "y": 90 },
+
+    "layers=6,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse_6" },
+    "layers=6,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_6", "y": 90 },
+    "layers=6,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_6", "y": 180 },
+    "layers=6,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse_6", "y": 270 },
+
+    "layers=6,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew_6" },
+
+    "layers=5,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -6 },
+
+    "layers=5,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_5" },
+    "layers=5,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_5", "y": 90 },
+    "layers=5,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n_5", "y": 180 },
+    "layers=5,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n_5", "y": 270 },
+
+    "layers=5,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne_5" },
+    "layers=5,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne_5", "y": 90 },
+    "layers=5,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne_5", "y": 180 },
+    "layers=5,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne_5", "y": 270 },
+
+    "layers=5,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns_5" },
+    "layers=5,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns_5", "y": 90 },
+
+    "layers=5,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse_5" },
+    "layers=5,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_5", "y": 90 },
+    "layers=5,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_5", "y": 180 },
+    "layers=5,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse_5", "y": 270 },
+
+    "layers=5,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew_5" },
+
+
+    "layers=4,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -8 },
+
+    "layers=4,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_4" },
+    "layers=4,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_4", "y": 90 },
+    "layers=4,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n_4", "y": 180 },
+    "layers=4,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n_4", "y": 270 },
+
+    "layers=4,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne_4" },
+    "layers=4,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne_4", "y": 90 },
+    "layers=4,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne_4", "y": 180 },
+    "layers=4,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne_4", "y": 270 },
+
+    "layers=4,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns_4" },
+    "layers=4,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns_4", "y": 90 },
+
+    "layers=4,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse_4" },
+    "layers=4,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_4", "y": 90 },
+    "layers=4,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_4", "y": 180 },
+    "layers=4,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse_4", "y": 270 },
+
+    "layers=4,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew_4" },
+
+
+    "layers=3,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -10 },
+
+    "layers=3,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_3" },
+    "layers=3,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_3", "y": 90 },
+    "layers=3,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n_3", "y": 180 },
+    "layers=3,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n_3", "y": 270 },
+
+    "layers=3,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne_3" },
+    "layers=3,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne_3", "y": 90 },
+    "layers=3,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne_3", "y": 180 },
+    "layers=3,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne_3", "y": 270 },
+
+    "layers=3,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns_3" },
+    "layers=3,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns_3", "y": 90 },
+
+    "layers=3,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse_3" },
+    "layers=3,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_3", "y": 90 },
+    "layers=3,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_3", "y": 180 },
+    "layers=3,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse_3", "y": 270 },
+
+    "layers=3,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew_3" },
+
+
+    "layers=2,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -12 },
+
+    "layers=2,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_2" },
+    "layers=2,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_2", "y": 90 },
+    "layers=2,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n_2", "y": 180 },
+    "layers=2,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n_2", "y": 270 },
+
+    "layers=2,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne_2" },
+    "layers=2,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne_2", "y": 90 },
+    "layers=2,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne_2", "y": 180 },
+    "layers=2,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne_2", "y": 270 },
+
+    "layers=2,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns_2" },
+    "layers=2,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns_2", "y": 90 },
+
+    "layers=2,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse_2" },
+    "layers=2,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_2", "y": 90 },
+    "layers=2,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_2", "y": 180 },
+    "layers=2,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse_2", "y": 270 },
+
+    "layers=2,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew_2" },
+
+
+    "layers=1,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -14 },
+
+    "layers=1,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_1" },
+    "layers=1,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_n_1", "y": 90 },
+    "layers=1,east=false,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_n_1", "y": 180 },
+    "layers=1,east=false,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_n_1", "y": 270 },
+
+    "layers=1,east=true,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_ne_1" },
+    "layers=1,east=true,north=false,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ne_1", "y": 90 },
+    "layers=1,east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne_1", "y": 180 },
+    "layers=1,east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne_1", "y": 270 },
+
+    "layers=1,east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns_1" },
+    "layers=1,east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns_1", "y": 90 },
+
+    "layers=1,east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse_1" },
+    "layers=1,east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_1", "y": 90 },
+    "layers=1,east=false,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse_1", "y": 180 },
+    "layers=1,east=true,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_nse_1", "y": 270 },
+
+    "layers=1,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nsew_1" }
+  }
+}

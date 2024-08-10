@@ -1,0 +1,20 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/nordic_bed_item.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+	"parent": "block/block",
+    "textures": {
+        "particle": "conquest:xone/nordic_bed/bed_planks",
+        "bed_foot_side": "conquest:xone/nordic_bed/bed_foot_side",
+        "bed_head_side": "conquest:xone/nordic_bed/bed_head_side",
+        "bed_head_top": "conquest:xone/nordic_bed/bed_head_top",
+        "bed_foot_top": "conquest:xone/nordic_bed/bed_foot_top"
+	},
+	"display": {
+		"gui": {
+			"rotation": [30, 160, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

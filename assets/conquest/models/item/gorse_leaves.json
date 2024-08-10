@@ -1,0 +1,18 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+      "parent": "conquest:block/gorse_leaves"
+  },
+  "perspectives": {
+      "gui": {
+          "parent": "conquest:item/gorse_leaves_inv"
+      },
+      "ground": {
+          "parent": "conquest:item/gorse_leaves_inv"
+      },
+      "textures": {
+          "layer0": "conquest:block/9_organic/2_leaves/gorse_leaves_1",
+          "particle": "conquest:block/9_organic/2_leaves/gorse_leaves_1"
+      }
+  }
+}

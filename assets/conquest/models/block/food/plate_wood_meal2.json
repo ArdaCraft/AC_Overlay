@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/food/plate_template",
+	"textures": {
+        "plate": "xone/plate_wood",
+        "food": "xone/plate_wood_meal2"
+	}
+}

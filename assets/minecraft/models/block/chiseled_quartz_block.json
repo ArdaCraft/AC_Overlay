@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "conquest:block/1_basic_refined/1_stone/4_marble/travertine_slab_topbottom",
+    "side": "minecraft:block/chiseled_quartz_block"
+  }
+}

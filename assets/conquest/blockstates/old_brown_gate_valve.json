@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "toggle=1,facing=south": { "model": "conquest:block/basket_big_covered", "y": 270 },
+        "toggle=1,facing=west": { "model": "conquest:block/basket_big_covered" },
+        "toggle=1,facing=north": { "model": "conquest:block/basket_big_covered", "y": 90 },
+        "toggle=1,facing=east": { "model": "conquest:block/basket_big_covered", "y": 180 },
+
+        "toggle=2,facing=south": { "model": "conquest:block/basket_big", "y": 270 },
+        "toggle=2,facing=west": { "model": "conquest:block/basket_big" },
+        "toggle=2,facing=north": { "model": "conquest:block/basket_big", "y": 90 },
+        "toggle=2,facing=east": { "model": "conquest:block/basket_big", "y": 180 },
+		
+        "toggle=3,facing=west": { "model": "conquest:block/basket_small_covered", "y": 270 },
+        "toggle=3,facing=south": { "model": "conquest:block/basket_small_covered" },
+        "toggle=3,facing=east": { "model": "conquest:block/basket_small_covered", "y": 90 },
+        "toggle=3,facing=north": { "model": "conquest:block/basket_small_covered", "y": 180 },
+
+        "toggle=4,facing=west": { "model": "conquest:block/basket_small", "y": 270 },
+        "toggle=4,facing=south": { "model": "conquest:block/basket_small" },
+        "toggle=4,facing=east": { "model": "conquest:block/basket_small", "y": 90 },
+        "toggle=4,facing=north": { "model": "conquest:block/basket_small", "y": 180 }
+    }
+}

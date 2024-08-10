@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "candles=1,lit=false": {
+      "model": "minecraft:block/beorn_candle"
+    },
+    "candles=1,lit=true": {
+      "model": "minecraft:block/beorn_candle_lit"
+    },
+    "candles=2,lit=false": {
+      "model": "minecraft:block/beorn_candle_two"
+    },
+    "candles=2,lit=true": {
+      "model": "minecraft:block/beorn_candle_two_lit"
+    },
+    "candles=3,lit=false": {
+      "model": "minecraft:block/beorn_candle_three"
+    },
+    "candles=3,lit=true": {
+      "model": "minecraft:block/beorn_candle_three_lit"
+    },
+    "candles=4,lit=false": {
+      "model": "minecraft:block/beorn_candle_four"
+    },
+    "candles=4,lit=true": {
+      "model": "minecraft:block/beorn_candle_four_lit"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/rope_hanging",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/rope_hanging"
+    },
+    "facing=south": {
+      "model": "minecraft:block/rope_hanging",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft:block/rope_hanging",
+      "y": 270
+    }
+  }
+}

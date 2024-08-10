@@ -1,0 +1,19 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/elven_hand_light_wall.obj",
+    "ambientToFullbright": true,
+	"ambientocclusion": false,
+    "flip-v": true,
+	"parent": "block/block",
+    "textures": {
+		"candle": "conquest:block/3_decoration/2_metal/candle_model_unlit",
+		"roof": "conquest:block/3_decoration/2_metal/elven_hand_light/elven_candle_roof",
+		"holder": "conquest:block/3_decoration/2_metal/elven_hand_light/elven_candle_holder",
+        "particle": "conquest:block/3_decoration/2_metal/elven_hand_light/elven_candle_roof"
+	},
+	"display": {
+		"gui": {
+			"rotation": [30, 45, 0]
+		}
+	}
+}

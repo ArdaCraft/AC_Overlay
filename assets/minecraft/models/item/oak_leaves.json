@@ -1,0 +1,19 @@
+{
+    "loader": "forge:separate_transforms",
+    "base": {
+        "parent": "block/oak_leaves"
+    },
+    "perspectives": {
+        "gui": {
+            "parent": "item/oak_leaves_inv"
+        },
+        "ground": {
+            "parent": "item/oak_leaves_inv"
+        },
+        "textures": {
+            "0": "block/oak_leaves_1",
+            "3": "block/oak_leaves_2",
+            "particle": "block/oak_leaves_1"
+        }
+    }
+}

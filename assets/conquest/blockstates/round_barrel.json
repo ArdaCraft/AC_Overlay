@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=east": { "model": "conquest:block/tall_round_barrel_side", "y": 90 },
+        "facing=south": { "model": "conquest:block/tall_round_barrel_side", "y": 180 },
+        "facing=west": { "model": "conquest:block/tall_round_barrel_side", "y": 270 },
+        "facing=north": { "model": "conquest:block/tall_round_barrel_side" },
+        "facing=up": { "model": "conquest:block/tall_round_barrel0" },
+        "facing=down": { "model": "conquest:block/tall_round_barrel0", "x": 180 }
+    }
+}

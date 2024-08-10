@@ -1,0 +1,181 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "conquest:block/4_furniture/3_wood/old_rustic_bed/old_rustic_bed_vertical",
+		"1": "conquest:block/4_furniture/3_wood/old_rustic_bed/old_rustic_bed_horizontal",
+		"3": "conquest:block/4_furniture/3_wood/old_rustic_bed/planks_oak_horizontal",
+		"4": "conquest:block/4_furniture/3_wood/old_rustic_bed/bed_head_top",
+		"5": "conquest:block/4_furniture/3_wood/old_rustic_bed/wool_bed",
+		"particle": "conquest:block/4_furniture/3_wood/old_rustic_bed/old_rustic_bed_vertical"
+	},
+	"elements": [
+		{
+			"name": "s1",
+			"from": [0, -1, 14],
+			"to": [3.5, 15, 17.5],
+			"faces": {
+				"north": {"uv": [3.5, 0, 7, 16], "texture": "#0"},
+				"east": {"uv": [8.5, 0, 12, 16], "texture": "#0"},
+				"south": {"uv": [3.5, 0, 7, 16], "texture": "#0"},
+				"west": {"uv": [9, 0, 12.5, 16], "texture": "#0"},
+				"up": {"uv": [5, 6, 8.5, 9.5], "texture": "#0"},
+				"down": {"uv": [5, 5, 8.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "s2",
+			"from": [12.5, -1, 14],
+			"to": [16, 15, 17.5],
+			"faces": {
+				"north": {"uv": [3, 0, 6.5, 16], "texture": "#0"},
+				"east": {"uv": [3.5, 0, 7, 16], "texture": "#0"},
+				"south": {"uv": [9, 0, 12.5, 16], "texture": "#0"},
+				"west": {"uv": [12.5, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [4, 8, 7.5, 11.5], "texture": "#0"},
+				"down": {"uv": [5, 4.5, 8.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bed_head_s1",
+			"from": [3.5, 3, 14],
+			"to": [6, 14, 16],
+			"faces": {
+				"north": {"uv": [3, 2, 5.5, 13], "texture": "#0"},
+				"east": {"uv": [9, 0, 11, 11], "texture": "#0"},
+				"south": {"uv": [9, 4, 11.5, 15], "texture": "#0"},
+				"west": {"uv": [5, 2, 7, 13], "texture": "#0"},
+				"up": {"uv": [9, 5, 11.5, 7], "texture": "#0"},
+				"down": {"uv": [9, 5, 12, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bed_head_s2",
+			"from": [3, 10.5, 15],
+			"to": [13, 12.5, 16.5],
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 13.5, 5.5], "texture": "#1"},
+				"south": {"uv": [2, 11, 12, 13], "texture": "#1"},
+				"up": {"uv": [0, 6, 10, 7.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 10, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "side_plank_1",
+			"from": [-0.5, 3.5, 0],
+			"to": [2.5, 6.5, 14.5],
+			"faces": {
+				"east": {"uv": [1, 12, 15.5, 15], "texture": "#1"},
+				"west": {"uv": [2, 10, 16.5, 13], "texture": "#1"},
+				"up": {"uv": [0, 4, 14.5, 7], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [16.5, 4, 2, 7], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "side_plank_2",
+			"from": [13.5, 3.5, 0],
+			"to": [16.5, 6.5, 14.5],
+			"faces": {
+				"east": {"uv": [1.5, 9, 16, 12], "texture": "#1"},
+				"west": {"uv": [0, 8.5, 14.5, 11.5], "texture": "#1"},
+				"up": {"uv": [0, 11, 14, 14], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [16, 5, 1.5, 8], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "decirative",
+			"from": [0.5, 15, 14.5],
+			"to": [3, 16, 17],
+			"faces": {
+				"north": {"uv": [11, 4.5, 13.5, 5.5], "texture": "#1"},
+				"east": {"uv": [7, 5, 9.5, 6], "texture": "#1"},
+				"south": {"uv": [5, 14, 7.5, 15], "texture": "#1"},
+				"west": {"uv": [10, 15, 12.5, 16], "texture": "#1"},
+				"up": {"uv": [8.5, 9, 11, 11.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "decorative",
+			"from": [13, 15, 14.5],
+			"to": [15.5, 16, 17],
+			"faces": {
+				"north": {"uv": [10, 10, 12.5, 11], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [9, 10, 11.5, 11], "texture": "#1"},
+				"south": {"uv": [6, 9, 8.5, 10], "texture": "#1"},
+				"west": {"uv": [8, 9, 10.5, 10], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [13.5, 4, 16, 6.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bed_top",
+			"from": [0, 5.5, 0],
+			"to": [16, 9.5, 14],
+			"faces": {
+				"north": {"uv": [4, -0.1, 0, 15.7], "rotation": 90, "texture": "#4"},
+				"east": {"uv": [0, 7, 14, 11], "rotation": 180, "texture": "#4"},
+				"south": {"uv": [10.5, 0, 14.5, 16], "rotation": 90, "texture": "#4"},
+				"west": {"uv": [0, 10, 14, 14], "texture": "#4"},
+				"up": {"uv": [0, 0, 14, 16], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [0, 1.5, 16, 15.5], "texture": "#3"}
+			}
+		},
+		{
+			"name": "head_planks",
+			"from": [0.5, 9.5, 9],
+			"to": [15.5, 11, 14],
+			"faces": {
+				"north": {"uv": [0.5, 10, 15.5, 11.5], "texture": "#5"},
+				"east": {"uv": [3.5, 0, 8.5, 1.5], "texture": "#5"},
+				"south": {"uv": [0.5, 0.5, 15.5, 2], "texture": "#5"},
+				"west": {"uv": [6, 11.5, 11, 13], "texture": "#5"},
+				"up": {"uv": [15.5, 0, 0.5, 5], "rotation": 180, "texture": "#5"}
+			}
+		},
+		{
+			"name": "head_planks",
+			"from": [10, 3, 14],
+			"to": [12.5, 14, 16],
+			"faces": {
+				"north": {"uv": [2, 0, 4.5, 11], "texture": "#0"},
+				"east": {"uv": [10, 2, 12, 13], "texture": "#0"},
+				"south": {"uv": [9, 2, 11.5, 13], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 13], "texture": "#0"},
+				"up": {"uv": [8, 5, 10.5, 7], "texture": "#0"},
+				"down": {"uv": [4, 1, 7, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "head_planks",
+			"from": [6.5, 3, 14],
+			"to": [9.5, 14, 16],
+			"faces": {
+				"north": {"uv": [9, 4, 12, 15], "texture": "#0"},
+				"east": {"uv": [10, 0, 12, 11], "texture": "#0"},
+				"south": {"uv": [10, 0, 13, 11], "texture": "#0"},
+				"west": {"uv": [5, 1, 7, 12], "texture": "#0"},
+				"up": {"uv": [9, 8, 12, 10], "texture": "#0"},
+				"down": {"uv": [9, 8, 12, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "head_planks",
+			"from": [-0.5, 3.5, 14.5],
+			"to": [16.5, 6.5, 16.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"east": {"uv": [0, 9, 2, 12], "texture": "#1"},
+				"south": {"uv": [0, 5, 16, 8], "texture": "#1"},
+				"west": {"uv": [5.5, 5, 7.5, 8], "texture": "#1"},
+				"up": {"uv": [0, 12, 16, 14], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "head",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+		}
+	]
+}
