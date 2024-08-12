@@ -1,6 +1,19 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "block/azalea_leaves_1"
+    "loader": "forge:separate_transforms",
+    "base": {
+        "parent": "block/azalea_leaves"
+    },
+    "perspectives": {
+        "gui": {
+            "parent": "item/azalea_leaves_inv"
+        },
+        "ground": {
+            "parent": "item/azalea_leaves_inv"
+        },
+        "textures": {
+            "0": "block/azalea_leaves_1",
+            "3": "block/azalea_leaves_2",
+            "particle": "block/azalea_leaves_1"
+        }
     }
 }

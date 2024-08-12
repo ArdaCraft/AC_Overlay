@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_shallow_diagonal_beam_middle1",
+  "textures": {
+    "end": "minecraft:block/stripped_cherry_log",
+    "side": "minecraft:block/stripped_cherry_log"
+  }
+}

@@ -13,11 +13,20 @@
             "items": [
                 "minecraft:wooden_axe",
                 "minecraft:debug_stick",
+                "paintbrush:paintbrush",
+                "paintbrush:paint_knife",
                 "minecraft:light",
                 "minecraft:water_bucket",
                 {
                     "id": "minecraft:item_frame",
-                    "tag": "Invisible:1b"
+                    "tag": {
+                        "EntityTag": {
+                            "Invisible": true
+                        },
+                        "display": {
+                            "Name": "{\"text\":\"Invisible Item Frame\",\"color\":\"aqua\",\"italic\": false}"
+                        }
+                    }
                 },
                 "minecraft:barrier",
                 "conquest:invisible_block_stairs",
@@ -51,6 +60,6 @@
         }
     ],
     "icon": {
-        "id": "debug_stick"
+        "id": "paintbrush:paintbrush"
     }
 }

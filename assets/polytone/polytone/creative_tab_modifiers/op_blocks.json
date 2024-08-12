@@ -15,7 +15,8 @@
                 "minecraft:chain_command_block",
                 "minecraft:repeating_command_block",
                 "minecraft:jigsaw",
-                "minecraft:structure_block"
+                "minecraft:structure_block",
+                "ardapaths:path_marker"
             ]
         }
     ],

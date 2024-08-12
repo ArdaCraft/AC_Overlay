@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_diagonal_beam_corner",
+  "textures": {
+    "end": "minecraft:block/stripped_acacia_log",
+    "side": "minecraft:block/stripped_acacia_log"
+  }
+}
