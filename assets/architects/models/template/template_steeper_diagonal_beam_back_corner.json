@@ -1,0 +1,10 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "architects:models/obj/steeper_diagonal_beam_back_corner.obj",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "#side"
+	},
+	"render_type": "minecraft:cutout"
+}

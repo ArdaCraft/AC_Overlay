@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "conquest:block/3_decoration/3_wood/wooden_washing_tub/wooden_washing_tub_water",
+		"particle": "conquest:block/3_decoration/3_wood/wooden_washing_tub/wooden_washing_tub_water"
+	},
+	"elements": [
+		{
+			"from": [-1, 6.5, -1],
+			"to": [17, 6.5, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4.5, 0]},
+			"faces": {
+				"up": {"uv": [3.5, 3.5, 12.5, 12.5], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

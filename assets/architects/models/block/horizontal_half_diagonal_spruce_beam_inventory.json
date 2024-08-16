@@ -1,0 +1,7 @@
+{
+  "parent": "architects:block/horizontal_half_diagonal_beam_inventory",
+  "textures": {
+    "end": "minecraft:block/stripped_spruce_log",
+    "side": "minecraft:block/stripped_spruce_log"
+  }
+}

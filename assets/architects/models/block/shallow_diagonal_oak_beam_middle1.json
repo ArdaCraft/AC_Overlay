@@ -1,7 +1,7 @@
 {
   "parent": "architects:template/template_shallow_diagonal_beam_middle1",
   "textures": {
-    "end": "minecraft:block/stripped_oak_log",
-    "side": "minecraft:block/stripped_oak_log"
+    "end": "conquest:block/1_basic_refined/3_wood/apple_wood_beam",
+    "side": "conquest:block/1_basic_refined/3_wood/apple_wood_beam"
   }
 }

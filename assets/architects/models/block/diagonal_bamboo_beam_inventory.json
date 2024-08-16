@@ -1,0 +1,7 @@
+{
+  "parent": "architects:block/diagonal_beam_inventory",
+  "textures": {
+    "end": "minecraft:block/stripped_bamboo_block",
+    "side": "minecraft:block/stripped_bamboo_block"
+  }
+}

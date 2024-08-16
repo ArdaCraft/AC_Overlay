@@ -1,0 +1,39 @@
+{
+    "multipart": [
+        {
+            "apply": [
+                {
+                    "model": "conquest:block/wooden_washing_tub_ac"
+                },
+                {
+                    "model": "conquest:block/wooden_washing_tub_ac",
+                    "y": 90
+                }
+            ]
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub_water", "yoffset": -3.5
+            },
+            "when": {
+                "level": "1"
+            }
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub_water", "yoffset": -1
+            },
+            "when": {
+                "level": "2"
+            }
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub_water"
+            },
+            "when": {
+                "level": "3"
+            }
+        }
+    ]
+}
