@@ -1,6 +1,6 @@
 {
     "targets": [
-        "conquest:r_miscellaneous"
+        "conquest:rr_utility"
     ],
     "removals": [
         {
