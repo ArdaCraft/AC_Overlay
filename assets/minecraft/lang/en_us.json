@@ -1,6 +1,7 @@
 {
   "item.minecraft.golden_shovel": "Bronze Hand Mirror",
   "itemGroup.buildingBlocks": "Utility",
+<<<<<<< HEAD
   "itemGroup.coloredBlocks": "Cobble & Brick",
   "itemGroup.natural": "Advanced Masonry",
   "itemGroup.functional": "Columns",
@@ -131,6 +132,23 @@
   "block.minecraft.soul_campfire": "Soul Brazier",
   "block.minecraft.soul_lantern": "Hanging Soul Brazier",
   "block.minecraft.calcite": "Calcite and Limestone",
+=======
+  "itemGroup.coloredBlocks": "Colored Blocks",
+  "itemGroup.combat": "Combat",
+  "itemGroup.consumables": "Consumables",
+  "itemGroup.crafting": "Crafting",
+  "itemGroup.foodAndDrink": "Food & Drinks",
+  "itemGroup.functional": "Functional Blocks",
+  "itemGroup.hotbar": "Saved Hotbars",
+  "itemGroup.ingredients": "Planks And Beams",
+  "itemGroup.inventory": "Survival Inventory",
+  "itemGroup.natural": "Natural Blocks",
+  "itemGroup.op": "Operator Utilities",
+  "itemGroup.redstone": "Redstone Blocks",
+  "itemGroup.search": "Search Items",
+  "itemGroup.spawnEggs": "Advanced Carpentry",
+  "itemGroup.tools": "Tools & Utilities",
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "instrument.minecraft.admire_goat_horn": "Admire",
   "instrument.minecraft.call_goat_horn": "Approved",
   "instrument.minecraft.dream_goat_horn": "Dream",
@@ -139,8 +157,11 @@
   "instrument.minecraft.seek_goat_horn": "Seek",
   "instrument.minecraft.sing_goat_horn": "Not Approved",
   "instrument.minecraft.yearn_goat_horn": "Yearn",
+<<<<<<< HEAD
   "block.minecraft.azalea_leaves": "Elm Leaves",
   "block.minecraft.mangrove_leaves": "Sessile Oak Leaves",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.minecraft.red_candle": "Red Candles",
   "block.minecraft.chain": "Square Iron Chain",
   "block.minecraft.dead_bubble_coral_fan": "Rope Bundle",
@@ -156,7 +177,10 @@
   "block.minecraft.soul_soil": "White Soil",
   "block.minecraft.magenta_terracotta": "Light Blue Green Plaster",
   "block.minecraft.purple_terracotta": "Dark Blue Plaster",
+<<<<<<< HEAD
   "block.minecraft.green_glazed_terracotta": "Directional Carved Limestone Diamond Pattern",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.minecraft.cyan_concrete": "Gray Marble Bricks",
   "block.minecraft.lime_concrete": "Dark Green Plaster",
   "block.minecraft.blue_concrete": "Light Blue Plaster",
@@ -190,7 +214,10 @@
   "block.minecraft.polished_granite_stairs": "Large Granite Block Stairs",
   "block.minecraft.polished_diorite": "Polished Light Limestone",
   "block.minecraft.polished_diorite_stairs": "Polished Light Limestone Stairs",
+<<<<<<< HEAD
   "block.minecraft.cracked_nether_bricks": "Weathered Light Limestone Bricks",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.minecraft.yellow_terracotta": "Gray Sandstone",
   "block.minecraft.bricks": "Clay Bricks",
   "block.minecraft.end_stone_bricks": "Large Granite Cobbles",

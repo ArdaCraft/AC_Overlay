@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "hinge=left,facing=south": { "model": "conquest:block/beam_spruce_straight_side_1", "y": 270 },
+        "hinge=left,facing=west": { "model": "conquest:block/beam_spruce_straight_side_2" },
+        "hinge=left,facing=north": { "model": "conquest:block/beam_spruce_straight_side_2", "y": 90 },
+        "hinge=left,facing=east": { "model": "conquest:block/beam_spruce_straight_side_1", "y": 180 },
+
+        "hinge=right,facing=south": { "model": "conquest:block/beam_spruce_straight_side_2", "y": 270 },
+        "hinge=right,facing=west": { "model": "conquest:block/beam_spruce_straight_side_1" },
+        "hinge=right,facing=north": { "model": "conquest:block/beam_spruce_straight_side_1", "y": 90 },
+        "hinge=right,facing=east": { "model": "conquest:block/beam_spruce_straight_side_2", "y": 180 }
+    }
+}

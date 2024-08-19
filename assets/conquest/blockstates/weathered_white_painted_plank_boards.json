@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"variants": {
 		"type=top,facing=south": {
@@ -26,3 +27,6 @@
 		}
 	}
 }
+=======
+{"variants":{"type\u003dtop,facing\u003dsouth":{"model":"conquest:block/weathered_white_painted_plank_boards_upper","y":270},"type\u003dtop,facing\u003dwest":{"model":"conquest:block/weathered_white_painted_plank_boards_upper"},"type\u003dtop,facing\u003dnorth":{"model":"conquest:block/weathered_white_painted_plank_boards_upper","y":90},"type\u003dtop,facing\u003deast":{"model":"conquest:block/weathered_white_painted_plank_boards_upper","y":180},"type\u003dbottom,facing\u003dsouth":{"model":"conquest:block/weathered_white_painted_plank_boards_lower","y":270},"type\u003dbottom,facing\u003dwest":{"model":"conquest:block/weathered_white_painted_plank_boards_lower"},"type\u003dbottom,facing\u003dnorth":{"model":"conquest:block/weathered_white_painted_plank_boards_lower","y":90},"type\u003dbottom,facing\u003deast":{"model":"conquest:block/weathered_white_painted_plank_boards_lower","y":180}}}
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30

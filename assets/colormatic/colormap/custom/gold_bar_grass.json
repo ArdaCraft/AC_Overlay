@@ -1,0 +1,7 @@
+{
+    "format": "grid",
+    "blocks": ["conquest:gold_bar_pile", "conquest:gold_bar_pile_slab", "conquest:gold_bar_pile_quarter_slab", "conquest:gold_bar_pile_stairs", "conquest:gold_bar_pile_vertical_quarter", "conquest:gold_bar_pile_vertical_corner", "conquest:gold_bar_pile_vertical_slab", "conquest:gold_bar_pile_vertical_corner_slab", "conquest:gold_bar_pile_eighth_slab", "conquest:gold_bar_pile_corner_slab"],
+    "yVariance": "5",
+    "yoffset": "1",
+    "source": "./grass.png"
+}

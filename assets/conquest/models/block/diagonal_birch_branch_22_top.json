@@ -1,6 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+    "loader": "forge:obj",
+    "model": "conquest:models/obj/22_degree_diagonal_branch_top.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
 	"textures": {
+<<<<<<< HEAD
 		"log": "minecraft:xone/birch_branch",
 		"particle": "minecraft:xone/birch_branch"
 	},
@@ -41,4 +45,8 @@
 			"children": [0, 1]
 		}
 	]
+=======
+		"particle": "xone/birch_branch"
+	}
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
 }

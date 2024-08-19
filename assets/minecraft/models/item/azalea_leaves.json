@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "loader": "forge:separate_transforms",
     "base": {
         "parent": "block/azalea_leaves"
@@ -17,3 +18,10 @@
         }
     }
 }
+=======
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/azalea_leaves_1"
+    }
+}
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30

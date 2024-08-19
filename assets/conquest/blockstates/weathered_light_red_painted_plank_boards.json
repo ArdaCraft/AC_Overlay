@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"variants": {
 		"type=top,facing=south": {
@@ -24,5 +25,18 @@
 		"type=bottom,facing=east": {
 			"model": "conquest:block/spruce_platform_boards_full_extended", "y": 90, "yoffset":-8.5
 		}
+=======
+{"variants":
+	{
+		"type=top,facing=south":{"model":"conquest:block/floor_boards/weathered_light_red_painted_plank_boards_upper" },
+		"type=top,facing=west":{"model":"conquest:block/floor_boards/weathered_light_red_painted_plank_boards_upper","y":90 },
+		"type=top,facing=north":{"model":"conquest:block/floor_boards/" },
+		"type=top,facing=east":{"model":"conquest:block/floor_boards/","y":90 },
+		
+		"type=bottom,facing=south":{"model":"conquest:block/floor_boards/weathered_light_red_painted_plank_boards_lower" },
+		"type=bottom,facing=west":{"model":"conquest:block/floor_boards/weathered_light_red_painted_plank_boards_lower","y":90 },
+		"type=bottom,facing=north":{"model":"conquest:block/floor_boards/" },
+		"type=bottom,facing=east":{"model":"conquest:block/floor_boards/","y":90}
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
 	}
 }

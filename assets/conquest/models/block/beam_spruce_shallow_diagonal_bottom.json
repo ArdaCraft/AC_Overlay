@@ -1,0 +1,9 @@
+{
+    "loader": "forge:obj",
+    "model": "conquest:models/obj/shallow_diagonal_angled_beam_bottom.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+	"textures": {
+		"particle": "minecraft:block/stripped_spruce_log"
+	}
+}

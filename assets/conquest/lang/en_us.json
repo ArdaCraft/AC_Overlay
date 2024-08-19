@@ -95,7 +95,10 @@
   "block.conquest.limestone_cobble_segmental_arch": "Light Granite Cobble Segmental Arch",
   "block.conquest.orange_sandstone_round_arch": "Dark Tan Limestone Cobble Round Arch",
   "block.conquest.orange_sandstone_segmental_arch": "Dark Tan Limestone Cobble Segmental Arch",
+<<<<<<< HEAD
   "block.conquest.orange_sandstone_gothic_arch": "Dark Tan Limestone Cobble Gothic Arch",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.light_green_painted_plank_door": "Green Painted Plank Door",
   "block.conquest.green_painted_plank_door": "Vivid Green Painted Plank Door",
   "block.conquest.yellow_painted_plank_door": "Light Yellow Painted Plank Door",
@@ -141,7 +144,11 @@
   "block.conquest.weathered_blue_painted_plank_boards": "Extended Dark Gray Vertical Wood Plank Boards",
   "block.conquest.weathered_dark_blue_painted_plank_boards": "Extended Light Gray Vertical Wood Plank Boards",
   "block.conquest.weathered_purple_painted_plank_boards": "Extended Alder Wood Plank Boards",
+<<<<<<< HEAD
   "block.conquest.weathered_cyan_painted_plank_boards": "Extended Yellow Vertical Wood Plank Boards",
+=======
+  "block.conquest.weathered_cyan_painted_plank_boards": "Extended Dark Yellow Vertical Wood Plank Boards",
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.wall_of_rope_pane": "Rope Line",
   "block.conquest.lianas": "Thin Ivy",
   "block.conquest.thick_hanging_ivy": "Hanging Ivy",
@@ -2804,6 +2811,7 @@
   "block.conquest.gray_concrete_wall": "Light Tan Limestone Wall",
   "block.conquest.gray_concrete_pillar": "Light Tan Limestone Pillar",
   "block.conquest.light_limestone_brick": "Light Limestone Bricks",
+<<<<<<< HEAD
   "block.conquest.cracked_old_rusted_metal_arrowslit": "Weathered Light Limestone Brick Arrowslit",
   "block.conquest.cracked_old_rusted_metal_balustrade": "Weathered Light Limestone Brick Balustrade",
   "block.conquest.cracked_old_rusted_metal_capital": "Weathered Light Limestone Brick Capital",
@@ -2820,6 +2828,8 @@
   "block.conquest.cracked_old_rusted_metal_vertical_quarter": "Weathered Light Limestone Brick Vertical Quarter",
   "block.conquest.cracked_old_rusted_metal_vertical_slab": "Weathered Light Limestone Brick Vertical Slab",
   "block.conquest.cracked_old_rusted_metal_wall": "Weathered Light Limestone Brick Wall",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.mossy_clay_brick": "Mossy Clay Bricks",
   "block.conquest.overgrown_limestone_cobble": "Overgrown Limestone Cobbles",
   "block.conquest.light_limestone_cobble": "Light Limestone Cobbles",
@@ -2860,6 +2870,7 @@
   "block.conquest.large_andesite_brick_vertical_quarter": "Polished Andesite Vertical Quarter",
   "block.conquest.large_andesite_brick_vertical_slab": "Polished Andesite Vertical Slab",
   "block.conquest.large_andesite_brick_wall": "Polished Andesite Wall",
+<<<<<<< HEAD
   "block.conquest.large_andesite_masonry_arrowslit": "Large Andesite Block Arrowslit",
   "block.conquest.large_andesite_masonry_balustrade": "Large Andesite Block Balustrade",
   "block.conquest.large_andesite_masonry_capital": "Large Andesite Block Capital",
@@ -2932,6 +2943,38 @@
   "block.conquest.dry_limestone_wall_1_vertical_quarter": "Dry Limestone Cobble Vertical Quarter",
   "block.conquest.dry_limestone_wall_1_vertical_slab": "Dry Limestone Cobble Vertical Slab",
   "block.conquest.dry_limestone_wall_1_wall": "Dry Limestone Cobble Wall",
+=======
+  "block.conquest.granite_wave_patterned_stone_wall": "Granite Wave Patterned Stone",
+  "block.conquest.granite_wave_patterned_stone_wall_pillar": "Granite Wave Patterned Stone Pillar",
+  "block.conquest.granite_wave_patterned_stone_wall_slab": "Granite Wave Patterned Stone Slab",
+  "block.conquest.granite_wave_patterned_stone_wall_stairs": "Granite Wave Patterned Stone Stairs",
+  "block.conquest.granite_wave_patterned_stone_wall_vertical_corner": "Granite Wave Patterned Stone Vertical Corner",
+  "block.conquest.granite_wave_patterned_stone_wall_vertical_quarter": "Granite Wave Patterned Stone Vertical Quarter",
+  "block.conquest.granite_wave_patterned_stone_wall_vertical_slab": "Granite Wave Patterned Stone Vertical Slab",
+  "block.conquest.granite_wave_patterned_stone_wall_wall": "Granite Wave Patterned Stone Wall",
+  "block.conquest.dry_limestone_wall": "Dry Limestone Cobbles",
+  "block.conquest.dry_limestone_wall_arrowslit": "Dry Limestone Cobble Arrowslit",
+  "block.conquest.dry_limestone_wall_balustrade": "Dry Limestone Cobble Balustrade",
+  "block.conquest.dry_limestone_wall_capital": "Dry Limestone Cobble Capital",
+  "block.conquest.dry_limestone_wall_corner_slab": "Dry Limestone Cobble Corner Slab",
+  "block.conquest.dry_limestone_wall_eighth_slab": "Dry Limestone Cobble Eighth Slab",
+  "block.conquest.dry_limestone_wall_pillar": "Dry Limestone Cobble Pillar",
+  "block.conquest.dry_limestone_wall_quarter_slab": "Dry Limestone Cobble Quarter Slab",
+  "block.conquest.dry_limestone_wall_slab": "Dry Limestone Cobble Slab",
+  "block.conquest.dry_limestone_wall_small_arch": "Dry Limestone Cobble Small Arch",
+  "block.conquest.dry_limestone_wall_small_arch_half": "Dry Limestone Cobble Small Arch Half",
+  "block.conquest.dry_limestone_wall_small_window": "Dry Limestone Cobble Small Window",
+  "block.conquest.dry_limestone_wall_small_window_half": "Dry Limestone Cobble Small Window Half",
+  "block.conquest.dry_limestone_wall_sphere": "Dry Limestone Cobble Sphere",
+  "block.conquest.dry_limestone_wall_stairs": "Dry Limestone Cobble Stairs",
+  "block.conquest.dry_limestone_wall_two_meter_arch": "Dry Limestone Cobble Two Meter Arch",
+  "block.conquest.dry_limestone_wall_two_meter_arch_half": "Dry Limestone Cobble Two Meter Arch Half",
+  "block.conquest.dry_limestone_wall_vertical_corner": "Dry Limestone Cobble Vertical Corner",
+  "block.conquest.dry_limestone_wall_vertical_corner_slab": "Dry Limestone Cobble Vertical Corner Slab",
+  "block.conquest.dry_limestone_wall_vertical_quarter": "Dry Limestone Cobble Vertical Quarter",
+  "block.conquest.dry_limestone_wall_vertical_slab": "Dry Limestone Cobble Vertical Slab",
+  "block.conquest.dry_limestone_wall_wall": "Dry Limestone Cobble Wall",
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.loose_small_limestones": "Loose Limestone Cobbles",
   "block.conquest.loose_small_limestones_arrowslit": "Loose Limestone Cobble Arrowslit",
   "block.conquest.loose_small_limestones_balustrade": "Loose Limestone Cobble Balustrade",
@@ -3702,6 +3745,7 @@
   "block.conquest.pink_quartzite_vertical_corner": "Light Quartzite Corner",
   "block.conquest.pink_quartzite_vertical_quarter": "Light Quartzite Quarter",
   "block.conquest.pink_quartzite_stairs": "Light Quartzite Stairs",
+<<<<<<< HEAD
   "block.conquest.green_schist": "Light Slate",
   "block.conquest.green_schist_corner_slab": "Light Slate Corner Slab",
   "block.conquest.green_schist_eighth_slab": "Light Slate Eighth Slab",
@@ -3765,6 +3809,72 @@
   "block.conquest.wet_slate_vertical_quarter": "Dark Slate Vertical Quarter",
   "block.conquest.wet_slate_vertical_slab": "Dark Slate Vertical Slab",
   "block.conquest.wet_slate_wall": "Dark Slate Wall",
+=======
+  "block.conquest.brown_sandstone": "Light Brown Sandstone",
+  "block.conquest.brown_sandstone_corner_slab": "Light Brown Sandstone Corner Slab",
+  "block.conquest.brown_sandstone_eighth_slab": "Light Brown Sandstone Eighth Slab",
+  "block.conquest.brown_sandstone_gothic_arch": "Light Brown Sandstone Gothic Arch",
+  "block.conquest.brown_sandstone_quarter_slab": "Light Brown Sandstone Quarter Slab",
+  "block.conquest.brown_sandstone_round_arch": "Light Brown Sandstone Round Arch",
+  "block.conquest.brown_sandstone_segmental_arch": "Light Brown Sandstone Segmental Arch",
+  "block.conquest.brown_sandstone_slab": "Light Brown Sandstone Slab",
+  "block.conquest.brown_sandstone_stairs": "Light Brown Sandstone Stairs",
+  "block.conquest.brown_sandstone_vertical_corner": "Light Brown Sandstone Vertical Corner",
+  "block.conquest.brown_sandstone_vertical_corner_slab": "Light Brown Sandstone Vertical Corner Slab",
+  "block.conquest.brown_sandstone_vertical_quarter": "Light Brown Sandstone Vertical Quarter",
+  "block.conquest.brown_sandstone_vertical_slab": "Light Brown Sandstone Vertical Slab",
+  "block.conquest.graywacke": "Brown Sandstone",
+  "block.conquest.graywacke_quarter_slab": "Brown Sandstone Quarter Slab",
+  "block.conquest.graywacke_rocks": "Brown Sandstone Rocks",
+  "block.conquest.graywacke_slab": "Brown Sandstone Slab",
+  "block.conquest.graywacke_stairs": "Brown Sandstone Stairs",
+  "block.conquest.graywacke_corner_slab": "Brown Sandstone Corner Slab",
+  "block.conquest.graywacke_eighth_slab": "Brown Sandstone Eighth Slab",
+  "block.conquest.graywacke_vertical_corner": "Brown Sandstone Vertical Corner",
+  "block.conquest.graywacke_vertical_corner_slab": "Brown Sandstone Vertical Corner Slab",
+  "block.conquest.graywacke_vertical_quarter": "Brown Sandstone Vertical Quarter",
+  "block.conquest.graywacke_vertical_slab": "Brown Sandstone Vertical Slab",
+  "block.conquest.warped_sandstone": "Brown Gray Sandstone",
+  "block.conquest.warped_sandstone_arrowslit": "Brown Gray Sandstone Arrowslit",
+  "block.conquest.warped_sandstone_balustrade": "Brown Gray Sandstone Balustrade",
+  "block.conquest.warped_sandstone_capital": "Brown Gray Sandstone Capital",
+  "block.conquest.warped_sandstone_corner_slab": "Brown Gray Sandstone Corner Slab",
+  "block.conquest.warped_sandstone_eighth_slab": "Brown Gray Sandstone Eighth Slab",
+  "block.conquest.warped_sandstone_pillar": "Brown Gray Sandstone Pillar",
+  "block.conquest.warped_sandstone_quarter_slab": "Brown Gray Sandstone Quarter Slab",
+  "block.conquest.warped_sandstone_slab": "Brown Gray Sandstone Slab",
+  "block.conquest.warped_sandstone_small_window": "Brown Gray Sandstone Small Window",
+  "block.conquest.warped_sandstone_small_window_half": "Brown Gray Sandstone Small Window Half",
+  "block.conquest.warped_sandstone_sphere": "Brown Gray Sandstone Sphere",
+  "block.conquest.warped_sandstone_stairs": "Brown Gray Sandstone Stairs",
+  "block.conquest.warped_sandstone_vertical_corner": "Brown Gray Sandstone Vertical Corner",
+  "block.conquest.warped_sandstone_vertical_corner_slab": "Brown Gray Sandstone Vertical Corner Slab",
+  "block.conquest.warped_sandstone_vertical_quarter": "Brown Gray Sandstone Vertical Quarter",
+  "block.conquest.warped_sandstone_vertical_slab": "Brown Gray Sandstone Vertical Slab",
+  "block.conquest.warped_sandstone_wall": "Brown Gray Sandstone Wall",
+  "block.conquest.yellow_mudstone_corner_slab": "Gray Sandstone Corner Slab",
+  "block.conquest.yellow_mudstone_eighth_slab": "Gray Sandstone Eighth Slab",
+  "block.conquest.yellow_mudstone_quarter_slab": "Gray Sandstone Quarter Slab",
+  "block.conquest.yellow_mudstone_slab": "Gray Sandstone Slab",
+  "block.conquest.yellow_mudstone_stairs": "Gray Sandstone Stairs",
+  "block.conquest.yellow_mudstone_vertical_corner": "Gray Sandstone Vertical Corner",
+  "block.conquest.yellow_mudstone_vertical_corner_slab": "Gray Sandstone Vertical Corner Slab",
+  "block.conquest.yellow_mudstone_vertical_quarter": "Gray Sandstone Vertical Quarter",
+  "block.conquest.yellow_mudstone_vertical_slab": "Gray Sandstone Vertical Slab",
+  "block.conquest.orange_sandstone": "Red Brown Sandstone",
+  "block.conquest.orange_sandstone_corner_slab": "Red Brown Sandstone Corner Slab",
+  "block.conquest.orange_sandstone_eighth_slab": "Red Brown Sandstone Eighth Slab",
+  "block.conquest.orange_sandstone_gothic_arch": "Red Brown Sandstone Gothic Arch",
+  "block.conquest.orange_sandstone_quarter_slab": "Red Brown Sandstone Quarter Slab",
+  "block.conquest.orange_sandstone_round_arch": "Red Brown Sandstone Round Arch",
+  "block.conquest.orange_sandstone_segmental_arch": "Red Brown Sandstone Segmental Arch",
+  "block.conquest.orange_sandstone_slab": "Red Brown Sandstone Slab",
+  "block.conquest.orange_sandstone_stairs": "Red Brown Sandstone Stairs",
+  "block.conquest.orange_sandstone_vertical_corner": "Red Brown Sandstone Vertical Corner",
+  "block.conquest.orange_sandstone_vertical_corner_slab": "Red Brown Sandstone Vertical Corner Slab",
+  "block.conquest.orange_sandstone_vertical_quarter": "Red Brown Sandstone Vertical Quarter",
+  "block.conquest.orange_sandstone_vertical_slab": "Red Brown Sandstone Vertical Slab",
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.light_limestone_boulders": "Light Limestone Boulders",
   "block.conquest.light_limestone_boulders_arrowslit": "Light Limestone Boulder Arrowslit",
   "block.conquest.light_limestone_boulders_balustrade": "Light Limestone Boulder Balustrade",
@@ -3931,6 +4041,7 @@
   "block.conquest.rough_end_stone_vertical_corner": "Rough Grus Corner",
   "block.conquest.rough_end_stone_vertical_quarter": "Rough Grus Quarter",
   "block.conquest.rough_end_stone_stairs": "Rough Grus Stairs",
+<<<<<<< HEAD
   "block.conquest.tan_clay_tiles": "Dark Tan Clay Tiles",
   "block.conquest.tan_clay_tiles_slab": "Dark Tan Clay Tile Slab",
   "block.conquest.tan_clay_tiles_quarter_slab": "Dark Tan Clay Tile Quarter Slab",
@@ -3971,6 +4082,44 @@
   "block.conquest.gray_angled_tiles_vertical_corner_slab": "Angled Granite Tile Vertical Corner Slab",
   "block.conquest.gray_angled_tiles_vertical_corner": "Angled Granite Tile Vertical Corner",
   "block.conquest.gray_angled_tiles_stairs": "Angled Granite Tile Stairs",
+=======
+  "block.conquest.tan_clay_tiles_slab": "Tan Clay Tile Slab",
+  "block.conquest.tan_clay_tiles_quarter_slab": "Tan Clay Tile Quarter Slab",
+  "block.conquest.tan_clay_tiles_corner_slab": "Tan Clay Tile Corner Slab",
+  "block.conquest.tan_clay_tiles_eighth_slab": "Tan Clay Tile Eighth Slab",
+  "block.conquest.tan_clay_tiles_vertical_slab": "Tan Clay Tile Vertical Slab",
+  "block.conquest.tan_clay_tiles_vertical_quarter": "Tan Clay Tile Vertical Quarter",
+  "block.conquest.tan_clay_tiles_vertical_corner_slab": "Tan Clay Tile Vertical Corner Slab",
+  "block.conquest.tan_clay_tiles_vertical_corner": "Tan Clay Tile Vertical Corner",
+  "block.conquest.tan_clay_tiles_stairs": "Tan Clay Tile Stairs",
+  "block.conquest.mixed_clay_tiles_slab": "Mixed Clay Tile Slab",
+  "block.conquest.mixed_clay_tiles_quarter_slab": "Mixed Clay Tile Quarter Slab",
+  "block.conquest.mixed_clay_tiles_corner_slab": "Mixed Clay Tile Corner Slab",
+  "block.conquest.mixed_clay_tiles_eighth_slab": "Mixed Clay Tile Eighth Slab",
+  "block.conquest.mixed_clay_tiles_vertical_slab": "Mixed Clay Tile Vertical Slab",
+  "block.conquest.mixed_clay_tiles_vertical_quarter": "Mixed Clay Tile Vertical Quarter",
+  "block.conquest.mixed_clay_tiles_vertical_corner_slab": "Mixed Clay Tile Vertical Corner Slab",
+  "block.conquest.mixed_clay_tiles_vertical_corner": "Mixed Clay Tile Vertical Corner",
+  "block.conquest.mixed_clay_tiles_stairs": "Mixed Clay Tile Stairs",
+  "block.conquest.light_clay_tiles_slab": "Light Clay Tile Slab",
+  "block.conquest.light_clay_tiles_quarter_slab": "Light Clay Tile Quarter Slab",
+  "block.conquest.light_clay_tiles_corner_slab": "Light Clay Tile Corner Slab",
+  "block.conquest.light_clay_tiles_eighth_slab": "Light Clay Tile Eighth Slab",
+  "block.conquest.light_clay_tiles_vertical_slab": "Light Clay Tile Vertical Slab",
+  "block.conquest.light_clay_tiles_vertical_quarter": "Light Clay Tile Vertical Quarter",
+  "block.conquest.light_clay_tiles_vertical_corner_slab": "Light Clay Tile Vertical Corner Slab",
+  "block.conquest.light_clay_tiles_vertical_corner": "Light Clay Tile Vertical Corner",
+  "block.conquest.light_clay_tiles_stairs": "Light Clay Tile Stairs",
+  "block.conquest.gray_angled_tiles_slab": "Gray Angled Tile Slab",
+  "block.conquest.gray_angled_tiles_quarter_slab": "Gray Angled Tile Quarter Slab",
+  "block.conquest.gray_angled_tiles_corner_slab": "Gray Angled Tile Corner Slab",
+  "block.conquest.gray_angled_tiles_eighth_slab": "Gray Angled Tile Eighth Slab",
+  "block.conquest.gray_angled_tiles_vertical_slab": "Gray Angled Tile Vertical Slab",
+  "block.conquest.gray_angled_tiles_vertical_quarter": "Gray Angled Tile Vertical Quarter",
+  "block.conquest.gray_angled_tiles_vertical_corner_slab": "Gray Angled Tile Vertical Corner Slab",
+  "block.conquest.gray_angled_tiles_vertical_corner": "Gray Angled Tile Vertical Corner",
+  "block.conquest.gray_angled_tiles_stairs": "Gray Angled Tile Stairs",
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.brown_oven_tiles_small_arch": "Brown Oven Tile Small Arch",
   "block.conquest.brown_oven_tiles_small_arch_half": "Brown Oven Tile Small Arch Half",
   "block.conquest.brown_oven_tiles_two_meter_arch": "Brown Oven Tile Two Meter Arch",
@@ -4013,6 +4162,7 @@
   "block.conquest.green_oven_tiles_sphere": "Green Oven Tile Sphere",
   "block.conquest.green_oven_tiles_wall": "Green Oven Tile Wall",
   "block.conquest.green_oven_tiles_pillar": "Green Oven Tile Pillar",
+<<<<<<< HEAD
   "block.conquest.gothic_sandstone_floor_tiles": "Tan Small Clay Tiles",
   "block.conquest.gothic_sandstone_floor_tiles_slab": "Tan Small Clay Tile Slab",
   "block.conquest.gothic_sandstone_floor_tiles_quarter_slab": "Tan Small Clay Tile Quarter Slab",
@@ -4034,6 +4184,28 @@
   "block.conquest.rowan_wood_beam": "Blue Painted Wood Beam",
   "block.conquest.rowan_wood_beam_bark": "Blue Painted Wood Beam Bark",
   "block.conquest.rowan_wood_beam_beam_board": "Blue Painted Wood Beam Board",
+=======
+  "block.conquest.gothic_sandstone_floor_tiles": "Tan Square Clay Tiles",
+  "block.conquest.gothic_sandstone_floor_tiles_slab": "Tan Square Clay Tile Slab",
+  "block.conquest.gothic_sandstone_floor_tiles_quarter_slab": "Tan Square Clay Tile Quarter Slab",
+  "block.conquest.gothic_sandstone_floor_tiles_corner_slab": "Tan Square Clay Tile Corner Slab",
+  "block.conquest.gothic_sandstone_floor_tiles_eighth_slab": "Tan Square Clay Tile Eighth Slab",
+  "block.conquest.gothic_sandstone_floor_tiles_vertical_corner_slab": "Tan Square Clay Tile Corner Slab",
+  "block.conquest.gothic_sandstone_floor_tiles_vertical_slab": "Tan Square Clay Tile Slab",
+  "block.conquest.gothic_sandstone_floor_tiles_vertical_corner": "Tan Square Clay Tile Corner",
+  "block.conquest.gothic_sandstone_floor_tiles_vertical_quarter": "Tan Square Clay Tile Quarter",
+  "block.conquest.gothic_sandstone_floor_tiles_stairs": "Tan Square Clay Tile Stairs",
+  "block.conquest.wallpaper_with_gilded_border": "Square Clay Tiles",
+  "block.conquest.wallpaper_with_gilded_border_vertical_slab": "Square Clay Tile Slab",
+  "block.conquest.wallpaper_with_gilded_border_vertical_corner": "Square Clay Tile Corner",
+  "block.conquest.wallpaper_with_gilded_border_vertical_quarter": "Square Clay Tile Quarter",
+  "block.conquest.fancy_blue_marble_design": "Light Square Clay Tiles",
+  "block.conquest.fancy_blue_marble_design_vertical_slab": "Light Square Clay Tile Slab",
+  "block.conquest.fancy_blue_marble_design_vertical_corner": "Light Square Clay Tile Corner",
+  "block.conquest.fancy_blue_marble_design_vertical_quarter": "Light Square Clay Tile Quarter",
+  "block.conquest.rowan_wood_beam": "Blue Painted Wood Beam",
+  "block.conquest.rowan_wood_beam_bark": "Blue Painted Wood Beam Bark",
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.rowan_wood_beam_wall": "Blue Painted Wood Beam Wall",
   "block.conquest.rowan_wood_beam_pillar": "Blue Painted Wood Beam Pillar",
   "block.conquest.rowan_wood_beam_slab": "Blue Painted Wood Beam Slab",
@@ -4053,7 +4225,10 @@
   "block.conquest.rowan_wood_beam_posts": "Blue Painted Wood Beam Posts",
   "block.conquest.norway_spruce_wood_beam": "Green Painted Wood Beam",
   "block.conquest.norway_spruce_wood_beam_bark": "Green Painted Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.norway_spruce_wood_beam_beam_board": "Green Painted Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.norway_spruce_wood_beam_wall": "Green Painted Wood Beam Wall",
   "block.conquest.norway_spruce_wood_beam_pillar": "Green Painted Wood Beam Pillar",
   "block.conquest.norway_spruce_wood_beam_slab": "Green Painted Wood Beam Slab",
@@ -4071,7 +4246,10 @@
   "block.conquest.norway_spruce_wood_beam_door_frame_posts": "Green Painted Wood Beam Door Frame Posts",
   "block.conquest.norway_spruce_wood_beam_lintel": "Green Painted Wood Beam Lintel",
   "block.conquest.norway_spruce_wood_beam_posts": "Green Painted Wood Beam Posts",
+<<<<<<< HEAD
   "block.conquest.acacia_wood_beam_beam_board": "Red Painted Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.acacia_wood_beam_wall": "Red Painted Wood Beam Wall",
   "block.conquest.acacia_wood_beam_pillar": "Red Painted Wood Beam Pillar",
   "block.conquest.acacia_wood_beam_slab": "Red Painted Wood Beam Slab",
@@ -4091,7 +4269,10 @@
   "block.conquest.acacia_wood_beam_posts": "Red Painted Wood Beam Posts",
   "block.conquest.larch_wood_beam": "Yellow Painted Wood Beam",
   "block.conquest.larch_wood_beam_bark": "Yellow Painted Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.larch_wood_beam_beam_board": "Yellow Painted Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.larch_wood_beam_wall": "Yellow Painted Wood Beam Wall",
   "block.conquest.larch_wood_beam_pillar": "Yellow Painted Wood Beam Pillar",
   "block.conquest.larch_wood_beam_slab": "Yellow Painted Wood Beam Slab",
@@ -4109,7 +4290,10 @@
   "block.conquest.larch_wood_beam_door_frame_posts": "Yellow Painted Wood Beam Door Frame Posts",
   "block.conquest.larch_wood_beam_lintel": "Yellow Painted Wood Beam Lintel",
   "block.conquest.larch_wood_beam_posts": "Yellow Painted Wood Beam Posts",
+<<<<<<< HEAD
   "block.conquest.dark_oak_wood_beam_beam_board": "Black Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.dark_oak_wood_beam_wall": "Black Wood Beam Wall",
   "block.conquest.dark_oak_wood_beam_pillar": "Black Wood Beam Pillar",
   "block.conquest.dark_oak_wood_beam_slab": "Black Wood Beam Slab",
@@ -4129,7 +4313,10 @@
   "block.conquest.dark_oak_wood_beam_posts": "Black Wood Beam Posts",
   "block.conquest.beech_wood_beam": "White Wood Beam",
   "block.conquest.beech_wood_beam_bark": "White Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.beech_wood_beam_beam_board": "White Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.beech_wood_beam_wall": "White Wood Beam Wall",
   "block.conquest.beech_wood_beam_pillar": "White Wood Beam Pillar",
   "block.conquest.beech_wood_beam_slab": "White Wood Beam Slab",
@@ -4149,7 +4336,10 @@
   "block.conquest.beech_wood_beam_posts": "White Wood Beam Posts",
   "block.conquest.horse_chestnut_wood_beam": "Tan Wood Beam",
   "block.conquest.horse_chestnut_wood_beam_bark": "Tan Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.horse_chestnut_wood_beam_beam_board": "Tan Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.horse_chestnut_wood_beam_wall": "Tan Wood Beam Wall",
   "block.conquest.horse_chestnut_wood_beam_pillar": "Tan Wood Beam Pillar",
   "block.conquest.horse_chestnut_wood_beam_slab": "Tan Wood Beam Slab",
@@ -4167,7 +4357,10 @@
   "block.conquest.horse_chestnut_wood_beam_door_frame_posts": "Tan Wood Beam Door Frame Posts",
   "block.conquest.horse_chestnut_wood_beam_lintel": "Tan Wood Beam Lintel",
   "block.conquest.horse_chestnut_wood_beam_posts": "Tan Wood Beam Posts",
+<<<<<<< HEAD
   "block.conquest.oak_wood_beam_beam_board": "Yellow Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.oak_wood_beam_wall": "Yellow Wood Beam Wall",
   "block.conquest.oak_wood_beam_pillar": "Yellow Wood Beam Pillar",
   "block.conquest.oak_wood_beam_slab": "Yellow Wood Beam Slab",
@@ -4187,7 +4380,10 @@
   "block.conquest.oak_wood_beam_posts": "Yellow Wood Beam Posts",
   "block.conquest.tarred_oak_wood_beam": "Tarred Yellow Wood Beam",
   "block.conquest.tarred_oak_wood_beam_bark": "Tarred Yellow Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.tarred_oak_wood_beam_beam_board": "Tarred Yellow Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.tarred_oak_wood_beam_wall": "Tarred Yellow Wood Beam Wall",
   "block.conquest.tarred_oak_wood_beam_pillar": "Tarred Yellow Wood Beam Pillar",
   "block.conquest.tarred_oak_wood_beam_slab": "Tarred Yellow Wood Beam Slab",
@@ -4207,7 +4403,10 @@
   "block.conquest.tarred_oak_wood_beam_posts": "Tarred Yellow Wood Beam Posts",
   "block.conquest.mallorn_wood_beam": "Light Gray Wood Beam",
   "block.conquest.mallorn_wood_beam_bark": "Light Gray Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.mallorn_wood_beam_beam_board": "Light Gray Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.mallorn_wood_beam_wall": "Light Gray Wood Beam Wall",
   "block.conquest.mallorn_wood_beam_pillar": "Light Gray Wood Beam Pillar",
   "block.conquest.mallorn_wood_beam_slab": "Light Gray Wood Beam Slab",
@@ -4227,7 +4426,10 @@
   "block.conquest.mallorn_wood_beam_posts": "Light Gray Wood Beam Posts",
   "block.conquest.ash_wood_beam": "Dark Gray Wood Beam",
   "block.conquest.ash_wood_beam_bark": "Dark Gray Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.ash_wood_beam_beam_board": "Dark Gray Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.ash_wood_beam_wall": "Dark Gray Wood Beam Wall",
   "block.conquest.ash_wood_beam_pillar": "Dark Gray Wood Beam Pillar",
   "block.conquest.ash_wood_beam_slab": "Dark Gray Wood Beam Slab",
@@ -4247,7 +4449,10 @@
   "block.conquest.ash_wood_beam_posts": "Dark Gray Wood Beam Posts",
   "block.conquest.aspen_wood_beam": "Red Brown Wood Beam",
   "block.conquest.aspen_wood_beam_bark": "Red Brown Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.aspen_wood_beam_beam_board": "Red Brown Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.aspen_wood_beam_wall": "Red Brown Wood Beam Wall",
   "block.conquest.aspen_wood_beam_pillar": "Red Brown Wood Beam Pillar",
   "block.conquest.aspen_wood_beam_slab": "Red Brown Wood Beam Slab",
@@ -4267,7 +4472,10 @@
   "block.conquest.aspen_wood_beam_posts": "Red Brown Wood Beam Posts",
   "block.conquest.willow_wood_beam": "Red Wood Beam",
   "block.conquest.willow_wood_beam_bark": "Red Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.willow_wood_beam_beam_board": "Red Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.willow_wood_beam_wall": "Red Wood Beam Wall",
   "block.conquest.willow_wood_beam_pillar": "Red Wood Beam Pillar",
   "block.conquest.willow_wood_beam_slab": "Red Wood Beam Slab",
@@ -4287,7 +4495,10 @@
   "block.conquest.willow_wood_beam_posts": "Red Wood Beam Posts",
   "block.conquest.pine_wood_beam": "Dark Brown Wood Beam",
   "block.conquest.pine_wood_beam_bark": "Dark Brown Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.pine_wood_beam_beam_board": "Dark Brown Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.pine_wood_beam_wall": "Dark Brown Wood Beam Wall",
   "block.conquest.pine_wood_beam_pillar": "Dark Brown Wood Beam Pillar",
   "block.conquest.pine_wood_beam_slab": "Dark Brown Wood Beam Slab",
@@ -4307,7 +4518,10 @@
   "block.conquest.pine_wood_beam_posts": "Dark Brown Wood Beam Posts",
   "block.conquest.apple_wood_beam": "Brown Wood Beam",
   "block.conquest.apple_wood_beam_bark": "Brown Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.apple_wood_beam_beam_board": "Brown Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.apple_wood_beam_wall": "Brown Wood Beam Wall",
   "block.conquest.apple_wood_beam_pillar": "Brown Wood Beam Pillar",
   "block.conquest.apple_wood_beam_slab": "Brown Wood Beam Slab",
@@ -4327,7 +4541,10 @@
   "block.conquest.apple_wood_beam_posts": "Brown Wood Beam Posts",
   "block.conquest.tarred_dark_oak_wood_beam": "Light Brown Wood Beam",
   "block.conquest.tarred_dark_oak_wood_beam_bark": "Light Brown Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.tarred_dark_oak_wood_beam_beam_board": "Light Brown Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.tarred_dark_oak_wood_beam_wall": "Light Brown Wood Beam Wall",
   "block.conquest.tarred_dark_oak_wood_beam_pillar": "Light Brown Wood Beam Pillar",
   "block.conquest.tarred_dark_oak_wood_beam_slab": "Light Brown Wood Beam Slab",
@@ -4347,7 +4564,10 @@
   "block.conquest.tarred_dark_oak_wood_beam_posts": "Light Brown Wood Beam Posts",
   "block.conquest.tarred_spruce_wood_beam": "Tarred Brown Wood Beam",
   "block.conquest.tarred_spruce_wood_beam_bark": "Tarred Brown Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.tarred_spruce_wood_beam_beam_board": "Tarred Brown Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.tarred_spruce_wood_beam_wall": "Tarred Brown Wood Beam Wall",
   "block.conquest.tarred_spruce_wood_beam_pillar": "Tarred Brown Wood Beam Pillar",
   "block.conquest.tarred_spruce_wood_beam_slab": "Tarred Brown Wood Beam Slab",
@@ -4365,7 +4585,10 @@
   "block.conquest.tarred_spruce_wood_beam_door_frame_posts": "Tarred Brown Wood Beam Door Frame Posts",
   "block.conquest.tarred_spruce_wood_beam_lintel": "Tarred Brown Wood Beam Lintel",
   "block.conquest.tarred_spruce_wood_beam_posts": "Tarred Brown Wood Beam Posts",
+<<<<<<< HEAD
   "block.conquest.spruce_wood_beam_beam_board": "Dark Fine Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.spruce_wood_beam_wall": "Dark Fine Wood Beam Wall",
   "block.conquest.spruce_wood_beam_pillar": "Dark Fine Wood Beam Pillar",
   "block.conquest.spruce_wood_beam_slab": "Dark Fine Wood Beam Slab",
@@ -4383,7 +4606,10 @@
   "block.conquest.spruce_wood_beam_door_frame_posts": "Dark Fine Wood Beam Door Frame Posts",
   "block.conquest.spruce_wood_beam_lintel": "Dark Fine Wood Beam Lintel",
   "block.conquest.spruce_wood_beam_posts": "Dark Fine Wood Beam Posts",
+<<<<<<< HEAD
   "block.conquest.palm_wood_beam_beam_board": "Fine Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.palm_wood_beam_wall": "Fine Wood Beam Wall",
   "block.conquest.palm_wood_beam_pillar": "Fine Wood Beam Pillar",
   "block.conquest.palm_wood_beam_slab": "Fine Wood Beam Slab",
@@ -4401,7 +4627,10 @@
   "block.conquest.palm_wood_beam_door_frame_posts": "Fine Wood Beam Door Frame Posts",
   "block.conquest.palm_wood_beam_lintel": "Fine Wood Beam Lintel",
   "block.conquest.palm_wood_beam_posts": "Fine Wood Beam Posts",
+<<<<<<< HEAD
   "block.conquest.birch_wood_beam_beam_board": "Light Fine Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.birch_wood_beam_wall": "Light Fine Wood Beam Wall",
   "block.conquest.birch_wood_beam_pillar": "Light Fine Wood Beam Pillar",
   "block.conquest.birch_wood_beam_slab": "Light Fine Wood Beam Slab",
@@ -4421,7 +4650,10 @@
   "block.conquest.birch_wood_beam_posts": "Light Fine Wood Beam Posts",
   "block.conquest.tarred_birch_wood_beam": "Tarred Fine Wood Beam",
   "block.conquest.tarred_birch_wood_beam_bark": "Tarred Fine Wood Beam Bark",
+<<<<<<< HEAD
   "block.conquest.tarred_birch_wood_beam_beam_board": "Tarred Fine Wood Beam Board",
+=======
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
   "block.conquest.tarred_birch_wood_beam_wall": "Tarred Fine Wood Beam Wall",
   "block.conquest.tarred_birch_wood_beam_pillar": "Tarred Fine Wood Beam Pillar",
   "block.conquest.tarred_birch_wood_beam_slab": "Tarred Fine Wood Beam Slab",

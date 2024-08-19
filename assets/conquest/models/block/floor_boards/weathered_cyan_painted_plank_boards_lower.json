@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/floor_boards/template_board_half_extended_lower_vertical",
+	"textures": {
+		"0": "minecraft:block/magenta_concrete"
+	}
+}
