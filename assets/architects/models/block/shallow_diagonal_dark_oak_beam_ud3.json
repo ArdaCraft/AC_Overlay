@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_shallow_diagonal_beam_ud3",
+  "textures": {
+    "end": "minecraft:block/stripped_dark_oak_log",
+    "side": "minecraft:block/stripped_dark_oak_log"
+  }
+}

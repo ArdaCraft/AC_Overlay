@@ -1,0 +1,66 @@
+{
+    "multipart": [
+        {
+            "apply": [
+                {
+                    "model": "conquest:block/wooden_washing_tub"
+                }
+            ],
+            "when": {
+                "facing": "north"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "conquest:block/wooden_washing_tub"
+                }
+            ],
+            "when": {
+                "facing": "south"
+            }
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub",
+                "y": 90
+            },
+            "when": {
+                "facing": "east"
+            }
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub",
+                "y": 90
+            },
+            "when": {
+                "facing": "west"
+            }
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub_water", "yoffset": -4
+            },
+            "when": {
+                "level": "1"
+            }
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub_water", "yoffset": -1.5
+            },
+            "when": {
+                "level": "2"
+            }
+        },
+        {
+            "apply": {
+                "model": "conquest:block/wooden_washing_tub_water"
+            },
+            "when": {
+                "level": "3"
+            }
+        }
+    ]
+}

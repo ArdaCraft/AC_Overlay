@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_shallow_diagonal_beam_d3",
+  "textures": {
+    "end": "minecraft:block/stripped_birch_log",
+    "side": "minecraft:block/stripped_birch_log"
+  }
+}

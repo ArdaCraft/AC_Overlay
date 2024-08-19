@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_steeper_diagonal_beam_back_corner",
+  "textures": {
+    "end": "conquest:block/1_basic_refined/3_wood/beech_wood_beam",
+    "side": "conquest:block/1_basic_refined/3_wood/beech_wood_beam"
+  }
+}

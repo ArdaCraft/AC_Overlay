@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_shallow_diagonal_beam2",
+  "textures": {
+    "end": "minecraft:block/stripped_spruce_log",
+    "side": "minecraft:block/stripped_spruce_log"
+  }
+}

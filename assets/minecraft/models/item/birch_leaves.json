@@ -1,0 +1,19 @@
+{
+    "loader": "forge:separate_transforms",
+    "base": {
+        "parent": "block/birch_leaves"
+    },
+    "perspectives": {
+        "gui": {
+            "parent": "item/birch_leaves_inv"
+        },
+        "ground": {
+            "parent": "item/birch_leaves_inv"
+        },
+        "textures": {
+            "0": "block/birch_leaves_1",
+            "3": "block/birch_leaves_2",
+            "particle": "block/birch_leaves_1"
+        }
+    }
+}

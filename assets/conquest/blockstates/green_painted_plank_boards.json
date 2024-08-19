@@ -1,220 +1,28 @@
 {
-	"multipart": [
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_upper"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "south",
-						"type": "top"
-					}
-				]
-			}
+	"variants": {
+		"type=top,facing=south": {
+			"model": "conquest:block/green_painted_plank_boards", "y": 90
 		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_upper_right_extended"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "south",
-						"type": "top"
-					}
-				]
-			}
+		"type=top,facing=west": {
+			"model": "conquest:block/green_painted_plank_boards"
 		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_lower"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "south",
-						"type": "bottom"
-					}
-				]
-			}
+		"type=top,facing=north": {
+			"model": "conquest:block/green_painted_plank_boards", "y": 90
 		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_lower_right_extended"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "south",
-						"type": "bottom"
-					}
-				]
-			}
+		"type=top,facing=east": {
+			"model": "conquest:block/green_painted_plank_boards"
 		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_upper"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "north",
-						"type": "top"
-					}
-				]
-			}
+		"type=bottom,facing=south": {
+			"model": "conquest:block/green_painted_plank_boards", "y": 90, "yoffset": -8.5
 		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_upper_left_extended"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "north",
-						"type": "top"
-					}
-				]
-			}
+		"type=bottom,facing=west": {
+			"model": "conquest:block/green_painted_plank_boards", "yoffset": -8.5
 		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_lower"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "north",
-						"type": "bottom"
-					}
-				]
-			}
+		"type=bottom,facing=north": {
+			"model": "conquest:block/green_painted_plank_boards", "y": 90, "yoffset": -8.5
 		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_lower_left_extended"
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "north",
-						"type": "bottom"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_upper",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "west",
-						"type": "top"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_upper_right_extended",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "west",
-						"type": "top"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_lower",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "west",
-						"type": "bottom"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_lower_right_extended",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "west",
-						"type": "bottom"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_upper",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "east",
-						"type": "top"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_upper_left_extended",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "east",
-						"type": "top"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_plank_boards_lower",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "east",
-						"type": "bottom"
-					}
-				]
-			}
-		},
-		{
-			"apply": {
-				"model": "conquest:block/floor_boards/extended/bleached_brown_board_lower_left_extended",
-				"y": 90
-			},
-			"when": {
-				"AND": [
-					{
-						"facing": "east",
-						"type": "bottom"
-					}
-				]
-			}
+		"type=bottom,facing=east": {
+			"model": "conquest:block/green_painted_plank_boards", "yoffset": -8.5
 		}
-	]
+	}
 }

@@ -1,0 +1,19 @@
+{
+    "loader": "forge:separate_transforms",
+    "base": {
+        "parent": "block/maple_leaves"
+    },
+    "perspectives": {
+        "gui": {
+            "parent": "item/dark_oak_leaves_inv"
+        },
+        "ground": {
+            "parent": "item/dark_oak_leaves_inv"
+        },
+        "textures": {
+            "0": "block/maple_leaves_1",
+            "3": "block/maple_leaves_2",
+            "particle": "block/maple_leaves_1"
+        }
+    }
+}

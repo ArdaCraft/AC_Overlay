@@ -1,7 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["conquest:meadow_fescue"],
-    "yVariance": "4",
-    "yoffset": "0",
-    "source": "./meadow_fescue.png"
-}

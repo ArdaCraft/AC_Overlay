@@ -1,28 +1,92 @@
 {
     "variants": {
         "layers=1": [
-            {"model": "conquest:block/warped_fungus_1_a"}, {"model": "conquest:block/warped_fungus_1_b"}, {"model": "conquest:block/warped_fungus_1_c"}
+            {
+                "model": "conquest:block/warped_fungus_1_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_1_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_1_c"
+            }
         ],
         "layers=2": [
-            {"model": "conquest:block/warped_fungus_2_a"}, {"model": "conquest:block/warped_fungus_2_b"}, {"model": "conquest:block/warped_fungus_2_c"}
+            {
+                "model": "conquest:block/warped_fungus_2_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_2_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_2_c"
+            }
         ],
         "layers=3": [
-            {"model": "conquest:block/warped_fungus_3_a"}, {"model": "conquest:block/warped_fungus_3_b"}, {"model": "conquest:block/warped_fungus_3_c"}
+            {
+                "model": "conquest:block/warped_fungus_3_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_3_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_3_c"
+            }
         ],
         "layers=4": [
-            {"model": "conquest:block/warped_fungus_4_a"}, {"model": "conquest:block/warped_fungus_4_b"}, {"model": "conquest:block/warped_fungus_4_c"}
+            {
+                "model": "conquest:block/warped_fungus_4_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_4_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_4_c"
+            }
         ],
         "layers=5": [
-            {"model": "conquest:block/warped_fungus_5_a"}, {"model": "conquest:block/warped_fungus_5_b"}, {"model": "conquest:block/warped_fungus_5_c"}
+            {
+                "model": "conquest:block/warped_fungus_5_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_5_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_5_c"
+            }
         ],
         "layers=6": [
-            {"model": "conquest:block/warped_fungus_6_a"}, {"model": "conquest:block/warped_fungus_6_b"}, {"model": "conquest:block/warped_fungus_6_c"}
+            {
+                "model": "conquest:block/warped_fungus_6_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_6_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_6_c"
+            }
         ],
         "layers=7": [
-            {"model": "conquest:block/warped_fungus_7_a"}, {"model": "conquest:block/warped_fungus_7_b"}, {"model": "conquest:block/warped_fungus_7_c"}
+            {
+                "model": "conquest:block/warped_fungus_7_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_7_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_7_c"
+            }
         ],
         "layers=8": [
-            {"model": "conquest:block/warped_fungus_8_a"}, {"model": "conquest:block/warped_fungus_8_b"}, {"model": "conquest:block/warped_fungus_8_c"}
+            {
+                "model": "conquest:block/warped_fungus_8_a"
+            },
+            {
+                "model": "conquest:block/warped_fungus_8_b"
+            },
+            {
+                "model": "conquest:block/warped_fungus_8_c"
+            }
         ]
     }
 }

@@ -1,0 +1,10 @@
+{
+	"loader": "porting_lib:obj",
+	"parent": "minecraft:block/block",
+	"model": "architects:models/obj/shallow_diagonal_beam1.obj",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "#side"
+	}
+}

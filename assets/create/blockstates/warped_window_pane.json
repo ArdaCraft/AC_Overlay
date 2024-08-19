@@ -16,8 +16,13 @@
     "east=false,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_ne", "y": 180 },
     "east=false,north=true,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ne", "y": 270 },
 
+<<<<<<< HEAD
+    "east=false,north=true,south=true,west=false": { "model": "create:block/old_wicker_fence_ns_ext" },
+    "east=true,north=false,south=false,west=true": { "model": "create:block/old_wicker_fence_ns_ext", "y": 90 },
+=======
     "east=false,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_ns" },
     "east=true,north=false,south=false,west=true": { "model": "conquest:block/old_wicker_fence_ns", "y": 90 },
+>>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
 
     "east=true,north=true,south=true,west=false": { "model": "conquest:block/old_wicker_fence_nse" },
     "east=true,north=false,south=true,west=true": { "model": "conquest:block/old_wicker_fence_nse", "y": 90 },

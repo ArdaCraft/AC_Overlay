@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_horizontal_diagonal_beam_top_right2",
+  "textures": {
+    "end": "minecraft:block/stripped_dark_oak_log",
+    "side": "minecraft:block/stripped_dark_oak_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_half_diagonal_beam_bottom2",
+  "textures": {
+    "end": "minecraft:block/bamboo_block",
+    "side": "minecraft:block/bamboo_block"
+  }
+}

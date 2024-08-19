@@ -1,7 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["conquest:wavy_hair_grass"],
-    "yVariance": "4",
-    "yoffset": "0",
-    "source": "./wavy_hair_grass.png"
-}

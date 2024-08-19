@@ -1,6 +1,0 @@
-{
-	"parent": "conquest:block/floor_boards/template_board_lower",
-	"textures": {
-		"0": "conquest:block/1_basic_refined/3_wood/birch/light_birch_wood_planks"
-	}
-}

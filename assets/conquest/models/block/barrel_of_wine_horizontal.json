@@ -1,5 +1,5 @@
 {
-	"loader": "forge:obj",
+	"loader": "porting_lib:obj",
 	"model": "conquest:models/obj/barrel_of_wine_horizontal.obj",
 	"ambientToFullbright": true,
 	"flip-v": true,

@@ -1,0 +1,18 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+      "parent": "conquest:block/white_cherry_blossoms"
+  },
+  "perspectives": {
+      "gui": {
+          "parent": "conquest:item/white_cherry_blossoms_inv"
+      },
+      "ground": {
+          "parent": "conquest:item/white_cherry_blossoms_inv"
+      },
+      "textures": {
+          "layer0": "conquest:block/9_organic/2_leaves/white_cherry_blossoms_1",
+          "particle": "conquest:block/9_organic/2_leaves/white_cherry_blossoms_1"
+      }
+  }
+}

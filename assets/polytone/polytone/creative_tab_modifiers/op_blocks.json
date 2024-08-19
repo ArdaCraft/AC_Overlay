@@ -1,0 +1,26 @@
+{
+    "targets": [
+        "minecraft:op_blocks"
+    ],
+    "removals": [
+        {
+            "type": "id_match",
+            "path": ".*"
+        }
+    ],
+    "additions": [
+        {
+            "items": [
+                "minecraft:command_block",
+                "minecraft:chain_command_block",
+                "minecraft:repeating_command_block",
+                "minecraft:jigsaw",
+                "minecraft:structure_block",
+                "ardapaths:path_marker"
+            ]
+        }
+    ],
+    "icon": {
+        "id": "repeating_command_block"
+    }
+}

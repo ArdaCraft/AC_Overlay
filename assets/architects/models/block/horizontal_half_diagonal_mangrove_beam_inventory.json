@@ -1,0 +1,7 @@
+{
+  "parent": "architects:block/horizontal_half_diagonal_beam_inventory",
+  "textures": {
+    "end": "minecraft:block/bamboo_block",
+    "side": "minecraft:block/bamboo_block"
+  }
+}

@@ -1,13 +1,28 @@
-{"variants":
-	{
-		"type=top,facing=south":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_upper","y":90 },
-		"type=top,facing=west":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_upper" },
-		"type=top,facing=north":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_upper","y":90 },
-		"type=top,facing=east":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_upper" },
-		
-		"type=bottom,facing=south":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_lower","y":90 },
-		"type=bottom,facing=west":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_lower" },
-		"type=bottom,facing=north":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_lower","y":90 },
-		"type=bottom,facing=east":{"model":"conquest:block/floor_boards/orange_painted_plank_boards_lower"}
+{
+	"variants": {
+		"type=top,facing=south": {
+			"model": "conquest:block/orange_painted_plank_boards", "y": 90
+		},
+		"type=top,facing=west": {
+			"model": "conquest:block/orange_painted_plank_boards"
+		},
+		"type=top,facing=north": {
+			"model": "conquest:block/orange_painted_plank_boards", "y": 90
+		},
+		"type=top,facing=east": {
+			"model": "conquest:block/orange_painted_plank_boards"
+		},
+		"type=bottom,facing=south": {
+			"model": "conquest:block/orange_painted_plank_boards", "y": 90, "yoffset": -8.5
+		},
+		"type=bottom,facing=west": {
+			"model": "conquest:block/orange_painted_plank_boards", "yoffset": -8.5
+		},
+		"type=bottom,facing=north": {
+			"model": "conquest:block/orange_painted_plank_boards", "y": 90, "yoffset": -8.5
+		},
+		"type=bottom,facing=east": {
+			"model": "conquest:block/orange_painted_plank_boards", "yoffset": -8.5
+		}
 	}
 }

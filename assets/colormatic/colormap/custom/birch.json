@@ -1,6 +1,0 @@
-{
-    "format": "grid",
-    "blocks": ["minecraft:birch_leaves"],
-    "yVariance": "2",
-    "yoffset": "2"
-}

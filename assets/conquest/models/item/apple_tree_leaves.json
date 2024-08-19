@@ -1,0 +1,18 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+      "parent": "conquest:block/apple_tree_leaves"
+  },
+  "perspectives": {
+      "gui": {
+          "parent": "conquest:item/apple_tree_leaves_inv"
+      },
+      "ground": {
+          "parent": "conquest:item/apple_tree_leaves_inv"
+      },
+      "textures": {
+          "layer0": "conquest:block/9_organic/2_leaves/apple_tree_leaves_fruit_1",
+          "particle": "conquest:block/9_organic/2_leaves/apple_tree_leaves_fruit_1"
+      }
+  }
+}
