@@ -1,21 +1,4 @@
 {
-<<<<<<< HEAD
-    "loader": "porting_lib:obj",
-	"parent": "block/block",
-    "model": "conquest:models/obj/wooden_washing_tub.obj",
-    "ambientToFullbright": true,
-    "flip-v": true,
-	"textures": {
-		"particle": "conquest:block/3_decoration/3_wood/wooden_washing_tub/wooden_washing_tub_side",
-		"inside": "conquest:block/3_decoration/3_wood/wooden_washing_tub/wooden_washing_tub_inside",
-		"bottom": "conquest:block/3_decoration/3_wood/wooden_washing_tub/wooden_washing_tub_bottom"
-	},
-	"display": {
-		"gui": {
-			"rotation": [ 30, 225, 0 ],
-			"translation": [ 0, 0, 0],
-			"scale":[ 0.625, 0.625, 0.625 ]
-=======
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
@@ -355,35 +338,11 @@
 			"rotation": [37, 54, -5],
 			"translation": [0.0006, 1.3913, 2.0855],
 			"scale": [0.6, 0.6, 0.6]
->>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
 		},
 		"fixed": {
 			"rotation": [0, -67, 0],
 			"translation": [0, 0, -22],
 			"scale": [2, 2, 2]
-<<<<<<< HEAD
-		},
-		"thirdperson_righthand": {
-			"rotation": [ 75, 45, 0 ],
-			"translation": [ 0, 2.5, 0],
-			"scale": [ 0.375, 0.375, 0.375 ]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 2.5, 0],
-			"scale": [0.375, 0.375, 0.375]
-		},
-		"firstperson_righthand": {
-			"rotation": [ 0, 45, 0 ],
-			"translation": [ 0, 0, 0 ],
-			"scale": [ 0.40, 0.40, 0.40 ]
-		},
-		"firstperson_lefthand": {
-			"rotation": [ 0, 225, 0 ],
-			"translation": [ 0, 0, 0 ],
-			"scale": [ 0.40, 0.40, 0.40 ]
-=======
->>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
 		}
 	}
 }

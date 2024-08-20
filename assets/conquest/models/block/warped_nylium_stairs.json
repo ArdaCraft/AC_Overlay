@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"parent":"minecraft:block/stairs","textures":{"bottom":"minecraft:block/warped_nylium","top":"minecraft:block/warped_nylium","side":"minecraft:block/warped_nylium"}}
-=======
 {"parent":"minecraft:block/stairs","textures":{"bottom":"minecraft:block/warped_nylium","top":"minecraft:block/warped_nylium","side":"minecraft:block/warped_nylium_side"}}
->>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30

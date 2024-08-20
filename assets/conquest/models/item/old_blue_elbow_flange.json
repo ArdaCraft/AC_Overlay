@@ -1,7 +1,3 @@
 {
-<<<<<<< HEAD
-  "parent": "conquest:block/wicker_chest"
-=======
   "parent": "conquest:block/wicker_chest_center"
->>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
 }
