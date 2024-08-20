@@ -1,26 +1,6 @@
 {
-<<<<<<< HEAD
-    "loader": "forge:separate_transforms",
-    "base": {
-        "parent": "block/mangrove_leaves"
-    },
-    "perspectives": {
-        "gui": {
-            "parent": "item/mangrove_leaves_inv"
-        },
-        "ground": {
-            "parent": "item/mangrove_leaves_inv"
-        },
-        "textures": {
-            "0": "block/mangrove_leaves",
-            "particle": "block/mangrove_leaves"
-        }
-    }
-}
-=======
     "parent": "item/generated",
     "textures": {
         "layer0": "block/mangrove_leaves"
     }
 }
->>>>>>> 7e7e2e1a9bcbad8b9590c927386c2ad4c4a54e30
