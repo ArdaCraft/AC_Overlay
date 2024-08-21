@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
 	"parent": "block/block",
     "model": "conquest:models/obj/22_degree_diagonal_branch.obj",
     "ambientToFullbright": true,

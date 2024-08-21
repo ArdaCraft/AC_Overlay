@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/large_cogwheel.obj",
     "ambientToFullbright": true,
     "flip-v": true,

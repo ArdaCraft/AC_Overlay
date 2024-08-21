@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/fancy_nordic_bed_foot.obj",
     "ambientToFullbright": true,
     "flip-v": true,

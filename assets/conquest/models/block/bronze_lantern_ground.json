@@ -1,5 +1,5 @@
 {
-	"loader": "forge:obj",
+	"loader": "porting_lib:obj",
 	"parent": "block/block",
 	"model": "conquest:models/obj/bronze_lantern_ground.obj",
 	"ambientToFullbright": true,

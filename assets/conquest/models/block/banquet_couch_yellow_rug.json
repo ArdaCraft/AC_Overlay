@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/banquet_couch_rug.obj",
     "ambientToFullbright": true,
     "flip-v": true,

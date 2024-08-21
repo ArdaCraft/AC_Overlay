@@ -1,6 +1,6 @@
 {
 	"parent": "block/block",
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/old_basket.obj",
     "ambientToFullbright": true,
     "flip-v": true,

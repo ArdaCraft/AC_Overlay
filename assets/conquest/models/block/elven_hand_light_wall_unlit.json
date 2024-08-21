@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/elven_hand_light_wall.obj",
     "ambientToFullbright": true,
 	"ambientocclusion": false,

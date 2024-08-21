@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/kettle_cups.obj",
     "ambientToFullbright": true,
     "flip-v": true,

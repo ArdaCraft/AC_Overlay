@@ -1,5 +1,5 @@
 {
-	"loader": "forge:obj",
+	"loader": "porting_lib:obj",
 	"model": "conquest:models/obj/tall_round_barrel_side.obj",
 	"ambientToFullbright": true,
 	"flip-v": true,

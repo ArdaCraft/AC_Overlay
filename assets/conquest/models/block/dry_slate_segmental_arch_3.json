@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/block/obj/generic_segmental_arch_3.obj",
     "ambientToFullbright": true,
     "flip-v": true,

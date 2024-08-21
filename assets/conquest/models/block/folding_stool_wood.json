@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/folding_stool_wood.obj",
     "ambientToFullbright": true,
     "flip-v": true,

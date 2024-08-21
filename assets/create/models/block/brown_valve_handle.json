@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/smooth_log_seat.obj",
 	"parent": "block/block",
     "ambientToFullbright": true,

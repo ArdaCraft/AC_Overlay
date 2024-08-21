@@ -1,5 +1,5 @@
 {
-    "loader": "forge:obj",
+    "loader": "porting_lib:obj",
     "model": "conquest:models/obj/shallow_diagonal_angled_beam_top.obj",
     "ambientToFullbright": true,
     "flip-v": true,
