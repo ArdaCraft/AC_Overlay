@@ -17,8 +17,18 @@ jobs:
       run: npm install -g jsonlint
     - name: Run JSON lint
       run: |
-        find . -name "*.json" -type f -print0 | xargs -0 -n1 jsonlint -q
-        if [ $? -ne 0 ]; then
+        #!/bin/bash
+        set -e
+        error_found=false
+        while IFS= read -r -d '' file
+        do
+          if ! jsonlint -q "$file"; then
+            echo "Error in file: $file"
+            jsonlint "$file"
+            error_found=true
+          fi
+        done < <(find . -name "*.json" -type f -print0)
+        if [ "$error_found" = true ] ; then
           echo "JSON linting failed"
           exit 1
         fi
