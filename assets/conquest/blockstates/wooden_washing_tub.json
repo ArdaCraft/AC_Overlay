@@ -4,39 +4,12 @@
             "apply": [
                 {
                     "model": "conquest:block/wooden_washing_tub"
-                }
-            ],
-            "when": {
-                "facing": "north"
-            }
-        },
-        {
-            "apply": [
+                },
                 {
-                    "model": "conquest:block/wooden_washing_tub"
+                    "model": "conquest:block/wooden_washing_tub",
+                    "y": 90
                 }
-            ],
-            "when": {
-                "facing": "south"
-            }
-        },
-        {
-            "apply": {
-                "model": "conquest:block/wooden_washing_tub",
-                "y": 90
-            },
-            "when": {
-                "facing": "east"
-            }
-        },
-        {
-            "apply": {
-                "model": "conquest:block/wooden_washing_tub",
-                "y": 90
-            },
-            "when": {
-                "facing": "west"
-            }
+            ]
         },
         {
             "apply": {
