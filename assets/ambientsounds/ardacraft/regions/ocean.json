@@ -1,0 +1,21 @@
+{
+    "name": "ocean",
+    "features": [
+        "water"
+    ],
+    "temperature": {
+        "min": 0
+    },
+    "sound-collections": [
+        "wind"
+    ],
+    "sounds": [
+        {
+            "name": "ocean",
+            "files": [
+                "ambientsounds:water.ocean"
+            ],
+            "volume": 0.1
+        }
+    ]
+}

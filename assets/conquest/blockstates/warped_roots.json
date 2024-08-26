@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "layers=1": [
+			{ "model": "conquest:block/dolia_lid", "yoffset": -14 },
+			{ "model": "conquest:block/dolia_lid", "y": 90, "yoffset": -14 },
+			{ "model": "conquest:block/dolia_lid2", "yoffset": -14 },
+			{ "model": "conquest:block/dolia_lid2", "y": 90, "yoffset": -14 }
+		],
+        "layers=2": [
+			{ "model": "conquest:block/dolia_lid", "yoffset": -12 },
+			{ "model": "conquest:block/dolia_lid", "y": 90, "yoffset": -12 },
+			{ "model": "conquest:block/dolia_lid2", "yoffset": -12 },
+			{ "model": "conquest:block/dolia_lid2", "y": 90, "yoffset": -12 }
+		],
+        "layers=3": [
+			{ "model": "conquest:block/dolia_lid", "yoffset": -10 },
+			{ "model": "conquest:block/dolia_lid", "y": 90, "yoffset": -10 },
+			{ "model": "conquest:block/dolia_lid2", "yoffset": -10 },
+			{ "model": "conquest:block/dolia_lid2", "y": 90, "yoffset": -10 }
+		],
+        "layers=4": [
+			{ "model": "conquest:block/dolia_lid", "yoffset": -8 },
+			{ "model": "conquest:block/dolia_lid", "y": 90, "yoffset": -8 },
+			{ "model": "conquest:block/dolia_lid2", "yoffset": -8 },
+			{ "model": "conquest:block/dolia_lid2", "y": 90, "yoffset": -8 }
+		],
+        "layers=5": [
+			{ "model": "conquest:block/dolia_lid", "yoffset": -6 },
+			{ "model": "conquest:block/dolia_lid", "y": 90, "yoffset": -6 },
+			{ "model": "conquest:block/dolia_lid2", "yoffset": -6 },
+			{ "model": "conquest:block/dolia_lid2", "y": 90, "yoffset": -6 }
+		],
+        "layers=6": [
+			{ "model": "conquest:block/dolia_lid", "yoffset": -4 },
+			{ "model": "conquest:block/dolia_lid", "y": 90, "yoffset": -4 },
+			{ "model": "conquest:block/dolia_lid2", "yoffset": -4 },
+			{ "model": "conquest:block/dolia_lid2", "y": 90, "yoffset": -4 }
+		],
+        "layers=7": [
+			{ "model": "conquest:block/dolia_lid", "yoffset": -2 },
+			{ "model": "conquest:block/dolia_lid", "y": 90, "yoffset": -2 },
+			{ "model": "conquest:block/dolia_lid2", "yoffset": -2 },
+			{ "model": "conquest:block/dolia_lid2", "y": 90, "yoffset": -2 }
+		],
+        "layers=8": [
+			{ "model": "conquest:block/dolia_lid" },
+			{ "model": "conquest:block/dolia_lid", "y": 90 },
+			{ "model": "conquest:block/dolia_lid2" },
+			{ "model": "conquest:block/dolia_lid2", "y": 90 }
+		]
+    }
+}

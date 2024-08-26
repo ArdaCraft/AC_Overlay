@@ -1,5 +1,6 @@
 {
     "loader": "porting_lib:obj",
+	"render_type": "minecraft:cutout",
     "model": "conquest:models/obj/dolia.obj",
     "ambientToFullbright": true,
     "flip-v": true,

@@ -1,5 +1,9 @@
 [
-	"minecraft:sand",
-	"minecraft:dead_bush",
-	"minecraft:cactus"
+    "minecraft:sand",
+    "conquest:tan_sand",
+    "conquest:wet_tan_sand",
+    "conquest:brown_sand",
+    "conquest:wet_brown_sand",
+    "conquest:blue_soil",
+    "conquest:wet_sand"
 ]

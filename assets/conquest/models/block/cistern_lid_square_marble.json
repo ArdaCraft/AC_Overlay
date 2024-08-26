@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "conquest:block/cistern_lid_square_limestone",
+	"textures": {
+		"particle": "conquest:xone/cistern_lid_marble"
+	}
+}

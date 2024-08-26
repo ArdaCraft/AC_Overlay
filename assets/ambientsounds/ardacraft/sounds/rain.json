@@ -1,9 +1,0 @@
-[
-	{
-		"name": "rain",
-		"category": "weather",
-		"files": [
-			"ambientsounds:weather.rain"
-		]
-	}
-]
