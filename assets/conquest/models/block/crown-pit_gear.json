@@ -1,7 +1,7 @@
 {
     "loader": "porting_lib:obj",
     "model": "conquest:models/obj/water_wheel.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
     "textures": {
         "particle": "#cog",

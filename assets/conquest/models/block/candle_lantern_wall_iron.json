@@ -2,7 +2,7 @@
     "loader": "porting_lib:obj",
     "model": "conquest:models/obj/candle_lantern_wall.obj",
 	"parent": "block/block",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"particle": "conquest:xone/candle_lantern_iron",

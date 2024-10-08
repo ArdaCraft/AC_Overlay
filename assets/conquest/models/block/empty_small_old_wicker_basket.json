@@ -2,7 +2,7 @@
 	"parent": "block/block",
     "loader": "porting_lib:obj",
     "model": "conquest:models/obj/old_basket.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"particle": "#sides",

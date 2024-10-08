@@ -1,7 +1,7 @@
 {
     "loader": "porting_lib:obj",
     "model": "conquest:models/block/obj/generic_segmental_arch_3.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"particle": "conquest:block/1_basic_refined/1_stone/3_limestone/light_limestone_arch/arch",

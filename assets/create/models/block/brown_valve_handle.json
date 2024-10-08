@@ -2,7 +2,7 @@
     "loader": "porting_lib:obj",
     "model": "conquest:models/obj/smooth_log_seat.obj",
 	"parent": "block/block",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"top": "create:xone/smooth_log_seat_top",

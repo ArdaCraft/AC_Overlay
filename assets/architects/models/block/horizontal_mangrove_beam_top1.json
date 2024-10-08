@@ -1,7 +1,0 @@
-{
-  "parent": "architects:template/template_horizontal_beam_top1",
-  "textures": {
-    "end": "minecraft:block/bamboo_block",
-    "side": "minecraft:block/bamboo_block"
-  }
-}

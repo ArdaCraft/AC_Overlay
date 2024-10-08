@@ -2,7 +2,7 @@
     "loader": "porting_lib:obj",
 	"parent": "block/block",
     "model": "conquest:models/obj/22_degree_diagonal_branch.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"particle": "conquest:block/9_organic/1_wood/beech_log"

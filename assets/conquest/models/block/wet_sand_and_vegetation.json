@@ -1,0 +1,58 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "bottom": "conquest:block/8_topography/3_sand_clay/wet_sand_and_vegetation",
+        "top": "conquest:block/8_topography/3_sand_clay/wet_sand_and_vegetation",
+        "north": "conquest:block/8_topography/3_sand_clay/wet_sand_and_vegetation",
+        "east": "conquest:block/8_topography/3_sand_clay/wet_sand_and_vegetation",
+        "west": "conquest:block/8_topography/3_sand_clay/wet_sand_and_vegetation",
+        "south": "conquest:block/8_topography/3_sand_clay/wet_sand_and_vegetation",
+        "particle": "conquest:block/8_topography/3_sand_clay/wet_sand_and_vegetation"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "faces": {
+                "down": {
+                    "texture": "#bottom",
+                    "cullface": "down",
+                    "tintindex": 0
+                },
+                "up": {
+                    "texture": "#top",
+                    "cullface": "up",
+                    "tintindex": 0
+                },
+                "north": {
+                    "texture": "#north",
+                    "cullface": "north",
+                    "tintindex": 0
+                },
+                "south": {
+                    "texture": "#south",
+                    "cullface": "south",
+                    "tintindex": 0
+                },
+                "west": {
+                    "texture": "#west",
+                    "cullface": "west",
+                    "tintindex": 0
+                },
+                "east": {
+                    "texture": "#east",
+                    "cullface": "east",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

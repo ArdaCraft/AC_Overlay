@@ -1,7 +1,7 @@
 {
 	"loader": "porting_lib:obj",
 	"model": "conquest:models/block/obj/thick_diagonal_oak_branch_45_45_stem.obj",
-	"ambientToFullbright": true,
+	"emissive_ambient": true,
 	"flip-v": true,
 	"textures": {
 		"log": "minecraft:xone/birch_branch",

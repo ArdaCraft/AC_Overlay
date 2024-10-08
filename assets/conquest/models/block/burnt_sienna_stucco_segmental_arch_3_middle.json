@@ -1,7 +1,7 @@
 {
     "loader": "porting_lib:obj",
     "model": "conquest:models/block/obj/smooth_segmental_arch_3_middle.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
     "textures": {
         "particle": "conquest:block/2_advanced_refined/3_plaster/burnt_sienna_stucco",

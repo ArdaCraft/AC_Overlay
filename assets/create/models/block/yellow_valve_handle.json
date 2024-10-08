@@ -1,7 +1,7 @@
 {
     "loader": "porting_lib:obj",
     "model": "conquest:models/obj/cooking_pot_bronze.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"texture_size": [32, 32],
 	"textures": {

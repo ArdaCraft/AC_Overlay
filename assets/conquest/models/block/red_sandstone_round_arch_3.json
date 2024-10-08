@@ -1,7 +1,7 @@
 {
     "loader": "porting_lib:obj",
     "model": "conquest:models/block/obj/lime_mortar_orange_clay_brick_round_arch_3.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
     "textures": {
         "particle": "conquest:block/1_basic_refined/1_stone/1_clay/lime_mortar_red_clay_brick_arch/1",

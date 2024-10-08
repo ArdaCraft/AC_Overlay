@@ -1,0 +1,8 @@
+{
+    "parent": "conquest:block/templates/tint/parent_stairs_tint",
+    "textures": {
+        "bottom": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "top": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "side": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles"
+    }
+}

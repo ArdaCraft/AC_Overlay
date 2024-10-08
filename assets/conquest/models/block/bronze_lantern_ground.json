@@ -2,7 +2,7 @@
 	"loader": "porting_lib:obj",
 	"parent": "block/block",
 	"model": "conquest:models/obj/bronze_lantern_ground.obj",
-	"ambientToFullbright": true,
+	"emissive_ambient": true,
 	"flip-v": true,
 	"textures": {
 		"lantern": "conquest:xone/bronze_lantern",

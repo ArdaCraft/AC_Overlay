@@ -1,0 +1,6 @@
+{
+  "parent": "architects:template/template_horizontal_beam4",
+  "textures": {
+    "particle": "conquest:block/1_basic_refined/3_wood/apple_wood_beam"
+  }
+}

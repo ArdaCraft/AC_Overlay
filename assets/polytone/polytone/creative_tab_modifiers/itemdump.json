@@ -13,6 +13,7 @@
             "items": [
                 "minecraft:air",
                 "porting_lib:area_selector",
+                "minecraft:goat_horn",
                 "minecraft:bamboo_mosaic_slab",
                 "minecraft:stone_slab",
                 "minecraft:smooth_stone_slab",

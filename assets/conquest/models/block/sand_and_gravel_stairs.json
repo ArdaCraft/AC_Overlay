@@ -1,0 +1,8 @@
+{
+    "parent": "conquest:block/templates/tint/parent_stairs_tint",
+    "textures": {
+        "bottom": "conquest:block/8_topography/3_sand_clay/sand_and_gravel",
+        "top": "conquest:block/8_topography/3_sand_clay/sand_and_gravel",
+        "side": "conquest:block/8_topography/3_sand_clay/sand_and_gravel"
+    }
+}

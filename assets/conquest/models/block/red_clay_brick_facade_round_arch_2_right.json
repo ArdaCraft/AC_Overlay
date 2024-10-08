@@ -1,7 +1,7 @@
 {
     "loader": "porting_lib:obj",
     "model": "conquest:models/block/obj/generic_facade_round_arch_2_right.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
     "textures": {
         "particle": "conquest:xone/byzan_arch/arch",

@@ -1,0 +1,58 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "bottom": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "top": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "north": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "east": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "west": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "south": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles",
+        "particle": "conquest:block/8_topography/6_debris_gravel/smooth_pebbles"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "faces": {
+                "down": {
+                    "texture": "#bottom",
+                    "cullface": "down",
+                    "tintindex": 0
+                },
+                "up": {
+                    "texture": "#top",
+                    "cullface": "up",
+                    "tintindex": 0
+                },
+                "north": {
+                    "texture": "#north",
+                    "cullface": "north",
+                    "tintindex": 0
+                },
+                "south": {
+                    "texture": "#south",
+                    "cullface": "south",
+                    "tintindex": 0
+                },
+                "west": {
+                    "texture": "#west",
+                    "cullface": "west",
+                    "tintindex": 0
+                },
+                "east": {
+                    "texture": "#east",
+                    "cullface": "east",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

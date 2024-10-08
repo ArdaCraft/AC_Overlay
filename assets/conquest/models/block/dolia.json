@@ -2,7 +2,7 @@
     "loader": "porting_lib:obj",
 	"render_type": "minecraft:cutout",
     "model": "conquest:models/obj/dolia.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"texture_size": [32, 32],
 	"textures": {

@@ -17,7 +17,8 @@
     "create:red_valve_handle",
     "conquest:jam_jars",
     "create:chute",
-    "conquest:milk_jug"
+    "conquest:milk_jug",
+    "conquest:warped_roots"
   ],
   "sound_type": {
     "break_sound": "block.decorated_pot.shatter",

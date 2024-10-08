@@ -2,7 +2,7 @@
     "loader": "porting_lib:obj",
 	"parent": "block/block",
     "model": "conquest:models/obj/wooden_washing_tub.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"particle": "conquest:block/3_decoration/3_wood/wooden_washing_tub/wooden_washing_tub_side",

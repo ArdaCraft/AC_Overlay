@@ -1,7 +1,7 @@
 {
     "loader": "porting_lib:obj",
     "model": "conquest:models/block/obj/smooth_gothic_arch_1.obj",
-    "ambientToFullbright": true,
+    "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"particle": "conquest:block/1_basic_refined/1_stone/3_limestone/limestone_cobble_arch/arch",
