@@ -18,7 +18,8 @@
     "conquest:jam_jars",
     "create:chute",
     "conquest:milk_jug",
-    "conquest:warped_roots"
+    "conquest:warped_roots",
+    "hearthfire:plunger_butter_churn"
   ],
   "sound_type": {
     "break_sound": "block.decorated_pot.shatter",

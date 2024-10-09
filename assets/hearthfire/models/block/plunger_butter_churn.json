@@ -1,0 +1,9 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "hearthfire:models/obj/clay_butter_churn.obj",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "hearthfire:block/clay_butter_churn"
+	}
+}

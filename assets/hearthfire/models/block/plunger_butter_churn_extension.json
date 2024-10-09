@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "hearthfire:block/butter_churn/butter_churn_stick",
+		"texture": "hearthfire:block/butter_churn/butter_churn_stick"
+	},
+	"elements": [
+		{
+			"from": [7.5, -3.5, 7.5],
+			"to": [8.5, 12.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 8]},
+			"faces": {
+				"north": {"uv": [1, 0, 2, 16], "texture": "#texture"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#texture"},
+				"south": {"uv": [1, 0, 2, 16], "texture": "#texture"},
+				"west": {"uv": [2, 0, 3, 16], "texture": "#texture"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#texture"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#texture"}
+			}
+		}
+	]
+}

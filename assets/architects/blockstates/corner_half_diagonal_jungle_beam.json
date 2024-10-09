@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "facing=east,half=bottom": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_bottom",
+      "y": 90,
+      "yoffset": 6
+    },
+    "facing=east,half=top": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_top",
+      "y": 90,
+      "yoffset": 6
+    },
+    "facing=north,half=bottom": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_bottom",
+      "yoffset": 6
+    },
+    "facing=north,half=top": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_top",
+      "yoffset": 6
+    },
+    "facing=south,half=bottom": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_bottom",
+      "y": 180,
+      "yoffset": 6
+    },
+    "facing=south,half=top": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_top",
+      "y": 180,
+      "yoffset": 6
+    },
+    "facing=west,half=bottom": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_bottom",
+      "y": 270,
+      "yoffset": 6
+    },
+    "facing=west,half=top": {
+      "model": "architects:block/corner_half_diagonal_jungle_beam_top",
+      "y": 270,
+      "yoffset": 6
+    }
+  }
+}
