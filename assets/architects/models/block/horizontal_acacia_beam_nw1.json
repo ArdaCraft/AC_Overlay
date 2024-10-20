@@ -1,0 +1,6 @@
+{
+  "parent": "architects:template/template_horizontal_beam_nw1",
+  "textures": {
+    "particle": "conquest:block/1_basic_refined/3_wood/aspen_wood_beam"
+  }
+}

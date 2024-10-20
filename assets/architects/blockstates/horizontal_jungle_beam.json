@@ -1,184 +1,216 @@
 {
   "variants": {
     "facing=east,part=bottom,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
+      "model": "architects:block/horizontal_jungle_beam_se1",
       "y": 90
     },
     "facing=east,part=bottom,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
+      "model": "architects:block/horizontal_jungle_beam_se2",
       "y": 90
     },
     "facing=east,part=bottom,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
+      "model": "architects:block/horizontal_jungle_beam_se3",
       "y": 90
     },
     "facing=east,part=bottom,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
+      "model": "architects:block/horizontal_jungle_beam_se4",
       "y": 90
     },
     "facing=east,part=middle,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se1",
+      "y": 90,
+      "yoffset": 6
     },
     "facing=east,part=middle,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se2",
+      "y": 90,
+      "yoffset": 6
     },
     "facing=east,part=middle,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se3",
+      "y": 90,
+      "yoffset": 6
     },
     "facing=east,part=middle,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se4",
+      "y": 90,
+      "yoffset": 6
     },
     "facing=east,part=top,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se1",
+      "y": 90,
+      "yoffset": 12
     },
     "facing=east,part=top,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se2",
+      "y": 90,
+      "yoffset": 12
     },
     "facing=east,part=top,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se3",
+      "y": 90,
+      "yoffset": 12
     },
     "facing=east,part=top,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
-      "y": 90
+      "model": "architects:block/horizontal_jungle_beam_se4",
+      "y": 90,
+      "yoffset": 12
     },
     "facing=north,part=bottom,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1"
+      "model": "architects:block/horizontal_jungle_beam_nw1"
     },
     "facing=north,part=bottom,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2"
+      "model": "architects:block/horizontal_jungle_beam_nw2"
     },
     "facing=north,part=bottom,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3"
+      "model": "architects:block/horizontal_jungle_beam_nw3"
     },
     "facing=north,part=bottom,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4"
+      "model": "architects:block/horizontal_jungle_beam_nw4"
     },
     "facing=north,part=middle,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1"
+      "model": "architects:block/horizontal_jungle_beam_nw1",
+      "yoffset": 6
     },
     "facing=north,part=middle,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2"
+      "model": "architects:block/horizontal_jungle_beam_nw2",
+      "yoffset": 6
     },
     "facing=north,part=middle,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3"
+      "model": "architects:block/horizontal_jungle_beam_nw3",
+      "yoffset": 6
     },
     "facing=north,part=middle,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4"
+      "model": "architects:block/horizontal_jungle_beam_nw4",
+      "yoffset": 6
     },
     "facing=north,part=top,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1"
+      "model": "architects:block/horizontal_jungle_beam_nw1",
+      "yoffset": 12
     },
     "facing=north,part=top,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2"
+      "model": "architects:block/horizontal_jungle_beam_nw2",
+      "yoffset": 12
     },
     "facing=north,part=top,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3"
+      "model": "architects:block/horizontal_jungle_beam_nw3",
+      "yoffset": 12
     },
     "facing=north,part=top,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4"
+      "model": "architects:block/horizontal_jungle_beam_nw4",
+      "yoffset": 12
     },
     "facing=south,part=bottom,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
+      "model": "architects:block/horizontal_jungle_beam_se1",
       "y": 180
     },
     "facing=south,part=bottom,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
+      "model": "architects:block/horizontal_jungle_beam_se2",
       "y": 180
     },
     "facing=south,part=bottom,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
+      "model": "architects:block/horizontal_jungle_beam_se3",
       "y": 180
     },
     "facing=south,part=bottom,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
+      "model": "architects:block/horizontal_jungle_beam_se4",
       "y": 180
     },
     "facing=south,part=middle,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se1",
+      "y": 180,
+      "yoffset": 6
     },
     "facing=south,part=middle,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se2",
+      "y": 180,
+      "yoffset": 6
     },
     "facing=south,part=middle,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se3",
+      "y": 180,
+      "yoffset": 6
     },
     "facing=south,part=middle,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se4",
+      "y": 180,
+      "yoffset": 6
     },
     "facing=south,part=top,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se1",
+      "y": 180,
+      "yoffset": 12
     },
     "facing=south,part=top,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se2",
+      "y": 180,
+      "yoffset": 12
     },
     "facing=south,part=top,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se3",
+      "y": 180,
+      "yoffset": 12
     },
     "facing=south,part=top,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
-      "y": 180
+      "model": "architects:block/horizontal_jungle_beam_se4",
+      "y": 180,
+      "yoffset": 12
     },
     "facing=west,part=bottom,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
+      "model": "architects:block/horizontal_jungle_beam_nw1",
       "y": 270
     },
     "facing=west,part=bottom,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
+      "model": "architects:block/horizontal_jungle_beam_nw2",
       "y": 270
     },
     "facing=west,part=bottom,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
+      "model": "architects:block/horizontal_jungle_beam_nw3",
       "y": 270
     },
     "facing=west,part=bottom,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
+      "model": "architects:block/horizontal_jungle_beam_nw4",
       "y": 270
     },
     "facing=west,part=middle,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw1",
+      "y": 270,
+      "yoffset": 6
     },
     "facing=west,part=middle,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw2",
+      "y": 270,
+      "yoffset": 6
     },
     "facing=west,part=middle,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw3",
+      "y": 270,
+      "yoffset": 6
     },
     "facing=west,part=middle,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw4",
+      "y": 270,
+      "yoffset": 6
     },
     "facing=west,part=top,shape=0": {
-      "model": "architects:block/horizontal_jungle_beam1",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw1",
+      "y": 270,
+      "yoffset": 12
     },
     "facing=west,part=top,shape=1": {
-      "model": "architects:block/horizontal_jungle_beam2",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw2",
+      "y": 270,
+      "yoffset": 12
     },
     "facing=west,part=top,shape=2": {
-      "model": "architects:block/horizontal_jungle_beam3",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw3",
+      "y": 270,
+      "yoffset": 12
     },
     "facing=west,part=top,shape=3": {
-      "model": "architects:block/horizontal_jungle_beam4",
-      "y": 270
+      "model": "architects:block/horizontal_jungle_beam_nw4",
+      "y": 270,
+      "yoffset": 12
     }
   }
 }

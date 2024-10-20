@@ -1,6 +1,0 @@
-{
-  "parent": "architects:template/template_horizontal_beam4",
-  "textures": {
-    "particle": "minecraft:block/bamboo_block"
-  }
-}

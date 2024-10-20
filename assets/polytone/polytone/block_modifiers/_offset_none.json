@@ -10,7 +10,8 @@
     "hearthfire:wooden_crate_of_breads",
     "hearthfire:wooden_crate_of_eggs",
     "hearthfire:wooden_crate_of_fish",
-    "conquest:warped_roots"
+    "conquest:warped_roots",
+    "hearthfire:wooden_bucket"
   ],
   "offset_type": "none"
 }

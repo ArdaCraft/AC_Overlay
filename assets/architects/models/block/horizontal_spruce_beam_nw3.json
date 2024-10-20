@@ -1,0 +1,6 @@
+{
+  "parent": "architects:template/template_horizontal_beam_nw3",
+  "textures": {
+    "particle": "minecraft:block/stripped_spruce_log"
+  }
+}
