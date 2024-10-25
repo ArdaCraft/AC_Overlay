@@ -1,0 +1,42 @@
+{
+	"parent": "block/block",
+	"loader": "porting_lib:obj",
+    "model": "conquest:models/obj/metal_cruet.obj",
+	"emissive_ambient": true,
+    "flip-v": true,
+	"textures": {
+		"particle": "conquest:xone/metal_cruet"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, -1.75, 0],
+			"scale": [0.63, 0.63, 0.63]
+		},
+		"fixed": {
+			"rotation": [0, 35, 0],
+			"translation": [0, 0, -12.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
