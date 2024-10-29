@@ -116,10 +116,10 @@
                 "minecraft:orange_stained_glass_pane",
                 "minecraft:pink_stained_glass_pane",
                 "minecraft:purple_stained_glass_pane",
-                "minecraft:red_stained_glass_pane",
                 "minecraft:white_stained_glass_pane",
                 "minecraft:yellow_stained_glass_pane",
-                "minecraft:glass_pane"
+                "minecraft:glass_pane",
+                "patchouli:guide_book"
             ],
             "inverse": true
         }

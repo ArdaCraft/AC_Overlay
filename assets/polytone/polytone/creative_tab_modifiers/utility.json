@@ -57,7 +57,13 @@
                 "conquest:upper_class_planning_sign",
                 "conquest:green_screen",
                 "conquest:light_gray_screen",
-                "conquest:white_screen"
+                "conquest:white_screen",
+                {
+                    "id": "patchouli:guide_book",
+                    "tag": {
+                        "patchouli:book": "patchouli:ac_guide"
+                    }
+                }
             ]
         }
     ],
