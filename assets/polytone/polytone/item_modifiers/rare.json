@@ -35,6 +35,7 @@
         "conquest:green_screen",
         "conquest:light_gray_screen",
         "conquest:white_screen",
+        "ardapaths:path_revealer",
         "patchouli:guide_book"
     ]
 }

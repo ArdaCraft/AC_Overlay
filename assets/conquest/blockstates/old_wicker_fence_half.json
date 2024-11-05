@@ -164,7 +164,7 @@
     "layers=2,east=true,north=true,south=true,west=true": { "model": "conquest:block/old_wicker_fence_half_nsew_2" },
 
 
-    "layers=1,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -14 },
+    "layers=1,east=false,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_post", "yoffset": -16 },
 
     "layers=1,east=false,north=true,south=false,west=false": { "model": "conquest:block/old_wicker_fence_half_n_1" },
     "layers=1,east=true,north=false,south=false,west=false": { "model": "conquest:block/old_wicker_fence_half_n_1", "y": 90 },

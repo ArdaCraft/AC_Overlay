@@ -23,7 +23,7 @@
     "layers=8,east=true,north=false,south=true,west=true": { "model": "conquest:block/wicker_fence_nse", "y": 90 },
     "layers=8,east=false,north=true,south=true,west=true": { "model": "conquest:block/wicker_fence_nse", "y": 180 },
     "layers=8,east=true,north=true,south=false,west=true": { "model": "conquest:block/wicker_fence_nse", "y": 270 },
-    
+
     "layers=8,east=true,north=true,south=true,west=true": { "model": "conquest:block/wicker_fence_nsew" },
 
 
@@ -164,7 +164,7 @@
     "layers=2,east=true,north=true,south=true,west=true": { "model": "conquest:block/wicker_fence_nsew_2" },
 
 
-    "layers=1,east=false,north=false,south=false,west=false": { "model": "conquest:block/wicker_fence_post", "yoffset": -14 },
+    "layers=1,east=false,north=false,south=false,west=false": { "model": "conquest:block/wicker_fence_post", "yoffset": -16 },
 
     "layers=1,east=false,north=true,south=false,west=false": { "model": "conquest:block/wicker_fence_n_1" },
     "layers=1,east=true,north=false,south=false,west=false": { "model": "conquest:block/wicker_fence_n_1", "y": 90 },

@@ -119,6 +119,7 @@
                 "minecraft:white_stained_glass_pane",
                 "minecraft:yellow_stained_glass_pane",
                 "minecraft:glass_pane",
+                "ardapaths:path_revealer",
                 "patchouli:guide_book"
             ],
             "inverse": true
