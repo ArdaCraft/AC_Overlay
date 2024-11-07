@@ -1,0 +1,164 @@
+{
+  "variants": {
+    "facing=north,lit=true": [
+      {
+        "model": "minecraft:block/small_fire"
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 270
+      }
+    ],
+    "facing=east,lit=true": [
+      {
+        "model": "minecraft:block/small_fire",
+        "yoffset": -4
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 90,
+        "yoffset": -4
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 180,
+        "yoffset": -4
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 270,
+        "yoffset": -4
+      }
+    ],
+    "facing=south,lit=true": [
+      {
+        "model": "minecraft:block/small_fire",
+        "yoffset": -8
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 90,
+        "yoffset": -8
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 180,
+        "yoffset": -8
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 270,
+        "yoffset": -8
+      }
+    ],
+    "facing=west,lit=true": [
+      {
+        "model": "minecraft:block/small_fire",
+        "yoffset": -12
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 90,
+        "yoffset": -12
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 180,
+        "yoffset": -12
+      },
+      {
+        "model": "minecraft:block/small_fire",
+        "y": 270,
+        "yoffset": -12
+      }
+    ],
+    "facing=north,lit=false": [
+      {
+        "model": "minecraft:block/small_fire_unlit"
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 270
+      }
+    ],
+    "facing=east,lit=false": [
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "yoffset": -4
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 90,
+        "yoffset": -4
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 180,
+        "yoffset": -4
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 270,
+        "yoffset": -4
+      }
+    ],
+    "facing=south,lit=false": [
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "yoffset": -8
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 90,
+        "yoffset": -8
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 180,
+        "yoffset": -8
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 270,
+        "yoffset": -8
+      }
+    ],
+    "facing=west,lit=false": [
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "yoffset": -12
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 90,
+        "yoffset": -12
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 180,
+        "yoffset": -12
+      },
+      {
+        "model": "minecraft:block/small_fire_unlit",
+        "y": 270,
+        "yoffset": -12
+      }
+    ]
+  }
+}

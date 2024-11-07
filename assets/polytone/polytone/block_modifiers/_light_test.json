@@ -1,0 +1,6 @@
+{
+  "targets": [
+    "conquest:cheese_wheel"
+  ],
+  "client_light":15
+}
