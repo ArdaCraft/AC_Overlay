@@ -3,7 +3,9 @@
         "minecraft:fern",
         "conquest:fern",
         "conquest:large_fern",
-        "minecraft:large_fern"
+        "minecraft:large_fern",
+        "conquest:lily_of_the_valley",
+        "minecraft:lily_of_the_valley"
     ],
     "colormap": {
         "x_axis": "biome_id",

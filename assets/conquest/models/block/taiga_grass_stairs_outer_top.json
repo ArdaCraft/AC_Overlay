@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"bottom": "block/dirt",
+		"particle": "conquest:block/8_topography/4_grass_leaves/taiga_grass",
+		"side": "conquest:block/8_topography/4_grass_leaves/taiga_grass"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#side", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#side", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#side", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#side", "cullface": "west", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [16, 8, 8],
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#side", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [8, 8, 16, 16], "texture": "#side", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#bottom"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#bottom"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#bottom", "cullface": "up"}
+			}
+		}
+	]
+}
