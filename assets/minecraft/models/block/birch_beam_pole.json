@@ -1,0 +1,6 @@
+{
+	"parent": "block/spruce_beam_pole",
+	"textures": {
+		"particle": "block/stripped_birch_log"
+	}
+}

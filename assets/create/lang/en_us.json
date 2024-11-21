@@ -12,6 +12,8 @@
   "block.create.turntable": "Log Stump Seat",
   "block.create.crimson_window_pane": "Extended Wicker Fence",
   "block.create.warped_window_pane": "Extended Old Wicker Fence",
+  "block.create.birch_window_pane": "Extended Wicker Fence Half",
+  "block.create.acacia_window_pane": "Extended Old Wicker Fence Half",
   "block.create.train_door": "Simple Brown Wood Sliding Shutter",
   "block.create.framed_glass_trapdoor": "Fiber Comb",
   "block.create.schematicannon": "Dwarven Stone Chair",

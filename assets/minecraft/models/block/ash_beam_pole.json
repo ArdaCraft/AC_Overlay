@@ -1,0 +1,6 @@
+{
+	"parent": "block/spruce_beam_pole",
+	"textures": {
+		"particle": "conquest:block/1_basic_refined/3_wood/ash_wood_beam"
+	}
+}

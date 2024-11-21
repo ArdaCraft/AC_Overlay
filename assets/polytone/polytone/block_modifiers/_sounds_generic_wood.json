@@ -21,6 +21,8 @@
 "conquest:wood_plate",
 "create:crimson_window_pane",
 "create:warped_window_pane",
+"create:acacia_window_pane",
+"create:birch_window_pane",
 "create:turntable",
 "create:brown_valve_handle",
 "create:train_door",
