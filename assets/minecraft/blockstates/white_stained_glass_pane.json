@@ -1,7 +1,23 @@
 {
   "variants": {
-    "": {
+    "north=false,south=false,east=false,west=false": {
       "model": "minecraft:block/beech_beam_pole"
+    },
+    "north=true,south=false,east=false,west=false": {
+      "model": "minecraft:block/beech_beam_pole",
+      "yoffset": -4
+    },
+    "north=false,south=true,east=false,west=false": {
+      "model": "minecraft:block/beech_beam_pole",
+      "yoffset": -8
+    },
+    "north=false,south=false,east=false,west=true": {
+      "model": "minecraft:block/beech_beam_pole",
+      "yoffset": -12
+    },
+    "north=false,south=false,east=true,west=false": {
+      "model": "minecraft:block/beech_beam_pole",
+      "yoffset": -16
     }
   }
 }
