@@ -11,7 +11,8 @@
     "hearthfire:wooden_crate_of_eggs",
     "hearthfire:wooden_crate_of_fish",
     "conquest:warped_roots",
-    "hearthfire:wooden_bucket"
+    "hearthfire:wooden_bucket",
+    "conquest:bean_pole"
   ],
   "offset_type": "none"
 }

@@ -1,0 +1,7 @@
+{
+  "targets": [
+    "conquest:birds_nest",
+    "conquest:small_birds_nest"
+  ],
+  "offset_type": "xz"
+}
