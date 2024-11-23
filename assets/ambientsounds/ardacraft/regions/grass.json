@@ -3,9 +3,6 @@
     "features": [
         "grass"
     ],
-    "temperature": {
-        "min": 0.2
-    },
     "sounds": [
         {
             "name": "cricket",

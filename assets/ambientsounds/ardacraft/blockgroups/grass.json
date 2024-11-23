@@ -1,4 +1,9 @@
 [
+    "minecraft:grass_block",
+    "minecraft:podzol",
+    "minecraft:grass",
+    "minecraft:fern",
+    "minecraft:tall_grass",
     "conquest:kentucky_bluegrass",
     "conquest:grass",
     "conquest:green_meadow_fescue",
@@ -15,5 +20,10 @@
     "conquest:flax",
     "conquest:wheat",
     "conquest:wild_wheat",
-    "conquest:barley"
+    "conquest:warped_fungus",
+    "conquest:barley",
+    "conquest:heather",
+    "conquest:bilberry_bush",
+    "conquest:lingonberry_bush",
+    "conquest:grass_block_layer"
 ]
