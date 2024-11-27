@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "conquest:block/campfire_fire"
+  },
+  "perspectives": {
+    "fixed": {
+      "parent": "conquest:block/campfire"
+    }
+  }
+}

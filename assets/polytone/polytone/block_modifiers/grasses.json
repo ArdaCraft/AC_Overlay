@@ -37,7 +37,10 @@
         "conquest:taiga_grass_vertical_quarter",
         "conquest:taiga_grass_vertical_slab",
         "conquest:fallen_willow_leaves",
-        "conquest:common_meadow_grass"
+        "conquest:common_meadow_grass",
+        "conquest:mossy_sandstone_debris",
+        "conquest:mossy_sandstone_debris_layer",
+        "conquest:mossy_sandstone_debris_stairs"
     ],
     "colormap": {
         "x_axis": "biome_id",
