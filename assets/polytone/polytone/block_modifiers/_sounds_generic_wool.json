@@ -1,6 +1,7 @@
 {
   "targets": [
-    "minecraft:dead_bubble_coral_fan"
+    "minecraft:dead_bubble_coral_fan",
+    "minecraft:purple_stained_glass_pane"
   ],
   "sound_type": "wool"
 }
