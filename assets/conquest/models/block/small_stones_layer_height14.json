@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_layer_height14",
+	"render_type": "cutout",
+	"textures": {
+		"overlay": "conquest:block/8_topography/6_debris_gravel/small_stones_overlay",
+		"particle": "conquest:block/8_topography/6_debris_gravel/small_stones"
+	}
+}

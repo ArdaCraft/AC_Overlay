@@ -1,0 +1,23 @@
+{
+  "multipart": [
+     {
+      "apply": [
+        
+        {"model": "conquest:block/mossy_sandstone_debris"}
+
+      ]
+    },
+    {
+      "apply": [
+      { "model": "block/grass_block_ext"},
+      {  "model": "block/grass_block_ext", "y": 90 },
+      {  "model": "block/grass_block_ext", "y": 180 },
+      {  "model": "block/grass_block_ext", "y": 270 },
+      {  "model": "block/grass_block_ext2"},
+      {  "model": "block/grass_block_ext2", "y": 90 },
+      {  "model": "block/grass_block_ext2", "y": 180},
+      {  "model": "block/grass_block_ext2", "y": 270}
+        ]
+    }
+  ]
+}
