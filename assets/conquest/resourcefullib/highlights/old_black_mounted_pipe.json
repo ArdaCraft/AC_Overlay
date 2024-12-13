@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "facing=south,toggle=1": {
+            "highlight": "conquest:square_stool0"
+        },
+        "facing=west,toggle=1": {
+            "highlight": "conquest:square_stool0",
+            "rotation": { "y": 90 }
+        },
+        "facing=north,toggle=1": {
+            "highlight": "conquest:square_stool0",
+            "rotation": { "y": 180 }
+        },
+        "facing=east,toggle=1": {
+            "highlight": "conquest:square_stool0",
+            "rotation": { "y": 270 }
+        },
+        "facing=south,toggle=2": {
+            "highlight": "conquest:square_stool1"
+        },
+        "facing=west,toggle=2": {
+            "highlight": "conquest:square_stool1",
+            "rotation": { "y": 90 }
+        },
+        "facing=north,toggle=2": {
+            "highlight": "conquest:square_stool1",
+            "rotation": { "y": 180 }
+        },
+        "facing=east,toggle=2": {
+            "highlight": "conquest:square_stool1",
+            "rotation": { "y": 270 }
+        },
+        "facing=south,toggle=3": {
+            "highlight": "conquest:square_stool2"
+        },
+        "facing=west,toggle=3": {
+            "highlight": "conquest:square_stool2",
+            "rotation": { "y": 90 }
+        },
+        "facing=north,toggle=3": {
+            "highlight": "conquest:square_stool2",
+            "rotation": { "y": 180 }
+        },
+        "facing=east,toggle=3": {
+            "highlight": "conquest:square_stool2",
+            "rotation": { "y": 270 }
+        },
+        "facing=south,toggle=4": {
+            "highlight": "conquest:square_stool3"
+        },
+        "facing=west,toggle=4": {
+            "highlight": "conquest:square_stool3",
+            "rotation": { "y": 90 }
+        },
+        "facing=north,toggle=4": {
+            "highlight": "conquest:square_stool3",
+            "rotation": { "y": 180 }
+        },
+        "facing=east,toggle=4": {
+            "highlight": "conquest:square_stool3",
+            "rotation": { "y": 270 }
+        }
+    }
+}

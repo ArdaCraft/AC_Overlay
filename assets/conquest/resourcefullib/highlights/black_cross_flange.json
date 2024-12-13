@@ -1,0 +1,46 @@
+{
+	"variants": {
+		"toggle=1,facing=south": {
+			"highlight": "conquest:stacked_firewood_quarter",
+			"rotation": {
+				"y": 180
+			}
+		},
+		"toggle=1,facing=west": {
+			"highlight": "conquest:stacked_firewood_quarter",
+			"rotation": {
+				"y": 270
+			}
+		},
+		"toggle=1,facing=north": {
+			"highlight": "conquest:stacked_firewood_quarter"
+		},
+		"toggle=1,facing=east": {
+			"highlight": "conquest:stacked_firewood_quarter",
+			"rotation": {
+				"y": 90
+			}
+		},
+		"toggle=2,facing=south": {
+			"highlight": "conquest:stacked_firewood_vert_half",
+			"rotation": {
+				"y": 180
+			}
+		},
+		"toggle=2,facing=west": {
+			"highlight": "conquest:stacked_firewood_vert_half",
+			"rotation": {
+				"y": 270
+			}
+		},
+		"toggle=2,facing=north": {
+			"highlight": "conquest:stacked_firewood_vert_half"
+		},
+		"toggle=2,facing=east": {
+			"highlight": "conquest:stacked_firewood_vert_half",
+			"rotation": {
+				"y": 90
+			}
+		}
+	}
+}

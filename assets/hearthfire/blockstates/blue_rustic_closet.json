@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,shape=bottom": {
+      "model": "hearthfire:block/aumbry_bottom",
+      "y": 90
+    },
+    "facing=east,shape=middle": {
+      "model": "hearthfire:block/aumbry_middle",
+      "y": 90
+    },
+    "facing=east,shape=single": {
+      "model": "hearthfire:block/aumbry",
+      "y": 90
+    },
+    "facing=east,shape=top": {
+      "model": "hearthfire:block/aumbry_top",
+      "y": 90
+    },
+    "facing=north,shape=bottom": {
+      "model": "hearthfire:block/aumbry_bottom"
+    },
+    "facing=north,shape=middle": {
+      "model": "hearthfire:block/aumbry_middle"
+    },
+    "facing=north,shape=single": {
+      "model": "hearthfire:block/aumbry"
+    },
+    "facing=north,shape=top": {
+      "model": "hearthfire:block/aumbry_top"
+    },
+    "facing=south,shape=bottom": {
+      "model": "hearthfire:block/aumbry_bottom",
+      "y": 180
+    },
+    "facing=south,shape=middle": {
+      "model": "hearthfire:block/aumbry_middle",
+      "y": 180
+    },
+    "facing=south,shape=single": {
+      "model": "hearthfire:block/aumbry",
+      "y": 180
+    },
+    "facing=south,shape=top": {
+      "model": "hearthfire:block/aumbry_top",
+      "y": 180
+    },
+    "facing=west,shape=bottom": {
+      "model": "hearthfire:block/aumbry_bottom",
+      "y": 270
+    },
+    "facing=west,shape=middle": {
+      "model": "hearthfire:block/aumbry_middle",
+      "y": 270
+    },
+    "facing=west,shape=single": {
+      "model": "hearthfire:block/aumbry",
+      "y": 270
+    },
+    "facing=west,shape=top": {
+      "model": "hearthfire:block/aumbry_top",
+      "y": 270
+    }
+  }
+}

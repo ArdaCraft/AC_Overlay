@@ -1,0 +1,67 @@
+{
+    "variants": {
+        "toggle=1,facing=south": {
+            "highlight": "conquest:wicker_chest_center",
+            "rotation": {
+                "y": 180
+            }
+        },
+        "toggle=1,facing=west": {
+            "highlight": "conquest:wicker_chest_center",
+            "rotation": {
+                "y": 270
+            }
+        },
+        "toggle=1,facing=north": {
+            "highlight": "conquest:wicker_chest_center"
+        },
+        "toggle=1,facing=east": {
+            "highlight": "conquest:wicker_chest_center",
+            "rotation": {
+                "y": 90
+            }
+        },
+        "toggle=2,facing=south": {
+            "highlight": "conquest:wicker_chest_left",
+            "rotation": {
+                "y": 180
+            }
+        },
+        "toggle=2,facing=west": {
+            "highlight": "conquest:wicker_chest_left",
+            "rotation": {
+                "y": 270
+            }
+        },
+        "toggle=2,facing=north": {
+            "highlight": "conquest:wicker_chest_left"
+        },
+        "toggle=2,facing=east": {
+            "highlight": "conquest:wicker_chest_left",
+            "rotation": {
+                "y": 90
+            }
+        },
+        "toggle=3,facing=south": {
+            "highlight": "conquest:wicker_chest_right",
+            "rotation": {
+                "y": 180
+            }
+        },
+        "toggle=3,facing=west": {
+            "highlight": "conquest:wicker_chest_right",
+            "rotation": {
+                "y": 270
+            }
+        },
+        "toggle=3,facing=north": {
+            "highlight": "conquest:wicker_chest_right"
+        },
+        "toggle=3,facing=east": {
+            "highlight": "conquest:wicker_chest_right",
+            "rotation": {
+                "y": 90
+            }
+        }
+    }
+}

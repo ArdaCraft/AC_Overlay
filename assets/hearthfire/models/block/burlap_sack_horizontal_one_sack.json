@@ -1,0 +1,12 @@
+{
+	"loader": "porting_lib:obj",
+	"render_type": "minecraft:cutout",
+	"model": "hearthfire:models/obj/burlap_sack_horizontal_one_sack.obj",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "hearthfire:block/burlap_sack/burlap_sack_side",
+		"side": "hearthfire:block/burlap_sack/burlap_sack_side",
+		"bottom": "hearthfire:block/burlap_sack/burlap_sack_bottom"
+	}
+}
