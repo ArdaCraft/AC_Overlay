@@ -2,8 +2,8 @@
 	"credit": "Made by xone",
 	"textures": {
 		"head": "conquest:xone/cabbage_head",
-		"particle": "conquest:xone/cabbage_leaves",
-		"extra": "conquest:xone/cabbage_leaves_extra"
+		"extra": "conquest:xone/cabbage_leaves_extra",
+		"particle": "conquest:xone/cabbage_leaves"
 	},
 	"elements": [
 		{
@@ -163,6 +163,13 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"rotation": [-67.5, 0, 0],
+			"translation": [0.25, 3.75, -10.75],
+			"scale": [1.8, 1.8, 1.8]
+		}
+	},
 	"groups": [
 		{
 			"name": "leaves",

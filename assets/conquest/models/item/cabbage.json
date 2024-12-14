@@ -1,0 +1,11 @@
+{
+    "loader": "forge:separate_transforms",
+    "base": {
+      "parent": "conquest:block/cabbage_item"
+    },
+    "perspectives": {
+      "head": {
+        "parent": "conquest:block/cabbage_0_stage_4"
+      }
+    }
+  }

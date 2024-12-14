@@ -1,6 +1,5 @@
 {
 	"loader": "porting_lib:obj",
-	"render_type": "minecraft:cutout",
 	"model": "hearthfire:models/obj/burlap_sack_one_sack.obj",
 	"emissive_ambient": true,
 	"flip_v": true,
