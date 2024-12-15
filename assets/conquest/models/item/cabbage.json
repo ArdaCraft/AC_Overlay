@@ -1,7 +1,7 @@
 {
     "loader": "forge:separate_transforms",
     "base": {
-      "parent": "conquest:block/cabbage_item"
+      "parent": "conquest:item/cabbage_item"
     },
     "perspectives": {
       "head": {

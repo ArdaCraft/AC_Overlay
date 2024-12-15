@@ -1,19 +1,19 @@
 {
   "variants": {
     "north=false,south=false,east=false,west=false": {
-      "highlight": "minecraft:beam_pole4"
+      "highlight": "minecraft:beam_pole"
     },
     "north=true,south=false,east=false,west=false": {
-      "highlight": "minecraft:beam_pole3"
+      "highlight": "minecraft:beam_pole"
     },
     "north=false,south=true,east=false,west=false": {
-      "highlight": "minecraft:beam_pole2"
+      "highlight": "minecraft:beam_pole"
     },
     "north=false,south=false,east=false,west=true": {
-      "highlight": "minecraft:beam_pole1"
+      "highlight": "minecraft:beam_pole"
     },
     "north=false,south=false,east=true,west=false": {
-      "highlight": "minecraft:beam_pole0"
+      "highlight": "minecraft:beam_pole"
     }
   }
 }
