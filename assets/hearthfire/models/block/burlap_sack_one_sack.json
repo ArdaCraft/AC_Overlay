@@ -1,6 +1,7 @@
 {
 	"loader": "porting_lib:obj",
 	"model": "hearthfire:models/obj/burlap_sack_one_sack.obj",
+	"ambientocclusion": false,
 	"emissive_ambient": true,
 	"flip_v": true,
 	"textures": {
