@@ -1,0 +1,9 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "#broom1",
+		"broom1": "conquest:xone/broom_short1",
+		"broom2": "conquest:xone/broom_short2",
+		"broom3": "conquest:xone/broom_short3"
+	}
+}

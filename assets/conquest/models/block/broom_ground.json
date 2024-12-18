@@ -1,8 +1,8 @@
 {
-	"loader": "porting_lib:obj",
-	"model": "conquest:models/block/obj/leaning_broom.obj",
-	"emissive_ambient": true,
-	"flip_v": true,
+	"loader": "forge:obj",
+	"model": "conquest:models/block/obj/broom_ground.obj",
+	"ambientToFullbright": true,
+	"flip-v": true,
 	"textures": {
 		"particle": "conquest:block/7_tools/3_utility/broom",
 		"broom": "conquest:block/7_tools/3_utility/broom"
@@ -20,9 +20,9 @@
 			"scale":[ 0.25, 0.25, 0.25 ]
 		},
 		"fixed": {
-			"rotation": [ 0, 180, 0 ],
+			"rotation": [ 0, 0, 0 ],
 			"translation": [ 0, 0, 0],
-			"scale":[ 2, 2, 2 ]
+			"scale":[ 0.5, 0.5, 0.5 ]
 		},
 		"thirdperson_righthand": {
 			"rotation": [ 75, 45, 0 ],
