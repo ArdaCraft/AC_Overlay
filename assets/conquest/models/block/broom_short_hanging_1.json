@@ -3,5 +3,36 @@
 	"model": "conquest:models/block/obj/broom_short_hanging_1.obj",
 	"parent": "conquest:block/broom_short_parent",
 	"emissive_ambient": true,
-	"flip_v": true
+	"flip_v": true,
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [175, 0, 0],
+			"translation": [0, 6.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [175, 0, 0],
+			"translation": [0, 6.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [1, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [1, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"rotation": [17.75, 0, 0],
+			"translation": [0.5, -6.5, -5.5],
+			"scale": [1.4, 1.4, 1]
+		},
+		"fixed": {
+			"rotation": [10, -10, 0],
+			"translation": [0, -5, -3.5],
+			"scale": [2, 2, 2]
+		}
+	}
 }
