@@ -2,7 +2,7 @@
 	"parent": "block/block",
 	"textures": {
 		"bottom": "conquest:block/2_advanced_refined/3_plaster/red_white_green_gothic_frieze",
-		"up": "conquest:block/2_advanced_refined/3_plaster/orange_stucco",
+		"up": "conquest:block/2_advanced_refined/3_plaster/worn_yellow_plaster",
 		"particle": "conquest:block/2_advanced_refined/3_plaster/red_white_green_gothic_frieze",
 		"north": "conquest:block/2_advanced_refined/3_plaster/red_white_green_gothic_frieze"
 	},
