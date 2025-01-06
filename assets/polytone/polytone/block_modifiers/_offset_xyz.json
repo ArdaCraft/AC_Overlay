@@ -76,5 +76,5 @@
     "conquest:broom_bush",
     "conquest:hawthorn_bush"
   ],
-  "offset_type": "none"
+  "offset_type": "xyz"
 }
