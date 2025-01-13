@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_layer_height2",
+	"render_type": "cutout",
+	"textures": {
+		"overlay": "minecraft:block/orange_concrete_powder_overlay",
+		"particle": "minecraft:block/orange_concrete_powder"
+	}
+}

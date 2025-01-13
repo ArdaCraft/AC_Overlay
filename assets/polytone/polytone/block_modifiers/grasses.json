@@ -43,7 +43,13 @@
         "conquest:mossy_sandstone_debris_stairs",
         "conquest:small_stones",
         "conquest:small_stones_layer",
-        "conquest:small_stones_stairs"
+        "conquest:small_stones_stairs",
+        "minecraft:brown_concrete_powder",
+        "conquest:brown_concrete_powder_layer",
+        "conquest:brown_concrete_powder_stairs",
+        "minecraft:orange_concrete_powder",
+        "conquest:orange_concrete_powder_layer",
+        "conquest:brown_concrete_powder_stairs"
     ],
     "colormap": {
         "x_axis": "biome_id",
