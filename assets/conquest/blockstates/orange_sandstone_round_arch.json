@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "shape=one,facing=south": { "model": "conquest:block/orange_sandstone_round_arch_1", "y": 90 },
+        "shape=one,facing=west": { "model": "conquest:block/orange_sandstone_round_arch_1_thick" },
+        "shape=one,facing=north": { "model": "conquest:block/orange_sandstone_round_arch_1_thick", "y": 90 },
+        "shape=one,facing=east": { "model": "conquest:block/orange_sandstone_round_arch_1" },
+
+        "shape=two,facing=south": { "model": "conquest:block/orange_sandstone_round_arch_2_left", "y": 90 },
+        "shape=two,facing=west": { "model": "conquest:block/orange_sandstone_round_arch_2_left" },
+        "shape=two,facing=north": { "model": "conquest:block/orange_sandstone_round_arch_2_right", "y": 90 },
+        "shape=two,facing=east": { "model": "conquest:block/orange_sandstone_round_arch_2_right" },
+
+        "shape=three,facing=south": { "model": "conquest:block/orange_sandstone_round_arch_3_left", "y": 90 },
+        "shape=three,facing=west": { "model": "conquest:block/orange_sandstone_round_arch_3_left" },
+        "shape=three,facing=north": { "model": "conquest:block/orange_sandstone_round_arch_3_right", "y": 90 },
+        "shape=three,facing=east": { "model": "conquest:block/orange_sandstone_round_arch_3_right" },
+
+        "shape=three_middle,facing=south": { "model": "conquest:block/orange_sandstone_round_arch_3_middle", "y": 90 },
+        "shape=three_middle,facing=west": { "model": "conquest:block/orange_sandstone_round_arch_3_middle" },
+        "shape=three_middle,facing=north": { "model": "conquest:block/orange_sandstone_round_arch_3_middle", "y": 90 },
+        "shape=three_middle,facing=east": { "model": "conquest:block/orange_sandstone_round_arch_3_middle" }
+    }
+}
