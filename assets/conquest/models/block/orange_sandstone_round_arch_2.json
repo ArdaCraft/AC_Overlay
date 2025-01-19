@@ -1,0 +1,10 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/block/obj/painted_round_arch_2.obj",
+    "emissive_ambient": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/2_advanced_refined/3_plaster/light_red_stucco",
+        "design": "conquest:xone/red_and_white_floral_arch"
+    }
+}
