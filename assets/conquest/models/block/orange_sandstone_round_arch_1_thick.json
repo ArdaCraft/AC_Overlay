@@ -6,6 +6,6 @@
     "textures": {
         "particle": "conquest:block/2_advanced_refined/3_plaster/light_red_stucco",
         "underside": "conquest:xone/red_and_white_floral_arch/underside",
-        "design": "conquest:xone/red_and_white_floral_arch/single_thick"
+        "design": "conquest:xone/red_and_white_floral_arch/round/single_thick"
     }
 }

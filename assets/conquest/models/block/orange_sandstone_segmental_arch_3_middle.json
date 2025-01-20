@@ -1,11 +1,11 @@
 {
     "loader": "porting_lib:obj",
-    "model": "conquest:models/block/obj/painted_round_arch_2_left.obj",
+    "model": "conquest:models/block/obj/painted_segmental_arch_3_middle.obj",
     "emissive_ambient": true,
     "flip-v": true,
     "textures": {
         "particle": "conquest:block/2_advanced_refined/3_plaster/light_red_stucco",
         "underside": "conquest:xone/red_and_white_floral_arch/underside",
-        "design": "conquest:xone/red_and_white_floral_arch/round/double"
+        "design": "conquest:xone/red_and_white_floral_arch/segmental/triple"
     }
 }
