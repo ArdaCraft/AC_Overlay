@@ -16,7 +16,6 @@
                 "minecraft:repeating_command_block",
                 "minecraft:jigsaw",
                 "minecraft:structure_block",
-                "ardapaths:path_marker",
                 {
                     "id": "minecraft:goat_horn",
                     "tag": {

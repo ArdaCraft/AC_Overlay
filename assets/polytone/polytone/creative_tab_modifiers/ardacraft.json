@@ -2,11 +2,9 @@
     "targets": [
         "minecraft:building_blocks"
     ],
-    "removals": [
-        {
-            "type": "id_match",
-            "path": ".*"
-        }
+    "require_mods": [
+        "ardapaths",
+        "patchouli"
     ],
     "additions": [
         {
@@ -57,11 +55,15 @@
                 "conquest:upper_class_planning_sign",
                 "conquest:green_screen",
                 "conquest:light_gray_screen",
-                "conquest:white_screen"
+                "conquest:white_screen",
+                "ardapaths:path_revealer",
+                {
+                    "id": "patchouli:guide_book",
+                    "tag": {
+                        "patchouli:book": "patchouli:ac_guide"
+                    }
+                }
             ]
         }
-    ],
-    "icon": {
-        "id": "paintbrush:paintbrush"
-    }
+    ]
 }
