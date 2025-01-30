@@ -4,7 +4,8 @@
     "emissive_ambient": true,
     "flip-v": true,
     "textures": {
-        "particle": "conquest:block/2_advanced_refined/3_plaster/light_red_stucco",
-        "design": "conquest:xone/tan_and_red_tengwar_arch/triple"
+        "particle": "conquest:block/2_advanced_refined/3_plaster/magenta_stucco",
+        "underside": "conquest:xone/marble_tengwar_arch/underside",
+        "design": "conquest:xone/marble_tengwar_arch/round/triple"
     }
 }

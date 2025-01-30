@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "toggle=false,half=lower,facing=north": { "model": "hearthfire:block/big_dolia" },
+        "toggle=false,half=lower,facing=east": { "model": "hearthfire:block/big_dolia", "y": 90 },
+        "toggle=false,half=lower,facing=south": { "model": "hearthfire:block/big_dolia", "y": 180 },
+        "toggle=false,half=lower,facing=west": { "model": "hearthfire:block/big_dolia", "y": 270 },
+        
+        "toggle=true,half=lower,facing=north": { "model": "hearthfire:block/big_dolia" },
+        "toggle=true,half=lower,facing=east": { "model": "hearthfire:block/big_dolia", "y": 90 },
+        "toggle=true,half=lower,facing=south": { "model": "hearthfire:block/big_dolia", "y": 180 },
+        "toggle=true,half=lower,facing=west": { "model": "hearthfire:block/big_dolia", "y": 270 },
+
+        "toggle=false,half=upper,facing=north": { "model": "hearthfire:block/empty_block" },
+        "toggle=false,half=upper,facing=east": { "model": "hearthfire:block/empty_block", "y": 90 },
+        "toggle=false,half=upper,facing=south": { "model": "hearthfire:block/empty_block", "y": 180 },
+        "toggle=false,half=upper,facing=west": { "model": "hearthfire:block/empty_block", "y": 270 },
+
+        "toggle=true,half=upper,facing=north": { "model": "hearthfire:block/empty_block" },
+        "toggle=true,half=upper,facing=east": { "model": "hearthfire:block/empty_block", "y": 90 },
+        "toggle=true,half=upper,facing=south": { "model": "hearthfire:block/empty_block", "y": 180 },
+        "toggle=true,half=upper,facing=west": { "model": "hearthfire:block/empty_block", "y": 270 }
+    }
+}

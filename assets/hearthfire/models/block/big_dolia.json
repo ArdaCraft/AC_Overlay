@@ -1,0 +1,9 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "hearthfire:models/obj/big_dolia.obj",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "hearthfire:block/big_dolia"
+	}
+}
