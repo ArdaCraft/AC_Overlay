@@ -1,0 +1,10 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "hearthfire:models/obj/large_wooden_chest.obj",
+	"parent": "block/block",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "hearthfire:block/large_wooden_chest"
+	}
+}
