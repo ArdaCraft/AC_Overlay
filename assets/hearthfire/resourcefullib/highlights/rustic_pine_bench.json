@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "highlight": "hearthfire:large_wooden_chest"
+    },
+    "facing=east": {
+      "highlight": "hearthfire:large_wooden_chest", "rotation": { "y": 90 }
+    },
+    "facing=south": {
+      "highlight": "hearthfire:large_wooden_chest", "rotation": { "y": 180 }
+    },
+    "facing=west": {
+      "highlight": "hearthfire:large_wooden_chest", "rotation": { "y": 270 }
+    }
+  }
+}
