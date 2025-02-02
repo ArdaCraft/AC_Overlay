@@ -1,0 +1,25 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/log_basket.obj",
+	"parent": "block/block",
+	"render_type": "cutout",
+    "emissive_ambient": true,
+    "flip-v": true,
+	"textures": {
+		"particle": "conquest:xone/log_basket",
+		"bottom": "conquest:xone/log_basket_bottom",
+		"wood": "conquest:xone/log_basket_wood",
+		"base": "conquest:xone/log_basket_wood_base"
+	},
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"translation": [0, 22.5, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

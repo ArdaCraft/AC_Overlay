@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "conquest:block/log_basket"
+      },
+      {
+        "model": "conquest:block/log_basket", "y": 90
+      },
+      {
+        "model": "conquest:block/log_basket", "y": 180
+      },
+      {
+        "model": "conquest:block/log_basket", "y": 270
+      }
+    ]
+  }
+}
