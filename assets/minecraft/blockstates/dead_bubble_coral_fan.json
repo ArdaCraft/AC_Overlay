@@ -1,7 +1,10 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/rope_bundle"
-    }
+    "": [
+      {"model": "minecraft:block/rope_bundle"},
+      {"model": "minecraft:block/rope_bundle", "y": 90},
+      {"model": "minecraft:block/rope_bundle", "y": 180},
+      {"model": "minecraft:block/rope_bundle", "y": 270}
+    ]
   }
 }

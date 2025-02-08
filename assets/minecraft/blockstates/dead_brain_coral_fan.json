@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/sickle"},
+      {"model": "minecraft:block/sickle", "y": 90},
+      {"model": "minecraft:block/sickle", "y": 180},
+      {"model": "minecraft:block/sickle", "y": 270}
+    ]
+  }
+}
