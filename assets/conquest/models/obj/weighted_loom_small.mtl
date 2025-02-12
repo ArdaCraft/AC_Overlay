@@ -1,6 +1,3 @@
-# Blender 4.2.2 LTS MTL File: 'None'
-# www.blender.org
-
 newmtl m_09412a84-0e5c-d631-c6f6-87ebf837bd97
 Ns 0.000000
 Ka 0.000000 0.000000 0.000000
@@ -21,9 +18,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd #thread
+map_Kd #weave
 
-newmtl m_c29ed9c1-4327-ee9e-18f7-d5309476533b
+newmtl m_e3957572-c164-d59f-2c54-ca7e3d3c2823
 Ns 0.000000
 Ka 0.000000 0.000000 0.000000
 Kd 1.000000 1.000000 1.000000

@@ -1,13 +1,13 @@
 {
 	"loader": "porting_lib:obj",
-    "model": "conquest:models/obj/weighted_loom.obj",
+    "model": "conquest:models/obj/weighted_loom_small.obj",
     "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
 		"particle": "#wood",
 		"wood": "conquest:xone/loom_wood",
-		"thread": "conquest:xone/loom_thread",
-		"weights": "conquest:block/8_topography/1_stone/dark_limestone"
+		"weave": "conquest:xone/loom_weave_small",
+		"weights": "conquest:xone/loom_weights"
 	},
 	"display": {
 		"thirdperson_righthand": {
