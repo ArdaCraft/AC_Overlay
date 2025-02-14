@@ -242,7 +242,16 @@
     "conquest:gray_stained_glass_stairs",
     "conquest:light_gray_stained_glass_stairs",
     "conquest:straight_glass_1_stairs",
-    "conquest:straight_glass_2_stairs"
+    "conquest:straight_glass_2_stairs",
+    "conquest:cracked_dirt",
+    "conquest:cracked_dirt_corner_slab",
+    "conquest:cracked_dirt_eighth_slab",
+    "conquest:cracked_dirt_quarter_slab",
+    "conquest:cracked_dirt_slab",
+    "conquest:cracked_dirt_stairs",
+    "conquest:cracked_dirt_vertical_corner",
+    "conquest:cracked_dirt_vertical_quarter",
+    "conquest:cracked_dirt_vertical_slab"
   ],
   "sound_type": "stone"
 }
