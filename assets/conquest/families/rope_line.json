@@ -1,0 +1,7 @@
+{
+  "parent_block": "conquest:clothes_line",
+  "family_blocks": [
+    "conquest:wall_of_rope_pane",
+    "minecraft:purple_stained_glass_pane"
+  ]
+}

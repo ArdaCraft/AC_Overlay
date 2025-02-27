@@ -1,0 +1,16 @@
+{
+  "parent_block": "conquest:burlap",
+  "family_blocks": [
+    "conquest:burlap_slab",
+    "conquest:old_red_6_way_flange",
+    "conquest:burlap_quarter_slab",
+    "conquest:burlap_corner_slab",
+    "conquest:burlap_eighth_slab",
+    "conquest:burlap_vertical_corner_slab",
+    "conquest:burlap_vertical_slab",
+    "conquest:burlap_vertical_corner",
+    "conquest:burlap_vertical_quarter",
+    "conquest:burlap_stairs",
+    "conquest:burlap_cover"
+  ]
+}
