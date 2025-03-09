@@ -2,8 +2,8 @@
 	"parent": "block/block",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"log": "xone/birch_branch",
-		"particle": "xone/birch_branch"
+		"log": "minecraft:xone/birch_branch",
+		"particle": "minecraft:xone/birch_branch"
 	},
 	"elements": [
 		{
