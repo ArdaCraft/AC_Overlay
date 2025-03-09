@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "conquest:xone/strigil"
+	},
+	"elements": [
+		{
+			"from": [4.92736, 4.7134, 14.929],
+			"to": [7.42736, 4.7134, 15.929],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8.1459, 7.20697, 15.429]},
+			"faces": {
+				"up": {"uv": [13.5, 1, 16, 0], "rotation": 180, "texture": "#particle"},
+				"down": {"uv": [16, 3, 13.5, 2], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [9.01033, 6.01406, 14.929],
+			"to": [9.01033, 9.01406, 15.929],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.1459, 7.20697, 15.429]},
+			"faces": {
+				"east": {"uv": [12, 3, 9, 2], "rotation": 270, "texture": "#particle"},
+				"west": {"uv": [9, 1, 12, 0], "rotation": 90, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [9.40104, 4.93568, 14.929],
+			"to": [9.40104, 6.43568, 15.929],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8.1459, 7.20697, 15.429]},
+			"faces": {
+				"east": {"uv": [13.5, 3, 12, 2], "rotation": 270, "texture": "#particle"},
+				"west": {"uv": [12, 1, 13.5, 0], "rotation": 90, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [8.76033, 9.01406, 14.929],
+			"to": [9.26033, 12.51406, 15.929],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.1459, 7.20697, 15.429]},
+			"faces": {
+				"north": {"uv": [5.5, 1.5, 9, 1], "rotation": 90, "texture": "#particle"},
+				"east": {"uv": [9, 3, 5.5, 2], "rotation": 270, "texture": "#particle"},
+				"south": {"uv": [9, 1.5, 5.5, 1], "rotation": 270, "texture": "#particle"},
+				"west": {"uv": [5.5, 1, 9, 0], "rotation": 90, "texture": "#particle"},
+				"up": {"uv": [5, 1, 5.5, 0], "rotation": 180, "texture": "#particle"},
+				"down": {"uv": [5, 2, 5.5, 1], "texture": "#particle"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "hanging single",
+			"origin": [7.14009, 0.5, 8.321],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+    "variants": {
+        "toggle=1,facing=north": [
+            {"model": "conquest:block/strigil_2_on_the_ground_1"
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_2"
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_3"
+            }
+        ],
+        "toggle=1,facing=east": [
+            {"model": "conquest:block/strigil_2_on_the_ground_1", "y": 90
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_2", "y": 90
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_3", "y": 90
+            }
+        ],
+        "toggle=1,facing=south": [
+            {"model": "conquest:block/strigil_2_on_the_ground_1", "y": 180
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_2", "y": 180
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_3", "y": 180
+            }
+        ],
+        "toggle=1,facing=west": [
+            {"model": "conquest:block/strigil_2_on_the_ground_1", "y": 270
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_2", "y": 270
+            },
+            {"model": "conquest:block/strigil_2_on_the_ground_3", "y": 270
+            }
+        ],
+        "toggle=2,facing=north": [
+            {"model": "conquest:block/strigil_on_the_ground_1"
+            },
+            {"model": "conquest:block/strigil_on_the_ground_2"
+            },
+            {"model": "conquest:block/strigil_on_the_ground_3"
+            }
+        ],
+        "toggle=2,facing=east": [
+            {"model": "conquest:block/strigil_on_the_ground_1", "y": 90
+            },
+            {"model": "conquest:block/strigil_on_the_ground_2", "y": 90
+            },
+            {"model": "conquest:block/strigil_on_the_ground_3", "y": 90
+            }
+        ],
+        "toggle=2,facing=south": [
+            {"model": "conquest:block/strigil_on_the_ground_1", "y": 180
+            },
+            {"model": "conquest:block/strigil_on_the_ground_2", "y": 180
+            },
+            {"model": "conquest:block/strigil_on_the_ground_3", "y": 180
+            }
+        ],
+        "toggle=2,facing=west": [
+            {"model": "conquest:block/strigil_on_the_ground_1", "y": 270
+            },
+            {"model": "conquest:block/strigil_on_the_ground_2", "y": 270
+            },
+            {"model": "conquest:block/strigil_on_the_ground_3", "y": 270
+            }
+        ],
+        "toggle=3,facing=north": {
+            "model": "conquest:block/strigil_2_hanging"
+        },
+        "toggle=3,facing=east": {
+            "model": "conquest:block/strigil_2_hanging", "y": 90
+        },
+        "toggle=3,facing=south": {
+            "model": "conquest:block/strigil_2_hanging", "y": 180
+        },
+        "toggle=3,facing=west": {
+            "model": "conquest:block/strigil_2_hanging", "y": 270
+        },
+        "toggle=4,facing=north": {
+            "model": "conquest:block/strigil_hanging"
+        },
+        "toggle=4,facing=east": {
+            "model": "conquest:block/strigil_hanging", "y": 90
+        },
+        "toggle=4,facing=south": {
+            "model": "conquest:block/strigil_hanging", "y": 180
+        },
+        "toggle=4,facing=west": {
+            "model": "conquest:block/strigil_hanging", "y": 270
+        }
+    }
+}
