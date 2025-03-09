@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "facing=north,half=back": {
+      "model": "architects:block/beam_steep_steps"
+    },
+    "facing=north,half=front": {
+      "model": "architects:block/beam_steep_steps",
+      "zoffset": -8
+    },
+    "facing=east,half=back": {
+      "model": "architects:block/beam_steep_steps",
+      "y": 90
+    },
+    "facing=east,half=front": {
+      "model": "architects:block/beam_steep_steps",
+      "y": 90,
+      "xoffset": 8
+    },
+    "facing=south,half=back": {
+      "model": "architects:block/beam_steep_steps",
+      "y": 180
+    },
+    "facing=south,half=front": {
+      "model": "architects:block/beam_steep_steps",
+      "y": 180,
+      "zoffset": 8
+    },
+    "facing=west,half=back": {
+      "model": "architects:block/beam_steep_steps",
+      "y": 270
+    },
+    "facing=west,half=front": {
+      "model": "architects:block/beam_steep_steps",
+      "y": 270,
+      "xoffset": -8
+    }
+  }
+}

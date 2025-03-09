@@ -1,0 +1,10 @@
+{
+	"loader": "porting_lib:obj",
+	"parent": "minecraft:block/block",
+	"model": "architects:models/obj/beam_steep_steps.obj",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "architects:block/beam_steep_steps"
+	}
+}
