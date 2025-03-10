@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"top": "kneading_table_top",
-		"particle": "kneading_table_sides",
-		"sides": "kneading_table_sides",
-		"legs": "kneading_table_legs"
+		"top": "hearthfire:block/kneading_table_top",
+		"particle": "hearthfire:block/kneading_table_sides",
+		"sides": "hearthfire:block/kneading_table_sides",
+		"legs": "hearthfire:block/kneading_table_legs"
 	},
 	"elements": [
 		{
