@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"top": "hearthfire:block/kneading_table_top",
+		"particle": "hearthfire:block/kneading_table_sides",
+		"sides": "hearthfire:block/kneading_table_sides"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 1],
+			"to": [16, 14, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 14], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 14], "texture": "#top"}
+			}
+		},
+		{
+			"from": [0, 12.5, 0],
+			"to": [16, 16.5, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 4, 15.5, 8], "texture": "#sides"},
+				"south": {"uv": [0.5, 4, 15.5, 8], "texture": "#sides"},
+				"up": {"uv": [0, 12, 16, 13], "texture": "#sides"},
+				"down": {"uv": [0, 12, 16, 13], "texture": "#sides"}
+			}
+		},
+		{
+			"from": [0, 12.5, 15],
+			"to": [16, 16.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 4, 15.5, 8], "texture": "#sides"},
+				"south": {"uv": [0.5, 4, 15.5, 8], "texture": "#sides"},
+				"up": {"uv": [0, 13, 16, 12], "texture": "#sides"},
+				"down": {"uv": [0, 13, 16, 12], "texture": "#sides"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "middle",
+			"origin": [28, 10.75, 19],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

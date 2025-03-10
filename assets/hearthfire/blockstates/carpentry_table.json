@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "facing=north,shape=single": { "model": "hearthfire:block/kneading_table"},
+        "facing=east,shape=single": { "model": "hearthfire:block/kneading_table", "y": 90 },
+        "facing=south,shape=single": { "model": "hearthfire:block/kneading_table", "y": 180 },
+        "facing=west,shape=single": { "model": "hearthfire:block/kneading_table", "y": 270 },
+
+        "facing=north,shape=left": { "model": "hearthfire:block/kneading_table_left"},
+        "facing=east,shape=left": { "model": "hearthfire:block/kneading_table_left", "y": 90 },
+        "facing=south,shape=left": { "model": "hearthfire:block/kneading_table_left", "y": 180 },
+        "facing=west,shape=left": { "model": "hearthfire:block/kneading_table_left", "y": 270 },
+
+        "facing=north,shape=right": { "model": "hearthfire:block/kneading_table_right"},
+        "facing=east,shape=right": { "model": "hearthfire:block/kneading_table_right", "y": 90 },
+        "facing=south,shape=right": { "model": "hearthfire:block/kneading_table_right", "y": 180 },
+        "facing=west,shape=right": { "model": "hearthfire:block/kneading_table_right", "y": 270 },
+
+        "facing=north,shape=middle": { "model": "hearthfire:block/kneading_table_middle"},
+        "facing=east,shape=middle": { "model": "hearthfire:block/kneading_table_middle", "y": 90 },
+        "facing=south,shape=middle": { "model": "hearthfire:block/kneading_table_middle", "y": 180 },
+        "facing=west,shape=middle": { "model": "hearthfire:block/kneading_table_middle", "y": 270 }
+    }
+}
