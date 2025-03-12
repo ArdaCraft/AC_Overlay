@@ -4,8 +4,8 @@
 	"emissive_ambient": true,
 	"flip_v": true,
 	"textures": {
-		"log": "minecraft:minecraft:xone/birch_branch",
-		"particle": "minecraft:minecraft:xone/birch_branch"
+		"log": "minecraft:xone/birch_branch",
+		"particle": "minecraft:xone/birch_branch"
 	},
 	"gui_light": "side",
 	"display": {
