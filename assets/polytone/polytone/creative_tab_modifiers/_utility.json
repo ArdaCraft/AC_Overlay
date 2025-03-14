@@ -55,9 +55,17 @@
                 "conquest:lower_class_planning_sign",
                 "conquest:middle_class_planning_sign",
                 "conquest:upper_class_planning_sign",
-                "conquest:green_screen",
+                "conquest:white_screen",
                 "conquest:light_gray_screen",
-                "conquest:white_screen"
+                "create:industrial_iron_block",
+                "minecraft:jack_o_lantern",
+                "minecraft:glowstone",
+                "minecraft:ochre_froglight",
+                "conquest:green_screen",
+                "minecraft:verdant_froglight",
+                "minecraft:sea_lantern",
+                "minecraft:pearlescent_froglight",
+                "minecraft:shroomlight"
             ]
         }
     ],

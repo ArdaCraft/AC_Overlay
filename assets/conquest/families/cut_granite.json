@@ -1,0 +1,8 @@
+{
+  "parent_block": "create:cut_granite",
+  "family_blocks": [
+    "create:cut_granite_stairs",
+    "create:cut_granite_slab",
+    "create:cut_granite_wall"
+  ]
+}

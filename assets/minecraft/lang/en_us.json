@@ -1,5 +1,4 @@
 {
-
   "itemGroup.buildingBlocks": "Utility",
   "itemGroup.coloredBlocks": "Cobble & Brick",
   "itemGroup.natural": "Advanced Masonry",
@@ -20,6 +19,13 @@
   "instrument.minecraft.seek_goat_horn": "Seek",
   "instrument.minecraft.yearn_goat_horn": "Yearn",
   "item.minecraft.golden_shovel": "Bronze Hand Mirror",
+  "block.minecraft.jack_o_lantern": "Red Screen",
+  "block.minecraft.glowstone": "Orange Screen",
+  "block.minecraft.ochre_froglight": "Yellow Screen",
+  "block.minecraft.verdant_froglight": "Light Blue Screen",
+  "block.minecraft.sea_lantern": "Blue Screen",
+  "block.minecraft.pearlescent_froglight": "Purple Screen",
+  "block.minecraft.shroomlight": "Pink Screen",
   "block.minecraft.soul_campfire": "Small Campfire",
   "block.minecraft.bamboo_fence_gate": "Wicker Fence Gate",
   "block.minecraft.mangrove_fence_gate": "Old Wicker Fence Gate",

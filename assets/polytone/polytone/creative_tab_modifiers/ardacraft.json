@@ -39,6 +39,13 @@
                 "minecraft:jungle_sign",
                 "minecraft:oak_sign",
                 "minecraft:spruce_sign",
+                "ardapaths:path_revealer",
+                {
+                    "id": "patchouli:guide_book",
+                    "tag": {
+                        "patchouli:book": "patchouli:ac_guide"
+                    }
+                },
                 "conquest:planning_sign",
                 "conquest:comment_planning_sign",
                 "create:rose_quartz_tiles",
@@ -53,16 +60,17 @@
                 "conquest:lower_class_planning_sign",
                 "conquest:middle_class_planning_sign",
                 "conquest:upper_class_planning_sign",
-                "conquest:green_screen",
-                "conquest:light_gray_screen",
                 "conquest:white_screen",
-                "ardapaths:path_revealer",
-                {
-                    "id": "patchouli:guide_book",
-                    "tag": {
-                        "patchouli:book": "patchouli:ac_guide"
-                    }
-                }
+                "conquest:light_gray_screen",
+                "create:industrial_iron_block",
+                "minecraft:jack_o_lantern",
+                "minecraft:glowstone",
+                "minecraft:ochre_froglight",
+                "conquest:green_screen",
+                "minecraft:verdant_froglight",
+                "minecraft:sea_lantern",
+                "minecraft:pearlescent_froglight",
+                "minecraft:shroomlight"
             ]
         }
     ]

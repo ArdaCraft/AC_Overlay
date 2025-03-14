@@ -20,5 +20,6 @@
   "block.create.cut_granite": "Caution Stripes",
   "block.create.cut_granite_stairs": "Caution Stripes Stairs",
   "block.create.cut_granite_slab": "Caution Stripes Slab",
-  "block.create.cut_granite_wall": "Caution Stripes Wall"
+  "block.create.cut_granite_wall": "Caution Stripes Wall",
+  "block.create.industrial_iron_block": "Black Screen"
 }
