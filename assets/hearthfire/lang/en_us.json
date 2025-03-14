@@ -2,5 +2,13 @@
     "block.hearthfire.grille": "Gridiron with Embers",
     "block.hearthfire.plunger_butter_churn": "Clay Butter Churn",
     "block.hearthfire.rustic_pine_bench": "Large Wooden Chest",
-    "block.hearthfire.carpentry_table": "Kneading Trough"
+    "block.hearthfire.carpentry_table": "Kneading Trough",
+    "block.hearthfire.oak_timbers": "Stacked Light Brown Wood Planks",
+    "block.hearthfire.birch_timbers": "Stacked Weathered Fine Wood Planks",
+    "block.hearthfire.spruce_timbers": "Stacked Dark Brown Wood Planks",
+    "block.hearthfire.jungle_timbers": "Stacked Stained Gray Wood Planks",
+    "block.hearthfire.acacia_timbers": "Stacked Red Brown Wood Planks",
+    "block.hearthfire.dark_oak_timbers": "Stacked  Wood Planks",
+    "block.hearthfire.mangrove_timbers": "Stacked Yellow Wood Planks",
+    "block.hearthfire.cherry_timbers": "Stacked  Wood Planks"
 }

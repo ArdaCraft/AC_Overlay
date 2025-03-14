@@ -1,0 +1,9 @@
+{
+  "parent": "hearthfire:block/template_planks_5",
+  "textures": {
+        "particle": "#side",
+    "front": "hearthfire:block/planks/stacked_mangrove_planks_front",
+		"side": "hearthfire:block/planks/stacked_mangrove_planks_side",
+		"top": "hearthfire:block/planks/stacked_mangrove_planks_top"
+  }
+}
