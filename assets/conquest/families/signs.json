@@ -1,0 +1,14 @@
+{
+  "parent_block": "minecraft:birch_sign",
+  "family_blocks": [
+    "minecraft:dark_oak_sign",
+    "minecraft:mangrove_sign",
+    "minecraft:warped_sign",
+    "minecraft:cherry_sign",
+    "minecraft:acacia_sign",
+    "minecraft:crimson_sign",
+    "minecraft:jungle_sign",
+    "minecraft:oak_sign",
+    "minecraft:spruce_sign"
+  ]
+}

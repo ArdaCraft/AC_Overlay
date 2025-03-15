@@ -18,7 +18,20 @@
     "brown_concrete_powder",
     "green_concrete_powder",
     "red_concrete_powder",
-    "black_concrete_powder"
+    "black_concrete_powder",
+    "conquest:white_screen",
+    "conquest:light_gray_screen",
+    "create:experience_block",
+    "minecraft:beacon",
+    "create:industrial_iron_block",
+    "minecraft:jack_o_lantern",
+    "minecraft:glowstone",
+    "minecraft:ochre_froglight",
+    "conquest:green_screen",
+    "minecraft:verdant_froglight",
+    "minecraft:sea_lantern",
+    "minecraft:pearlescent_froglight",
+    "minecraft:shroomlight"
   ],
   "disable_particles": true
 }

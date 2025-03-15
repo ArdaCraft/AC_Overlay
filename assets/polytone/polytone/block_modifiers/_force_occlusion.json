@@ -1,0 +1,6 @@
+{
+  "targets": [
+    "create:experience_block"
+  ],
+  "can_occlude": true
+}

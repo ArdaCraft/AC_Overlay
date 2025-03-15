@@ -1,5 +1,18 @@
 {
   "targets": [
+    "conquest:white_screen",
+    "conquest:light_gray_screen",
+    "create:experience_block",
+    "minecraft:beacon",
+    "create:industrial_iron_block",
+    "minecraft:jack_o_lantern",
+    "minecraft:glowstone",
+    "minecraft:ochre_froglight",
+    "conquest:green_screen",
+    "minecraft:verdant_froglight",
+    "minecraft:sea_lantern",
+    "minecraft:pearlescent_froglight",
+    "minecraft:shroomlight",
     "conquest:tall_crystal_wine_glass",
     "conquest:old_blue_pipe",
     "conquest:old_brown_6_way_flange",

@@ -62,6 +62,8 @@
                 "conquest:upper_class_planning_sign",
                 "conquest:white_screen",
                 "conquest:light_gray_screen",
+                "create:experience_block",
+                "minecraft:beacon",
                 "create:industrial_iron_block",
                 "minecraft:jack_o_lantern",
                 "minecraft:glowstone",
