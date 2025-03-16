@@ -1,0 +1,11 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/bark_box_center2.obj",
+    "emissive_ambient": true,
+    "flip-v": true,
+	"textures": {
+        "particle": "#round",
+		"oblong": "conquest:xone/oblong_bark_box",
+		"round": "conquest:xone/round_bark_box"
+	}
+}
