@@ -49,7 +49,7 @@
         "conquest:brown_concrete_powder_stairs",
         "minecraft:orange_concrete_powder",
         "conquest:orange_concrete_powder_layer",
-        "conquest:brown_concrete_powder_stairs"
+        "conquest:orange_concrete_powder_stairs"
     ],
     "colormap": {
         "x_axis": "biome_id",
