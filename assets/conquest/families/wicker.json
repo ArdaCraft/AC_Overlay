@@ -1,7 +1,7 @@
 {
-  "parent_block": "conquest:wicker_fence",
+  "parent_block": "conquest:wicker_fence_half",
   "family_blocks": [
-    "conquest:wicker_fence_half",
+    "conquest:wicker_fence",
     "create:crimson_window_pane",
     "create:birch_window_pane",
     "conquest:straight_wicker_fence",

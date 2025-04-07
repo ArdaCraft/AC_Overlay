@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "conquest:block/1_basic_refined/3_wood/simple_stave_fence",
+		"texture": "conquest:block/1_basic_refined/3_wood/simple_stave_fence"
+	},
+	"elements": [
+		{
+			"from": [7.25, 0, 6.25],
+			"to": [8.75, 16, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.5, 2.25]},
+			"faces": {
+				"north": {"uv": [6, 0, 7.5, 16], "texture": "#texture"},
+				"east": {"uv": [4, 0, 7.5, 16], "texture": "#texture"},
+				"south": {"uv": [6, 0, 7.5, 16], "texture": "#texture"},
+				"west": {"uv": [4, 0, 7.5, 16], "texture": "#texture"},
+				"up": {"uv": [4, 0, 7.5, 1.5], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [4, 14.5, 7.5, 16], "rotation": 270, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.5, 1.5, 5.75],
+			"to": [8.5, 3.5, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 11, 6.5, 13], "texture": "#texture"},
+				"east": {"uv": [9, 11.5, 11, 7], "rotation": 90, "texture": "#texture"},
+				"south": {"uv": [5.5, 11, 6.5, 13], "texture": "#texture"},
+				"west": {"uv": [4.5, 7, 6.5, 11.5], "rotation": 90, "texture": "#texture"},
+				"up": {"uv": [1.5, 8.5, 2.5, 13], "texture": "#texture"},
+				"down": {"uv": [1.5, 8.5, 2.5, 13], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.5, 10, 5.75],
+			"to": [8.5, 12, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 10.25]},
+			"faces": {
+				"north": {"uv": [5.5, 2, 6.5, 4], "texture": "#texture"},
+				"east": {"uv": [6.5, 2, 4.5, 6.5], "rotation": 90, "texture": "#texture"},
+				"south": {"uv": [5.5, 2, 6.5, 4], "texture": "#texture"},
+				"west": {"uv": [4.5, 2, 6.5, 6.5], "rotation": 90, "texture": "#texture"},
+				"up": {"uv": [1.5, 2.5, 2.5, 7], "texture": "#texture"},
+				"down": {"uv": [1.5, 2.5, 2.5, 7], "texture": "#texture"}
+			}
+		}
+	]
+}
