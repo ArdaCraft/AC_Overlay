@@ -1,0 +1,45 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "#side"
+	},
+	"elements": [
+		{
+			"name": "element",
+			"from": [6.75, 6.5, -3],
+			"to": [9.25, 9.5, 19],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 7.25, 9, 10.25], "texture": "#end"},
+				"east": {"uv": [13, 0, 16, 16], "rotation": 90, "texture": "#side"},
+				"south": {"uv": [6.5, 7.25, 9, 10.25], "texture": "#end"},
+				"west": {"uv": [0, 0, 3, 16], "rotation": 270, "texture": "#side"},
+				"up": {"uv": [6.5, 0, 9, 16], "texture": "#side"},
+				"down": {"uv": [7, 0, 9.5, 16], "rotation": 180, "texture": "#side"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 0, 0],
+			"translation": [1.5, 1, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 90, 0],
+			"translation": [1.5, 1, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [30, 180, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_diagonal_lintel_top2",
+  "textures": {
+    "end": "minecraft:block/stripped_dark_oak_log_top",
+    "side": "minecraft:block/stripped_dark_oak_log"
+  }
+}

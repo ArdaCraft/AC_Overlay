@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_diagonal_lintel_bottom_left2",
+  "textures": {
+    "end": "minecraft:block/stripped_birch_log",
+    "side": "minecraft:block/stripped_birch_log"
+  }
+}
