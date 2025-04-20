@@ -11,7 +11,7 @@
 - Light limestone debris
 - New mud palette
 - New friezes & mosaics
-- New tesserae blocks
+- New plain and mosaic tesserae blocks
 - New polychrome capitals & bases
 - Bark box
 - Carders
@@ -30,19 +30,19 @@
 ## Changes:
 - Updated oak log bark
 - Updated silts and soils
-- Increased size of thatch texture to be less repetitive
+- Less repetitive thatch texture 
 - Travertine triumphal frieze is now limestone
 - Mossy and overgrown debris now biome colored
 - Extended support for highlight for more accurate visual hitboxes
 - Dripstone block now uses rough calcite for its top texture
 - Signs now have simpler textures and more color options
-- Custom block families for blocks (wicker, old wicker, signs, planning blocks, screens, caution stripes, rope line, burlap, and others)
+- Custom block families (wicker, old wicker, signs, planning blocks, screens, caution stripes, rope line, burlap, and others)
 - Tooltips for toggles and placement features
-- (WIP) Doors of durin textures
 - Simple picket fence
-- Larch, dark spurce, light spruce biome coloring
+- Larch, dark spruce, light spruce biome coloring
 - Update poplar and white poplar leaves
 - Updated dry mud palettes
+- (WIP) Doors of durin textures
 
 ## Fixes:
 - Update all beams changed in 1.0.2 of Conquest:Architects
