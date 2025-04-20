@@ -1,7 +1,0 @@
-{
-  "parent": "architects:template/template_steeper_diagonal_beam_back_corner",
-  "textures": {
-    "end": "minecraft:block/bamboo_block",
-    "side": "minecraft:block/bamboo_block"
-  }
-}
