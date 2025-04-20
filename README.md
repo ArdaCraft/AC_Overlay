@@ -42,6 +42,7 @@
 - Simple picket fence
 - Larch, dark spurce, light spruce biome coloring
 - Update poplar and white poplar leaves
+- Updated dry mud palettes
 
 ## Fixes:
 - Update all beams changed in 1.0.2 of Conquest:Architects
