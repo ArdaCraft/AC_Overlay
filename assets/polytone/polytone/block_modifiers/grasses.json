@@ -51,8 +51,7 @@
         "conquest:orange_concrete_powder_layer",
         "conquest:orange_concrete_powder_stairs",
         "conquest:dark_green_sphagnum_moss",
-        "conquest:green_sphagnum_moss",
-        "conquest:yellow_sphagnum_moss"
+        "conquest:green_sphagnum_moss"
     ],
     "colormap": {
         "x_axis": "biome_id",
