@@ -1,5 +1,5 @@
-# Issues currently include inaccurate items, inaccurate block sounds, and inaccurate block names. Please DO NOT report issues related to those.
-## Additions:
+Issues currently include inaccurate items, inaccurate block sounds, and inaccurate block names. Please **DO NOT** report issues related to those.
+### Additions:
 - Updated marble rock palette
 - Short broom
 - Offset wicker posts
@@ -27,7 +27,7 @@
 - (WIP) Painted & carved arches
 - (WIP) Hornbeam bark
 
-## Changes:
+### Changes:
 - Updated oak log bark
 - Updated silts and soils
 - Less repetitive thatch texture 
@@ -44,7 +44,7 @@
 - Updated dry mud palettes
 - (WIP) Doors of durin textures
 
-## Fixes:
+### Fixes:
 - Update all beams changed in 1.0.2 of Conquest:Architects
 - Broken birch branches
 - Mipmapping on various coniferous blocks
