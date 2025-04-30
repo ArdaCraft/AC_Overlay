@@ -1,1 +1,8 @@
-{"parent":"block/block","textures":{"bottom":"conquest:block/8_topography/1_stone/rough_calcite_topbottom","top":"conquest:block/8_topography/1_stone/rough_calcite_topbottom","north":"conquest:block/8_topography/1_stone/dripstone","east":"conquest:block/8_topography/1_stone/dripstone","west":"conquest:block/8_topography/1_stone/dripstone","south":"conquest:block/8_topography/1_stone/dripstone","particle":"conquest:block/8_topography/1_stone/dripstone"},"elements":[{"from":[0,0,0],"to":[16,16,16],"faces":{"down":{"texture":"#bottom","cullface":"down"},"up":{"texture":"#top","cullface":"up"},"north":{"texture":"#north","cullface":"north"},"south":{"texture":"#south","cullface":"south"},"west":{"texture":"#west","cullface":"west"},"east":{"texture":"#east","cullface":"east"}}}]}
+{
+  "parent": "conquest:block/templates/parent_cube",
+  "textures": {
+    "bottom": "conquest:block/8_topography/1_stone/rough_calcite_topbottom",
+    "side": "conquest:block/8_topography/1_stone/dripstone",
+    "top": "conquest:block/8_topography/1_stone/rough_calcite_topbottom"
+  }
+}
