@@ -32,6 +32,7 @@
         "conquest:lower_class_planning_sign",
         "conquest:middle_class_planning_sign",
         "conquest:upper_class_planning_sign",
+        "minecraft:redstone_lamp",
         "conquest:white_screen",
         "conquest:light_gray_screen",
         "create:experience_block",

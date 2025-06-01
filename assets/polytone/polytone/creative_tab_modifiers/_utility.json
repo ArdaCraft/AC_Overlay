@@ -56,6 +56,18 @@
                 "conquest:lower_class_planning_sign",
                 "conquest:middle_class_planning_sign",
                 "conquest:upper_class_planning_sign",
+                "minecraft:redstone_lamp",
+                {
+                    "id": "minecraft:redstone_lamp",
+                    "tag": {
+                        "BlockStateTag": {
+                            "lit": "true"
+                        },
+                        "display": {
+                            "Name": "{\"text\":\"Lit Redstone Lamp\",\"color\":\"aqua\",\"italic\": false}"
+                        }
+                    }
+                },
                 "conquest:white_screen",
                 "conquest:light_gray_screen",
                 "create:experience_block",
