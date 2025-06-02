@@ -46,6 +46,7 @@
         "minecraft:verdant_froglight",
         "minecraft:sea_lantern",
         "minecraft:pearlescent_froglight",
-        "minecraft:shroomlight"
+        "minecraft:shroomlight",
+        "minecraft:item_frame"
     ]
 }
