@@ -1,5 +1,5 @@
 {
-  "parent": "conquest:block/templates/parent_vertical_quarter_6",
+  "parent": "conquest:block/templates/parent_wall_side_tall",
     "textures": {
         "bottom": "conquest:block/1_basic_refined/1_stone/eroded_white_ashlars",
         "top": "conquest:block/2_advanced_refined/2_metal/white_shipping_container",
