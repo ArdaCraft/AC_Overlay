@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block/inner_stairs",
+    "parent": "minecraft:block/banded_inner_stairs",
     "textures": {
         "bottom": "conquest:block/2_advanced_refined/2_metal/white_shipping_container",
         "top": "conquest:block/1_basic_refined/1_stone/eroded_white_ashlars",
