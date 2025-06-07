@@ -1,9 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "conquest:block/1_basic_refined/3_wood/firewood",
-		"side": "conquest:block/1_basic_refined/3_wood/firewood",
-		"ends": "conquest:block/1_basic_refined/3_wood/bundled_firewood_topbottom"
+
 	},
 	"elements": [
 		{
