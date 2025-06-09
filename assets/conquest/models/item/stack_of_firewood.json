@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "conquest:block/stack_of_firewood2_1",
+	"display": {
+		"fixed": {
+			"rotation": [270, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	}
+}
