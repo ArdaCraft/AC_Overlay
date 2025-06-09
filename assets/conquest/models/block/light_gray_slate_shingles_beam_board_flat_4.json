@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_roof_board_flat_4",
+  "textures": {
+    "side": "conquest:block/1_basic_refined/2_roof/1_clay/light_cotswold_slate_tiles"
+  }
+}

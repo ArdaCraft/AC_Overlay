@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_roof_board_flat_4",
+  "textures": {
+    "side": "minecraft:block/cyan_terracotta"
+  }
+}
