@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "hearthfire:block/plunger_butter_churn" },
+        "facing=east": { "model": "hearthfire:block/plunger_butter_churn", "y": 90 },
+        "facing=south": { "model": "hearthfire:block/plunger_butter_churn", "y": 180 },
+        "facing=west": { "model": "hearthfire:block/plunger_butter_churn", "y": 270 }
+    }
+}
