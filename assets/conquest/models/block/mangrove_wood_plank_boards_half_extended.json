@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/templates/parent_boards_half_extended",
+	"textures": {
+		"particle": "minecraft:block/mangrove_planks"
+	}
+}
