@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 3,
+                "\u200a": 4,
+                "\u200b": 4,
+                "\u200c": 4,
+                "\u200d": 4
+            }
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:elmessiri_bold.ttf",
+			"shift": [0, 0.5],
+			"size": 14.0,
+			"oversample": 5,
+			"skip": ""
+        }
+	]
+}
