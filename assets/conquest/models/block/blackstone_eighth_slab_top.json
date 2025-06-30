@@ -1,5 +1,5 @@
 {
-  "parent": "conquest:block/templates/parent_vertical_quarter_6",
+  "parent": "conquest:block/templates/parent_slab_eighth_top",
   "textures": {
     "bottom": "minecraft:block/blackstone",
     "side": "minecraft:block/blackstone",
