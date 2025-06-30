@@ -12,10 +12,10 @@
         },
         {
             "type": "ttf",
-            "file": "minecraft:orchidea.ttf",
-			"shift": [0.0, 1.75],
+            "file": "minecraft:orchidea_bold.ttf",
+			"shift": [0.0, 1.65],
 			"size": 8.0,
-			"oversample": 4.0,
+			"oversample": 15.0,
 			"skip": ""
         }
 	]
