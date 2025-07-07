@@ -1,0 +1,6 @@
+{
+	"parent":"conquest:block/templates/parent_wicker_fence_post",
+	"textures":{
+		"post":"conquest:block/1_basic_refined/3_wood/oak_wicker_fence_post"
+	}
+}

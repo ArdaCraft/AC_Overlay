@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "conquest:block/ash_wicker_fence_thin_vertical_slab" },
+        "facing=west": { "model": "conquest:block/ash_wicker_fence_thin_vertical_slab", "y": 90 },
+        "facing=north": { "model": "conquest:block/ash_wicker_fence_thin_vertical_slab", "y": 180 },
+        "facing=east": { "model": "conquest:block/ash_wicker_fence_thin_vertical_slab", "y": 270 }
+    }
+}
