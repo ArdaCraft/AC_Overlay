@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/templates/parent_lattice_grid_window",
+	"textures": {
+		"particle": "conquest:block/2_advanced_refined/7_wood/vertical_damaged_shoji"
+	}
+}

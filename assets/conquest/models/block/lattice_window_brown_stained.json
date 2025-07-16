@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/templates/parent_lattice_window",
+	"textures": {
+		"particle": "block/brown_stained_glass"
+	}
+}

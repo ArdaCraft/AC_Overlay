@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/light_blue_stained_glass"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 7.5],
+			"to": [16, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
+			"faces": {
+				"north": {"uv": [7, 0, 15, 16], "texture": "#particle"},
+				"south": {"uv": [1, 0, 9, 16], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [0, 0, 7.5],
+			"to": [8, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, 7]},
+			"faces": {
+				"north": {"uv": [7, 0, 15, 16], "texture": "#particle"},
+				"south": {"uv": [1, 0, 9, 16], "texture": "#particle"}
+			}
+		}
+	]
+}

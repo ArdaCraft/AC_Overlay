@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/templates/parent_lattice_window",
+	"textures": {
+		"particle": "conquest:block/2_advanced_refined/6_glass/limestone_lattice_window"
+	}
+}
