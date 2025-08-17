@@ -110,7 +110,9 @@
                 "minecraft:light_blue_stained_glass_pane",
                 "minecraft:light_gray_stained_glass_pane",
                 "minecraft:lime_stained_glass_pane",
-                "minecraft:glass_pane"
+                "minecraft:glass_pane",
+                "create:handheld_worldshaper",
+                "create:wand_of_symmetry"
             ],
             "inverse": true
         }
