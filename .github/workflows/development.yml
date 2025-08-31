@@ -1,8 +1,7 @@
 name: Beta Release
 on:
-  push:
-    branches:
-      - development
+  schedule:
+     - cron: "0 12 */7 * *"
 jobs:
   json-lint:
     runs-on: ubuntu-latest
