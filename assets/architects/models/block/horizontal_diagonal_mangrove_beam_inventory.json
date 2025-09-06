@@ -1,7 +1,7 @@
 {
   "parent": "architects:block/horizontal_diagonal_beam_inventory",
   "textures": {
-    "end": "conquest:block/2_advanced_refined/3_plaster/light_gray_stucco",
-    "side": "conquest:block/2_advanced_refined/3_plaster/light_gray_stucco"
+    "end": "conquest:block/2_advanced_refined/3_plaster/light_gray_plaster",
+    "side": "conquest:block/2_advanced_refined/3_plaster/light_gray_plaster"
   }
 }

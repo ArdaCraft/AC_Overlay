@@ -1,6 +1,6 @@
 {
   "parent": "architects:template/template_horizontal_beam_se1",
   "textures": {
-    "particle": "conquest:block/2_advanced_refined/3_plaster/light_gray_stucco"
+    "particle": "conquest:block/2_advanced_refined/3_plaster/light_gray_plaster"
   }
 }

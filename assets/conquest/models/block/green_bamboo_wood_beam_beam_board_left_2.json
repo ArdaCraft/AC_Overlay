@@ -1,6 +1,6 @@
 {
   "parent": "conquest:block/templates/parent_board_left_2",
   "textures": {
-    "side": "conquest:block/2_advanced_refined/3_plaster/light_gray_stucco"
+    "side": "conquest:block/2_advanced_refined/3_plaster/green_stucco_vertical_justforeag"
   }
 }
