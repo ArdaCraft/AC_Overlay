@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_board_up_1",
+  "textures": {
+    "side": "conquest:block/2_advanced_refined/3_plaster/light_gray_stucco"
+  }
+}

@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "conquest:block/1_basic_refined/3_wood/aspen_wood_beam",
@@ -7,14 +8,26 @@
 	"elements": [
 		{
 			"from": [0, -0.005, 8],
-			"to": [8, 4, 16],
+			"to": [16, 4, 16],
 			"faces": {
-				"north": {"uv": [8, 12, 16, 16], "texture": "#side"},
+				"north": {"uv": [0, 12, 16, 16], "texture": "#side"},
 				"east": {"uv": [0, 12, 8, 16], "texture": "#side"},
-				"south": {"uv": [0, 12, 8, 16], "texture": "#side"},
+				"south": {"uv": [0, 12, 16, 16], "texture": "#side"},
 				"west": {"uv": [8, 12, 16, 16], "texture": "#side"},
-				"up": {"uv": [0, 8, 8, 16], "texture": "#side"},
-				"down": {"uv": [0, 0, 8, 8], "texture": "#side"}
+				"up": {"uv": [0, 8, 16, 16], "texture": "#side"},
+				"down": {"uv": [0, 0, 16, 8], "texture": "#side"}
+			}
+		},
+		{
+			"from": [0.01, 0.005, 16.01],
+			"to": [15.99, 3.99, 23.99],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"east": {"uv": [8, 12, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 12, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 12, 8, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 8], "texture": "#side"},
+				"down": {"uv": [0, 8, 16, 16], "texture": "#side"}
 			}
 		}
 	]
