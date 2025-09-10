@@ -1,7 +1,7 @@
 {
   "parent": "architects:template/template_horizontal_diagonal_beam_top2",
   "textures": {
-    "end": "conquest:block/2_advanced_refined/3_plaster/light_gray_plaster",
-    "side": "conquest:block/2_advanced_refined/3_plaster/light_gray_plaster"
+    "end": "minecraft:block/bamboo_block",
+    "side": "minecraft:block/bamboo_block"
   }
 }
