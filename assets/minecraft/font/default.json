@@ -12,8 +12,8 @@
         },
         {
             "type": "ttf",
-            "file": "minecraft:orchidea_bold.ttf",
-			"shift": [0.0, 1.5],
+            "file": "minecraft:orchidea.ttf",
+			"shift": [0.0, 1.55],
 			"size": 8.25,
 			"oversample": 4.0,
 			"skip": ""

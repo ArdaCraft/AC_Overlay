@@ -16,7 +16,7 @@ in vec2 texCoord0;
 out vec4 fragColor;
 
 void main() {
-    float intensity = step(0.65, texture(Sampler0, texCoord0).r);
+    float intensity = step(0.15, texture(Sampler0, texCoord0).r);
     vec4 color = vec4(intensity) * vertexColor * ColorModulator;
     if (color.a < 0.1) {
         discard;
