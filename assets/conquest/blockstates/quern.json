@@ -1,0 +1,42 @@
+{
+    "variants": {
+        "facing=north": [
+            {
+                "model": "conquest:block/quern",
+                "y": 90
+            },
+            {
+                "model": "conquest:block/quern2",
+                "y": 90
+            }
+        ],
+        "facing=east": [
+            {
+                "model": "conquest:block/quern",
+                "y": 180
+            },
+            {
+                "model": "conquest:block/quern2",
+                "y": 180
+            }
+        ],
+        "facing=south": [
+            {
+                "model": "conquest:block/quern",
+                "y": 270
+            },
+            {
+                "model": "conquest:block/quern2",
+                "y": 270
+            }
+        ],
+        "facing=west": [
+            {
+                "model": "conquest:block/quern"
+            },
+            {
+                "model": "conquest:block/quern2"
+            }
+        ]
+    }
+}
