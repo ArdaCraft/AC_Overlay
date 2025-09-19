@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_roof_board_tall_2",
+  "textures": {
+    "side": "conquest:block/3_decoration/4_cloth/gray_canvas"
+  }
+}

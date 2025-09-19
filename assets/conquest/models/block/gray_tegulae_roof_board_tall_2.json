@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_roof_board_tall_2",
+  "textures": {
+    "side": "conquest:block/2_advanced_refined/2_metal/rusted_corrugated_metal"
+  }
+}
