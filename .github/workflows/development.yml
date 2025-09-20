@@ -2,6 +2,7 @@ name: Beta Release
 on:
   schedule:
      - cron: "0 12 */3 * *"
+  workflow_dispatch:
 jobs:
   json-lint:
     runs-on: ubuntu-latest
