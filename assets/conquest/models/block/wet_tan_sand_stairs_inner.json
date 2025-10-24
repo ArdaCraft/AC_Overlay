@@ -1,5 +1,5 @@
 {
-    "parent": "conquest:block/templates/tint/parent_inner_stairs_tint",
+    "parent": "conquest:block/templates/tint/parent_inner_stairs",
     "textures": {
         "bottom": "conquest:block/8_topography/3_sand_clay/wet_tan_sand",
         "top": "conquest:block/8_topography/3_sand_clay/wet_tan_sand",

@@ -1,5 +1,5 @@
 {
-    "parent": "conquest:block/templates/tint/parent_outer_stairs_tint",
+    "parent": "conquest:block/templates/tint/parent_outer_stairs",
     "textures": {
         "bottom": "minecraft:block/sand",
         "top": "minecraft:block/sand",

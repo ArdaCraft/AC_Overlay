@@ -11,8 +11,8 @@
             "parent": "conquest:item/mistletoe_garland_inv"
         },
         "textures": {
-            "layer0": "conquest:block/9_organic/2_leaves/mistletoe_garland",
-            "particle": "conquest:block/9_organic/2_leaves/mistletoe_garland"
+            "layer0": "conquest:block/9_organic/2_leaves/mistletoe_leaves_1",
+            "particle": "conquest:block/9_organic/2_leaves/mistletoe_leaves_1"
         }
     }
   }

@@ -1,0 +1,6 @@
+{
+    "parent": "conquest:block/templates/tint/parent_layer_height14",
+    "textures": {
+        "particle": "minecraft:block/red_sand"
+    }
+}
