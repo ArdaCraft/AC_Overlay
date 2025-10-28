@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/parent_leaves_no_shade_sym",
+	"textures": {
+		"leaves_1": "conquest:block/9_organic/2_leaves/downy_willow_leaves_1"
+	}
+}

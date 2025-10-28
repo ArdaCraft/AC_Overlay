@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/parent_leaves_no_shade_no_ao",
+	"textures": {
+		"leaves_1": "conquest:block/9_organic/2_leaves/plum_tree_leaves_1",
+		"leaves_2": "conquest:block/9_organic/2_leaves/plum_tree_leaves_2"
+	}
+}
