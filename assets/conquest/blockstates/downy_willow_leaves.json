@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+          { "model": "conquest:block/downy_willow_leaves", "z": 5 },
+          { "model": "conquest:block/downy_willow_leaves", "x": 30, "y": -40, "z": 0 },
+          { "model": "conquest:block/downy_willow_leaves", "x": -25, "y": -15, "z": 18  },
+          { "model": "conquest:block/downy_willow_leaves", "x": -15, "y": 40, "z": -15 },
+          { "model": "conquest:block/downy_willow_leaves", "x": 10, "y": 65, "z": 0 },
+          { "model": "conquest:block/downy_willow_leaves", "x": 0, "y": 40, "z": 40 }
+        ]
+    }
+}
