@@ -26,6 +26,7 @@
   "instrument.minecraft.ponder_goat_horn": "Ponder",
   "instrument.minecraft.seek_goat_horn": "Seek",
   "instrument.minecraft.yearn_goat_horn": "Yearn",
+  "item.minecraft.debug_stick": "Debug Stick (type /cycler to use properly)",
   "item.minecraft.golden_shovel": "Bronze Hand Mirror",
   "block.minecraft.beacon": "Dark Gray Screen",
   "block.minecraft.jack_o_lantern": "Red Screen",
