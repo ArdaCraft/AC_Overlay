@@ -38,9 +38,6 @@
         "conquest:taiga_grass_vertical_slab",
         "conquest:fallen_willow_leaves",
         "conquest:common_meadow_grass",
-        "conquest:mossy_sandstone_debris",
-        "conquest:mossy_sandstone_debris_layer",
-        "conquest:mossy_sandstone_debris_stairs",
         "conquest:small_stones",
         "conquest:small_stones_layer",
         "conquest:small_stones_stairs",
@@ -51,7 +48,17 @@
         "conquest:orange_concrete_powder_layer",
         "conquest:orange_concrete_powder_stairs",
         "conquest:dark_green_sphagnum_moss",
-        "conquest:green_sphagnum_moss"
+        "conquest:green_sphagnum_moss",
+        "conquest:mossy_sandstone_debris",
+        "conquest:mossy_sandstone_debris_corner_slab",
+        "conquest:mossy_sandstone_debris_eighth_slab",
+        "conquest:mossy_sandstone_debris_layer",
+        "conquest:mossy_sandstone_debris_quarter_slab",
+        "conquest:mossy_sandstone_debris_stairs",
+        "conquest:mossy_sandstone_debris_vertical_corner",
+        "conquest:mossy_sandstone_debris_vertical_corner_slab",
+        "conquest:mossy_sandstone_debris_vertical_quarter",
+        "conquest:mossy_sandstone_debris_vertical_slab"
     ],
     "colormap": {
         "x_axis": "biome_id",
