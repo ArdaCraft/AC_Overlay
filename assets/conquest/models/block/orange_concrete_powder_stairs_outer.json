@@ -1,6 +1,6 @@
 {
 	"parent": "conquest:block/templates/overlay/parent_stairs_outer",
-	"render_type": "cutout",
+	
 	"textures": {
 		"overlay": "minecraft:block/orange_concrete_powder_overlay",
 		"particle": "minecraft:block/orange_concrete_powder"

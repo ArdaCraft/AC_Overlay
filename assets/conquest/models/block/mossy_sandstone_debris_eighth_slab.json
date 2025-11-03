@@ -1,6 +1,6 @@
 {
 	"parent": "conquest:block/templates/overlay/parent_slab_eighth",
-	"render_type": "cutout",
+	
 	"textures": {
 		"overlay": "conquest:block/8_topography/6_debris_gravel/mossy_sandstone_debris_overlay",
 		"side": "conquest:block/8_topography/6_debris_gravel/mossy_sandstone_debris"
