@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "toggle=3,facing=north": { "model": "conquest:block/carpenters_chest", "y": 180, "xoffset": 8 },
+        "toggle=3,facing=east": { "model": "conquest:block/carpenters_chest", "y": 270, "zoffset": 8 },
+        "toggle=3,facing=south": { "model": "conquest:block/carpenters_chest", "xoffset": -8 },
+        "toggle=3,facing=west": { "model": "conquest:block/carpenters_chest", "y": 90, "zoffset": -8 },
+
+        "toggle=4,facing=north": { "model": "conquest:block/carpenters_chest", "y": 180, "xoffset": -8 },
+        "toggle=4,facing=east": { "model": "conquest:block/carpenters_chest", "y": 270, "zoffset": -8 },
+        "toggle=4,facing=south": { "model": "conquest:block/carpenters_chest", "xoffset": 8 },
+        "toggle=4,facing=west": { "model": "conquest:block/carpenters_chest", "y": 90, "zoffset": 8 }
+    }
+}
