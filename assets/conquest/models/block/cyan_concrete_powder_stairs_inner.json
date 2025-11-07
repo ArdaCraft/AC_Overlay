@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_stairs_inner",
+	
+	"textures": {
+		"overlay": "minecraft:block/cyan_concrete_powder_overlay",
+		"particle": "minecraft:block/cyan_concrete_powder"
+	}
+}

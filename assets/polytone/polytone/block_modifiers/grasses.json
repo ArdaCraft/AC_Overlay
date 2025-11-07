@@ -79,7 +79,17 @@
         "conquest:orange_concrete_powder_vertical_corner",
         "conquest:orange_concrete_powder_vertical_corner_slab",
         "conquest:orange_concrete_powder_vertical_quarter",
-        "conquest:orange_concrete_powder_vertical_slab"
+        "conquest:orange_concrete_powder_vertical_slab",
+        "minecraft:cyan_concrete_powder",
+        "conquest:cyan_concrete_powder_corner_slab",
+        "conquest:cyan_concrete_powder_eighth_slab",
+        "conquest:cyan_concrete_powder_layer",
+        "conquest:cyan_concrete_powder_quarter_slab",
+        "conquest:cyan_concrete_powder_stairs",
+        "conquest:cyan_concrete_powder_vertical_corner",
+        "conquest:cyan_concrete_powder_vertical_corner_slab",
+        "conquest:cyan_concrete_powder_vertical_quarter",
+        "conquest:cyan_concrete_powder_vertical_slab"
     ],
     "colormap": {
         "x_axis": "biome_id",

@@ -52,5 +52,11 @@
 				"down": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "down", "tintindex": 1}
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
 }
