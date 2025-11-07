@@ -90,7 +90,27 @@
     "conquest:cyan_concrete_powder_vertical_corner",
     "conquest:cyan_concrete_powder_vertical_corner_slab",
     "conquest:cyan_concrete_powder_vertical_quarter",
-    "conquest:cyan_concrete_powder_vertical_slab"
+    "conquest:cyan_concrete_powder_vertical_slab",
+    "minecraft:magenta_concrete_powder",
+    "conquest:magenta_concrete_powder_corner_slab",
+    "conquest:magenta_concrete_powder_eighth_slab",
+    "conquest:magenta_concrete_powder_layer",
+    "conquest:magenta_concrete_powder_quarter_slab",
+    "conquest:magenta_concrete_powder_stairs",
+    "conquest:magenta_concrete_powder_vertical_corner",
+    "conquest:magenta_concrete_powder_vertical_corner_slab",
+    "conquest:magenta_concrete_powder_vertical_quarter",
+    "conquest:magenta_concrete_powder_vertical_slab",
+    "minecraft:pink_concrete_powder",
+    "conquest:pink_concrete_powder_corner_slab",
+    "conquest:pink_concrete_powder_eighth_slab",
+    "conquest:pink_concrete_powder_layer",
+    "conquest:pink_concrete_powder_quarter_slab",
+    "conquest:pink_concrete_powder_stairs",
+    "conquest:pink_concrete_powder_vertical_corner",
+    "conquest:pink_concrete_powder_vertical_corner_slab",
+    "conquest:pink_concrete_powder_vertical_quarter",
+    "conquest:pink_concrete_powder_vertical_slab"
   ],
   "render_type": "cutout_mipped"
 }

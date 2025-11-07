@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_vertical_quarter_1",
+	
+	"textures": {
+		"overlay": "minecraft:block/pink_concrete_powder_overlay",
+		"side": "minecraft:block/pink_concrete_powder"
+	}
+}
