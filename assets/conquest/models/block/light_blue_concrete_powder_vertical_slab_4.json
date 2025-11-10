@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_vertical_slab_4",
+	
+	"textures": {
+		"overlay": "minecraft:block/mossy_overlay",
+		"side": "minecraft:block/light_blue_concrete_powder"
+	}
+}

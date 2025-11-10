@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_stairs_outer",
+	
+	"textures": {
+		"overlay": "minecraft:block/light_mossy_overlay",
+		"particle": "minecraft:block/red_concrete_powder"
+	}
+}

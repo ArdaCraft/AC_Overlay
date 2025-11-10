@@ -2,7 +2,7 @@
 	"parent": "conquest:block/templates/overlay/parent_vertical_corner_2",
 	
 	"textures": {
-		"overlay": "minecraft:block/pink_concrete_powder_overlay",
+		"overlay": "minecraft:block/mossy_overlay",
 		"side": "minecraft:block/pink_concrete_powder"
 	}
 }

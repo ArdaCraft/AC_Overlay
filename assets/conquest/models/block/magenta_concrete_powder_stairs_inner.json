@@ -2,7 +2,7 @@
 	"parent": "conquest:block/templates/overlay/parent_stairs_inner",
 	
 	"textures": {
-		"overlay": "minecraft:block/magenta_concrete_powder_overlay",
+		"overlay": "minecraft:block/mossy_overlay",
 		"particle": "minecraft:block/magenta_concrete_powder"
 	}
 }

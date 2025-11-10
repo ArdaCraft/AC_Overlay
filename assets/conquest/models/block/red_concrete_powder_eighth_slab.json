@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_slab_eighth",
+	
+	"textures": {
+		"overlay": "minecraft:block/light_mossy_overlay",
+		"side": "minecraft:block/red_concrete_powder"
+	}
+}

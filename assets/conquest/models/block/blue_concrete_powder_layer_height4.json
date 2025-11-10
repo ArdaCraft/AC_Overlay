@@ -1,0 +1,8 @@
+{
+	"parent": "conquest:block/templates/overlay/parent_layer_height4",
+	
+	"textures": {
+		"overlay": "minecraft:block/light_mossy_overlay",
+		"particle": "minecraft:block/blue_concrete_powder"
+	}
+}

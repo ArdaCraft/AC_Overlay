@@ -2,7 +2,7 @@
 	"parent": "conquest:block/templates/overlay/parent_slab_quarter_2",
 	
 	"textures": {
-		"overlay": "minecraft:block/magenta_concrete_powder_overlay",
+		"overlay": "minecraft:block/mossy_overlay",
 		"side": "minecraft:block/magenta_concrete_powder"
 	}
 }
