@@ -2,6 +2,6 @@
 	"parent": "conquest:block/templates/overlay/parent_block",
 	"textures": {
 		"overlay": "minecraft:block/light_mossy_overlay",
-		"particle": "minecraft:block/blue_concrete_powder"
+		"side": "minecraft:block/blue_concrete_powder"
 	}
 }

@@ -150,7 +150,27 @@
     "conquest:blue_concrete_powder_vertical_corner",
     "conquest:blue_concrete_powder_vertical_corner_slab",
     "conquest:blue_concrete_powder_vertical_quarter",
-    "conquest:blue_concrete_powder_vertical_slab"
+    "conquest:blue_concrete_powder_vertical_slab",
+    "conquest:mossy_limestone",
+    "conquest:mossy_limestone_corner_slab",
+    "conquest:mossy_limestone_eighth_slab",
+    "conquest:mossy_limestone_slab",
+    "conquest:mossy_limestone_quarter_slab",
+    "conquest:mossy_limestone_stairs",
+    "conquest:mossy_limestone_vertical_corner",
+    "conquest:mossy_limestone_vertical_corner_slab",
+    "conquest:mossy_limestone_vertical_quarter",
+    "conquest:mossy_limestone_vertical_slab",
+    "conquest:moss_covered_limestone",
+    "conquest:moss_covered_limestone_corner_slab",
+    "conquest:moss_covered_limestone_eighth_slab",
+    "conquest:moss_covered_limestone_slab",
+    "conquest:moss_covered_limestone_quarter_slab",
+    "conquest:moss_covered_limestone_stairs",
+    "conquest:moss_covered_limestone_vertical_corner",
+    "conquest:moss_covered_limestone_vertical_corner_slab",
+    "conquest:moss_covered_limestone_vertical_quarter",
+    "conquest:moss_covered_limestone_vertical_slab"
   ],
   "render_type": "cutout_mipped"
 }

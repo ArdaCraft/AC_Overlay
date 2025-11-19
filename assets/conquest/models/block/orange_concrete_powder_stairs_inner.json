@@ -3,6 +3,6 @@
 	
 	"textures": {
 		"overlay": "minecraft:block/orange_concrete_powder_overlay",
-		"particle": "minecraft:block/orange_concrete_powder"
+		"side": "minecraft:block/orange_concrete_powder"
 	}
 }

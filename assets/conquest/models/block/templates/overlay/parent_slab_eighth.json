@@ -1,16 +1,15 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"side": "#side",
-		"particle": "#side",
 		"top": "#side",
 		"bottom": "#side",
-		"overlay": "#overlay"
+		"top_overlay": "#overlay",
+		"bottom_overlay": "#overlay",
+		"particle": "#side"
 	},
 	"elements": [
 		{
-			"name": "Box1",
+
 			"from": [0, 0, 0],
 			"to": [8, 8, 8],
 			"faces": {
@@ -23,7 +22,7 @@
 			}
 		},
 				{
-			"name": "Box2",
+
 			"from": [0, 0, 0],
 			"to": [8, 8, 8],
 			"faces": {
@@ -31,8 +30,8 @@
 				"east": {"uv": [8, 8, 16, 16], "texture": "#overlay", "tintindex": 0},
 				"south": {"uv": [0, 8, 8, 16], "texture": "#overlay", "tintindex": 0},
 				"west": {"uv": [0, 8, 8, 16], "texture": "#overlay", "tintindex": 0},
-				"up": {"uv": [0, 0, 8, 8], "texture": "#overlay", "tintindex": 0},
-				"down": {"uv": [0, 8, 8, 16], "texture": "#overlay", "tintindex": 0}
+				"up": {"uv": [0, 0, 8, 8], "texture": "#top_overlay", "tintindex": 0},
+				"down": {"uv": [0, 8, 8, 16], "texture": "#bottom_overlay", "tintindex": 0}
 			}
 		}
 	],

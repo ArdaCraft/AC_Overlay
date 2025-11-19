@@ -1,0 +1,11 @@
+{
+  "parent": "conquest:block/templates/overlay/parent_slab_top_1",
+	"textures": {
+		"side": "conquest:block/8_topography/1_stone/moss_covered_limestone",
+		"top": "conquest:block/8_topography/1_stone/moss_covered_limestone_top",
+		"bottom": "conquest:block/8_topography/1_stone/mossy_limestone",
+		"overlay": "conquest:block/8_topography/1_stone/moss_covered_limestone_overlay",
+		"top_overlay": "conquest:block/8_topography/1_stone/moss_covered_limestone_top_overlay",
+		"bottom_overlay": "conquest:block/8_topography/1_stone/mossy_limestone_overlay"
+	}
+}

@@ -3,6 +3,6 @@
 	
 	"textures": {
 		"overlay": "minecraft:block/mossy_overlay",
-		"particle": "minecraft:block/light_blue_concrete_powder"
+		"side": "minecraft:block/light_blue_concrete_powder"
 	}
 }

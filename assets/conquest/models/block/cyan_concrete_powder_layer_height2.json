@@ -3,6 +3,6 @@
 	
 	"textures": {
 		"overlay": "minecraft:block/cyan_concrete_powder_overlay",
-		"particle": "minecraft:block/cyan_concrete_powder"
+		"side": "minecraft:block/cyan_concrete_powder"
 	}
 }
