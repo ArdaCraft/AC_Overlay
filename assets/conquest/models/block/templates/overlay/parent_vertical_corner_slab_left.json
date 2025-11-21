@@ -4,6 +4,8 @@
 		"side": "#side",
 		"top": "#side",
 		"bottom": "#side",
+		"top_overlay": "#overlay",
+		"bottom_overlay": "#overlay",
 		"particle": "#side"
 	},
 	"elements": [
