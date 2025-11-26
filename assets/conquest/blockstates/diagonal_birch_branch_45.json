@@ -1,0 +1,55 @@
+{
+    "variants": {
+        "toggle=1,facing=south,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45", "y": 180 },
+        "toggle=1,facing=west,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45", "y": 270 },
+        "toggle=1,facing=north,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45" },
+        "toggle=1,facing=east,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45", "y": 90 },
+
+        "toggle=2,facing=south,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches", "y": 180 },
+        "toggle=2,facing=west,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches", "y": 270 },
+        "toggle=2,facing=north,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches" },
+        "toggle=2,facing=east,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches", "y": 90 },
+
+        "toggle=3,facing=south,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1", "y": 180 },
+        "toggle=3,facing=west,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1", "y": 270 },
+        "toggle=3,facing=north,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1" },
+        "toggle=3,facing=east,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1", "y": 90 },
+
+        "toggle=4,facing=south,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem", "y": 180 },
+        "toggle=4,facing=west,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem", "y": 270 },
+        "toggle=4,facing=north,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem" },
+        "toggle=4,facing=east,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem", "y": 90 },
+
+        "toggle=5,facing=south,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches", "y": 180 },
+        "toggle=5,facing=west,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches", "y": 270 },
+        "toggle=5,facing=north,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches" },
+        "toggle=5,facing=east,down=false": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches", "y": 90 },
+
+
+        "toggle=1,facing=south,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_down", "y": 180 },
+        "toggle=1,facing=west,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_down", "y": 270 },
+        "toggle=1,facing=north,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_down" },
+        "toggle=1,facing=east,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_down", "y": 90 },
+
+        "toggle=2,facing=south,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_down", "y": 180 },
+        "toggle=2,facing=west,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_down", "y": 270 },
+        "toggle=2,facing=north,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_down" },
+        "toggle=2,facing=east,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_down", "y": 90 },
+
+        "toggle=3,facing=south,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1_down", "y": 180 },
+        "toggle=3,facing=west,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1_down", "y": 270 },
+        "toggle=3,facing=north,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1_down" },
+        "toggle=3,facing=east,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_branches_1_down", "y": 90 },
+
+        "toggle=4,facing=south,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_down", "y": 180 },
+        "toggle=4,facing=west,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_down", "y": 270 },
+        "toggle=4,facing=north,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_down" },
+        "toggle=4,facing=east,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_down", "y": 90 },
+
+        "toggle=5,facing=south,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches_down", "y": 180 },
+        "toggle=5,facing=west,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches_down", "y": 270 },
+        "toggle=5,facing=north,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches_down" },
+        "toggle=5,facing=east,down=true": { "model": "conquest:block/generic_branch/diagonal_birch_branch_45_stem_branches_down", "y": 90 }
+
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "conquest:block/thick_diagonal_oak_branch_45",
+	"textures": {
+		"log": "minecraft:block/birch_branch",
+		"particle": "minecraft:block/birch_branch"
+	}
+}

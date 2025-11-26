@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "toggle=1,facing=south,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45", "y": 180 },
+        "toggle=1,facing=west,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45", "y": 270 },
+        "toggle=1,facing=north,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45" },
+        "toggle=1,facing=east,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45", "y": 90 },
+
+        "toggle=2,facing=south,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem", "y": 180 },
+        "toggle=2,facing=west,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem", "y": 270 },
+        "toggle=2,facing=north,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem" },
+        "toggle=2,facing=east,down=false": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem", "y": 90 },
+
+        "toggle=1,facing=south,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_down", "y": 180 },
+        "toggle=1,facing=west,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_down", "y": 270 },
+        "toggle=1,facing=north,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_down" },
+        "toggle=1,facing=east,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_down", "y": 90 },
+
+        "toggle=2,facing=south,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem_down", "y": 180 },
+        "toggle=2,facing=west,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem_down", "y": 270 },
+        "toggle=2,facing=north,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem_down" },
+        "toggle=2,facing=east,down=true": { "model": "conquest:block/generic_branch/thick_diagonal_birch_branch_45_45_stem_down", "y": 90 }
+
+    }
+}
