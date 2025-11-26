@@ -1,0 +1,26 @@
+{
+  "parent_block": "conquest:ash_wood_beam_horizontal",
+  "family_blocks": [
+    "architects:horizontal_cherry_beam",
+    "architects:horizontal_diagonal_cherry_beam",
+    "architects:horizontal_half_diagonal_cherry_beam",
+    "conquest:ash_wood_beam_beam_board",
+    "conquest:ash_wood_beam_vertical",
+    "conquest:ash_wood_beam_lintel",
+    "architects:diagonal_cherry_lintel",
+    "architects:half_diagonal_cherry_lintel",
+    "conquest:ash_wood_beam_posts",
+    "conquest:ash_wood_beam_door_frame_lintel",
+    "conquest:ash_wood_beam_door_frame_posts",
+    "architects:shallow_diagonal_cherry_beam",
+    "architects:half_diagonal_cherry_beam",
+    "architects:corner_half_diagonal_cherry_beam",
+    "architects:diagonal_cherry_beam",
+    "architects:steeper_diagonal_cherry_beam",
+    "architects:thin_stripped_cherry_log",
+    "architects:half_diagonal_stripped_cherry_log",
+    "architects:cherry_support_beams",
+    "architects:vertical_cherry_support_beams",
+    "architects:diagonal_cherry_beam_brace"
+  ]
+}

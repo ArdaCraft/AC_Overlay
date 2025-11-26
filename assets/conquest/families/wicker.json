@@ -6,13 +6,13 @@
     "create:birch_window_pane",
     "conquest:straight_wicker_fence",
     "conquest:straight_wicker_fence_half",
-    "minecraft:bamboo_fence_gate",
     "conquest:wicker_fence_thin_vertical_slab",
     "conquest:wicker_fence_half_thin_vertical_slab",
     "conquest:wicker_fence_thin_vertical_corner",
     "conquest:wicker_fence_half_thin_vertical_corner",
     "conquest:wicker_fence_thin_vertical_quarter",
     "conquest:wicker_fence_half_thin_vertical_quarter",
+    "minecraft:bamboo_fence_gate",
     "conquest:weathered_purple_painted_plank_door",
     "minecraft:pink_stained_glass_pane"
   ]

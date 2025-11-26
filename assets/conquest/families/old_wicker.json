@@ -6,13 +6,13 @@
     "create:acacia_window_pane",
     "conquest:straight_old_wicker_fence",
     "conquest:straight_old_wicker_fence_half",
-    "minecraft:mangrove_fence_gate",
     "conquest:old_wicker_fence_thin_vertical_slab",
     "conquest:old_wicker_fence_half_thin_vertical_slab",
     "conquest:old_wicker_fence_thin_vertical_corner",
     "conquest:old_wicker_fence_half_thin_vertical_corner",
     "conquest:old_wicker_fence_thin_vertical_quarter",
     "conquest:old_wicker_fence_half_thin_vertical_quarter",
+    "minecraft:mangrove_fence_gate",
     "conquest:weathered_white_painted_plank_door",
     "minecraft:magenta_stained_glass_pane"
   ]
