@@ -1,7 +1,5 @@
-name: Beta Release
+name: Alpha Release
 on:
-  schedule:
-     - cron: "0 12 */7 * *"
   workflow_dispatch:
 jobs:
   json-lint:
@@ -13,27 +11,8 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '14'
-    - name: Install jsonlint
-      run: npm install -g jsonlint
-    - name: Run JSON lint
-      run: |
-        #!/bin/bash
-        set -e
-        error_found=false
-        while IFS= read -r -d '' file
-        do
-          if ! jsonlint -q "$file"; then
-            echo "Error in file: $file"
-            jsonlint "$file"
-            error_found=true
-          fi
-        done < <(find . -name "*.json" -type f -print0)
-        if [ "$error_found" = true ] ; then
-          echo "JSON linting failed"
-          exit 1
-        fi
 
-  beta-release:
+  alpha-release:
     needs: json-lint
     runs-on: ubuntu-latest
     steps:
@@ -47,9 +26,9 @@ jobs:
       run: |
         git config --global user.email "actions@github.com"
         git config --global user.name "GitHub Actions"
-        git tag -a beta-$(date +%Y%m%d%H%M%S) -m "Beta release"
-        git push origin beta-$(date +%Y%m%d%H%M%S)
-        echo "::set-output name=tag_name::beta-$(date +%Y%m%d%H%M%S)"
+        git tag -a alpha-$(date +%Y%m%d%H%M%S) -m "Alpha release"
+        git push origin alpha-$(date +%Y%m%d%H%M%S)
+        echo "::set-output name=tag_name::alpha-$(date +%Y%m%d%H%M%S)"
 
     - name: Create release
       id: create_release
@@ -58,9 +37,9 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ steps.create_tag.outputs.tag_name }}
-        release_name: Beta Release ${{ steps.create_tag.outputs.tag_name }}
+        release_name: Alpha Release ${{ steps.create_tag.outputs.tag_name }}
         body: |
-          This is a beta release of the ACRP.
+          This is a alpha release of the ACRP.
         draft: false
         prerelease: true
 
