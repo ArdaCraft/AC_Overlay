@@ -1,7 +1,7 @@
 {
-  "parent_block": "conquest:old_wicker_fence_half",
+  "parent_block": "conquest:old_wicker_fence",
   "family_blocks": [
-    "conquest:old_wicker_fence",
+    "conquest:old_wicker_fence_half",
     "create:warped_window_pane",
     "create:acacia_window_pane",
     "conquest:straight_old_wicker_fence",
