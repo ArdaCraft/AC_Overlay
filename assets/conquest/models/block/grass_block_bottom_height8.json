@@ -1,0 +1,89 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+		"particle": "#grass",
+		"grass": "minecraft:block/grass_block_top",
+		"bottom": "block/dirt"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                8,
+                16
+            ],
+            "shade": false,
+            "faces": {
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#bottom",
+                    "cullface": "down"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#grass",
+                    "tintindex": 0
+                },
+                "north": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#grass",
+                    "cullface": "north",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#grass",
+                    "cullface": "south",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#grass",
+                    "cullface": "west",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#grass",
+                    "cullface": "east",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}
