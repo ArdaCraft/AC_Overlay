@@ -1,5 +1,6 @@
 {
 	"textures": {
+		"particle": "#side",
 		"top": "block/grass_block_top",
 		"overlay": "block/grass_block_side_overlay",
 		"side": "conquest:block/8_topography/4_grass_leaves/grass_covered_limestone",
