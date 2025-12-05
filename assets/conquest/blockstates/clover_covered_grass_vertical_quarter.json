@@ -1,0 +1,80 @@
+{
+  "variants": {
+    "facing=east,layer=1": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_1",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=east,layer=2": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_2",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=east,layer=3": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_4",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=east,layer=4": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_6",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=north,layer=1": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_1",
+      "uvlock": true
+    },
+    "facing=north,layer=2": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_2",
+      "uvlock": true
+    },
+    "facing=north,layer=3": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_4",
+      "uvlock": true
+    },
+    "facing=north,layer=4": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_6",
+      "uvlock": true
+    },
+    "facing=south,layer=1": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_1",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=south,layer=2": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_2",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=south,layer=3": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_4",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=south,layer=4": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_6",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=west,layer=1": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_1",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=west,layer=2": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_2",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=west,layer=3": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_4",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=west,layer=4": {
+      "model": "conquest:block/clover_covered_grass_vertical_quarter_6",
+      "uvlock": true,
+      "y": 270
+    }
+  }
+}

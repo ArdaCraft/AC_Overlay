@@ -1,32 +1,7 @@
 {
-	"parent": "block/block",
-    "ambientocclusion": false,
-    "textures": {
-		"particle": "#grass",
+  "parent": "conquest:block/templates/no_shade/grass/parent_vertical_quarter_4",
+  "textures": {
 		"grass": "minecraft:block/grass_block_top",
 		"bottom": "block/dirt"
-    },
-	"elements": [
-		{
-			"from": [8, 0, 8],
-			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 16]},
-			"shade": false,
-			"faces": {
-				"north": {"uv": [0, 0, 8, 16], "texture": "#grass", "tintindex": 0},
-				"east": {"uv": [0, 0, 8, 16], "texture": "#grass", "cullface": "west", "tintindex": 0},
-				"south": {"uv": [8, 0, 16, 16], "texture": "#grass", "cullface": "north", "tintindex": 0},
-				"west": {"uv": [8, 0, 16, 16], "texture": "#grass", "tintindex": 0},
-				"up": {"uv": [8, 8, 0, 0], "texture": "#grass", "cullface": "up", "tintindex": 0},
-				"down": {"uv": [8, 16, 0, 8], "texture": "#bottom", "cullface": "down"}
-			}
-		}
-	],
-	"display": {
-		"gui": {
-			"rotation": [30, 45, 0],
-			"translation": [-2.25, 0, 0],
-			"scale": [0.625, 0.625, 0.625]
-		}
-	}
+  }
 }

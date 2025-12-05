@@ -1,0 +1,42 @@
+{
+    "variants": {
+        "facing=south,type=bottom": {
+            "model": "conquest:block/grass_block_slab_corner",
+            "uvlock": true
+        },
+        "facing=west,type=bottom": {
+            "model": "conquest:block/grass_block_slab_corner",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=north,type=bottom": {
+            "model": "conquest:block/grass_block_slab_corner",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=east,type=bottom": {
+            "model": "conquest:block/grass_block_slab_corner",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=south,type=top": {
+            "model": "conquest:block/grass_block_slab_corner_top",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=west,type=top": {
+            "model": "conquest:block/grass_block_slab_corner_top",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=north,type=top": {
+            "model": "conquest:block/grass_block_slab_corner_top",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=east,type=top": {
+            "model": "conquest:block/grass_block_slab_corner_top",
+            "uvlock": true
+        }
+    }
+}

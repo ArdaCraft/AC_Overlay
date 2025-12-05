@@ -1,43 +1,7 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"bottom": "block/dirt",
-		"particle": "block/grass_block_top",
-		"top": "block/grass_block_top"
-	},
-	"elements": [
-		{
-			"from": [0, 8, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 8], "texture": "#top", "cullface": "north", "tintindex": 0},
-				"east": {"uv": [0, 0, 16, 8], "texture": "#top", "cullface": "east", "tintindex": 0},
-				"south": {"uv": [0, 0, 16, 8], "texture": "#top", "cullface": "south", "tintindex": 0},
-				"west": {"uv": [0, 0, 16, 8], "texture": "#top", "cullface": "west", "tintindex": 0},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up", "tintindex": 0},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
-			}
-		},
-		{
-			"from": [8, 0, 0],
-			"to": [16, 8, 16],
-			"faces": {
-				"north": {"uv": [0, 8, 8, 16], "texture": "#top", "cullface": "north", "tintindex": 0},
-				"east": {"uv": [0, 8, 16, 16], "texture": "#top", "cullface": "east", "tintindex": 0},
-				"south": {"uv": [8, 8, 16, 16], "texture": "#top", "cullface": "south", "tintindex": 0},
-				"west": {"uv": [0, 8, 16, 16], "texture": "#bottom"},
-				"down": {"uv": [8, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
-			}
-		},
-		{
-			"from": [0, 0, 0],
-			"to": [8, 8, 8],
-			"faces": {
-				"north": {"uv": [8, 8, 16, 16], "texture": "#top", "cullface": "north", "tintindex": 0},
-				"south": {"uv": [0, 8, 8, 16], "texture": "#bottom"},
-				"west": {"uv": [0, 8, 8, 16], "texture": "#top", "cullface": "west", "tintindex": 0},
-				"down": {"uv": [0, 8, 8, 16], "texture": "#bottom", "cullface": "down"}
-			}
-		}
-	]
+    "parent": "conquest:block/templates/no_shade/grass/parent_stairs_inner_top",
+    "textures": {
+		"grass": "minecraft:block/grass_block_top",
+		"bottom": "block/dirt"
+    }
 }

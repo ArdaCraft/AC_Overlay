@@ -170,7 +170,11 @@
     "conquest:moss_covered_limestone_vertical_corner",
     "conquest:moss_covered_limestone_vertical_corner_slab",
     "conquest:moss_covered_limestone_vertical_quarter",
-    "conquest:moss_covered_limestone_vertical_slab"
+    "conquest:moss_covered_limestone_vertical_slab",
+    "conquest:grass_covered_limestone_stairs",
+    "conquest:grass_covered_limestone_vertical_slab",
+    "conquest:grass_covered_limestone_vertical_corner",
+    "conquest:grass_covered_limestone_vertical_quarter"
   ],
   "render_type": "cutout_mipped"
 }

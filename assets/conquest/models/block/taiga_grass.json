@@ -1,0 +1,9 @@
+{
+	"parent": "conquest:block/templates/no_shade/grass/parent_block",
+	"textures": {
+		"top": "conquest:block/8_topography/4_grass_leaves/taiga_grass",
+		"overlay": "block/grass_side_overlay",
+		"side": "block/grass_block_side",
+		"bottom": "block/dirt"
+	}
+}

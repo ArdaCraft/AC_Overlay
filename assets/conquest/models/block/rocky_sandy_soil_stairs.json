@@ -1,0 +1,6 @@
+{
+    "parent": "conquest:block/templates/no_shade/parent_stairs",
+    "textures": {
+        "texture": "conquest:block/8_topography/5_dirt/rocky_sandy_soil"
+    }
+}

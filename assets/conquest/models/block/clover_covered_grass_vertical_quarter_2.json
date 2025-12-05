@@ -1,0 +1,7 @@
+{
+  "parent": "conquest:block/templates/no_shade/grass/parent_vertical_quarter_2",
+  "textures": {
+		"grass": "conquest:block/8_topography/4_grass_leaves/clover_covered_grass",
+		"bottom": "block/dirt"
+  }
+}
