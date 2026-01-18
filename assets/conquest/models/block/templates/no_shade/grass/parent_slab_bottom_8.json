@@ -13,7 +13,7 @@
 				"east": {"texture": "#grass", "cullface": "east", "tintindex": 0},
 				"south": {"texture": "#grass", "cullface": "south", "tintindex": 0},
 				"west": {"texture": "#grass", "cullface": "west", "tintindex": 0},
-				"up": {"texture": "#grass", "tintindex": 0}
+				"up": {"texture": "#grass", "cullface": "up", "tintindex": 0}
 			}
 		},
 		{
