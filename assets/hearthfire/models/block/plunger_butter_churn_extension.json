@@ -1,8 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "hearthfire:block/butter_churn/butter_churn_stick",
-		"texture": "hearthfire:block/butter_churn/butter_churn_stick"
+		"particle": "hearthfire:block/storage/butter_churn/butter_churn_stick",
+		"texture": "hearthfire:block/storage/butter_churn/butter_churn_stick"
 	},
 	"elements": [
 		{

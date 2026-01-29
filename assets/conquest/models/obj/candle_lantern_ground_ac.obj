@@ -1,6 +1,6 @@
 # Blender v3.2.2 OBJ File: ''
 # www.blender.org
-mtllib candle_lantern.mtl
+mtllib candle_lantern_ac.mtl
 o door
 v 0.363828 0.453125 0.362188
 v 0.363828 0.453125 0.424688

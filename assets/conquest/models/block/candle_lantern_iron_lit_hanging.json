@@ -1,6 +1,6 @@
 {
     "loader": "porting_lib:obj",
-    "model": "conquest:models/obj/candle_lantern_wall.obj",
+    "model": "conquest:models/obj/candle_lantern_hanging_ac.obj",
     "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
