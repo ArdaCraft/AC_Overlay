@@ -1,5 +1,5 @@
 {
-	"parent": "conquest:block/weathered_purple_painted_plank_door_top",
+	"parent": "conquest:block/templates/parent_wicker_fence_gate",
 	"textures": {
 		"wicker": "conquest:block/1_basic_refined/3_wood/old_wicker_fence",
 		"post": "conquest:block/1_basic_refined/3_wood/old_wicker_fence_post"

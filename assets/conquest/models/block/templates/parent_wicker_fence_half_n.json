@@ -1,6 +1,4 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "conquest:block/1_basic_refined/3_wood/wicker_fence",
 		"wicker": "conquest:block/1_basic_refined/3_wood/wicker_fence",

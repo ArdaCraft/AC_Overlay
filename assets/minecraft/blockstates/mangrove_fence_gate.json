@@ -1,37 +1,37 @@
 {
   "variants": {
     "facing=north,open=false": {
-      "model": "minecraft:block/old_wicker_fence_gate",
+      "model": "conquest:block/old_wicker_fence_gate",
       "y": 90
     },
     "facing=north,open=true": {
-      "model": "minecraft:block/old_wicker_fence_gate",
+      "model": "conquest:block/old_wicker_fence_gate",
       "zoffset": -7.5,
       "xoffset": 7.5
     },
     "facing=south,open=false": {
-      "model": "minecraft:block/old_wicker_fence_gate",
+      "model": "conquest:block/old_wicker_fence_gate",
       "y": 90
     },
     "facing=south,open=true": {
-      "model": "minecraft:block/old_wicker_fence_gate",
+      "model": "conquest:block/old_wicker_fence_gate",
       "zoffset": 7,
       "xoffset": -7
     },
     "facing=east,open=false": {
-      "model": "minecraft:block/old_wicker_fence_gate"
+      "model": "conquest:block/old_wicker_fence_gate"
     },
     "facing=east,open=true": {
-      "model": "minecraft:block/old_wicker_fence_gate",
+      "model": "conquest:block/old_wicker_fence_gate",
       "y": 90,
       "zoffset": 7.5,
       "xoffset": 7
     },
     "facing=west,open=false": {
-      "model": "minecraft:block/old_wicker_fence_gate"
+      "model": "conquest:block/old_wicker_fence_gate"
     },
     "facing=west,open=true": {
-      "model": "minecraft:block/old_wicker_fence_gate",
+      "model": "conquest:block/old_wicker_fence_gate",
       "y": 90,
       "zoffset": -7,
       "xoffset": -7.5
