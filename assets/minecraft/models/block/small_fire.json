@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
-	"ambientocclusion": "false",
+	"ambientocclusion": false,
 	"textures": {
-		"embers": "hearthfire:block/grille/pile_of_glowing_embers",
+		"embers": "hearthfire:block/decoration/grille/pile_of_glowing_embers",
 		"particle": "xone/small_fire_wood",
 		"fire": "block/campfire_fire"
 	},

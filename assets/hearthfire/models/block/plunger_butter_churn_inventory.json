@@ -6,7 +6,7 @@
 	"render_type": "minecraft:cutout",
 	"textures": {
 		"particle": "hearthfire:block/clay_butter_churn",
-		"stick": "hearthfire:block/butter_churn/butter_churn_stick"
+		"stick": "hearthfire:block/storage/butter_churn/butter_churn_stick"
 	},
 	"display": {
 		"thirdperson_righthand": {
