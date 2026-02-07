@@ -1,8 +1,6 @@
 Issues currently include inaccurate items, inaccurate block sounds, and inaccurate block names. Please **DO NOT** report issues related to those.
 ### Additions:
-- Biome coloring on all sand and debris variants
-- Biome colored mossy limestones
-- Remove grass shading (Causes issues with flickering on normal grass blocks)
+- Remove shading from grass blocks
 - Update remaining wicker blocks to use new models
 
 ### Changes:
@@ -13,3 +11,4 @@ Issues currently include inaccurate items, inaccurate block sounds, and inaccura
 ### Fixes:
 - Correct texture on birch branches
 - Candle lanterns now have a model again
+- Biome coloring on all sand and debris variants
