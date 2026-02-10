@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:block/block",
+  "emissive_ambient": true,
+  "flip_v": true,
+  "gui_light": "side",
+  "loader": "porting_lib:obj",
+  "model": "hearthfire:models/obj/wooden_bucket.obj",
+  "textures": {
+    "bottom": "hearthfire:block/storage/wooden_bucket/wooden_bucket_bottom",
+    "inside": "hearthfire:block/storage/wooden_bucket/wooden_bucket_inside",
+    "particle": "hearthfire:block/storage/wooden_bucket/wooden_bucket_side",
+    "side": "hearthfire:block/storage/wooden_bucket/wooden_bucket_side"
+  },
+  "display": {
+		"gui": {
+			"rotation": [ 30, 225, 0 ],
+			"translation": [ 0, 0, 0],
+			"scale":[ 0.625, 0.625, 0.625 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 3, 0],
+			"scale":[ 0.25, 0.25, 0.25 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, -10],
+			"scale":[ 2, 2, 2 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 75, 45, 0 ],
+			"translation": [ 0, 2.5, 0],
+			"scale": [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 45, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.40, 0.40, 0.40 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 0, 225, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.40, 0.40, 0.40 ]
+		}
+	}
+}
