@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"textures": {
 		"2": "#particle",
-		"particle": "conquest:xone/square_stool_wood"
+		"particle": "#"
 	},
 	"elements": [
 		{

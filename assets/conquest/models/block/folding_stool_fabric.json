@@ -4,7 +4,7 @@
     "emissive_ambient": true,
     "flip-v": true,
     "textures": {
-        "particle": "conquest:xone/folding_stool_fabric"
+        "particle": "#"
 	},
 	"display": {
 		"thirdperson_righthand": {

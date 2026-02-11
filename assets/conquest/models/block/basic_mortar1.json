@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/block",
 	"textures": {
-		"particle": "#mortar",
-		"mortar": "conquest:xone/terracotta_mortar"
+		"particle": "#",
+		"mortar": "#"
 	},
 	"elements": [
 		{

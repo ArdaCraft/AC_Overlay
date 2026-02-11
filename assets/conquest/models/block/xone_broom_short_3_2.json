@@ -1,0 +1,7 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/block/obj/xone_broom_short_3_2.obj",
+	"parent": "conquest:block/xone_broom_short_parent",
+	"emissive_ambient": true,
+	"flip_v": true
+}

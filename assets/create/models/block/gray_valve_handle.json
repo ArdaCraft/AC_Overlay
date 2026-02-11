@@ -5,8 +5,8 @@
     "flip-v": true,
 	"texture_size": [32, 32],
 	"textures": {
-		"pot": "create:xone/pot",
-		"particle": "create:xone/pot"
+		"pot": "#",
+		"particle": "#"
 	},
 	"display": {
 		"thirdperson_righthand": {

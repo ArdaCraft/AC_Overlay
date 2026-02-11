@@ -1,7 +1,0 @@
-{
-	"loader": "porting_lib:obj",
-	"model": "conquest:models/block/obj/broom_short_3.obj",
-	"parent": "conquest:block/broom_short_parent",
-	"emissive_ambient": true,
-	"flip_v": true
-}
