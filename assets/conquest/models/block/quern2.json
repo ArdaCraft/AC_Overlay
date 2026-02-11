@@ -4,8 +4,8 @@
     "emissive_ambient": true,
     "flip-v": true,
     "textures": {
-        "particle": "",
-        "side": ""
+        "particle": "#",
+        "side": "#"
 	},
 	"display": {
 		"thirdperson_righthand": {
