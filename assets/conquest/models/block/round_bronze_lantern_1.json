@@ -1,0 +1,31 @@
+{
+	"loader": "porting_lib:obj",
+	"parent": "block/block",
+	"model": "conquest:models/obj/round_bronze_lantern_1.obj",
+	"emissive_ambient": true,
+	"flip-v": true,
+	"textures": {
+		"particle": "conquest:block/3_decoration/2_metal/round_bronze_lantern",
+		"top": "conquest:block/3_decoration/2_metal/round_bronze_lantern_top",
+		"chain": "conquest:block/3_decoration/2_metal/small_bronze_chains_up"
+	},
+	"display": {
+		"fixed": {
+			"translation": [
+				0,
+				0,
+				-8
+			],
+			"rotation": [
+				0,
+				68,
+				0
+			],
+			"scale": [
+				2,
+				2,
+				2
+			]
+		}
+	}
+}

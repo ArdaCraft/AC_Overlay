@@ -5,8 +5,8 @@
     "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
-		"particle": "conquest:xone/candle_lantern_iron",
-		"chain": "conquest:block/3_decoration/2_metal/small_iron_chains"
+		"particle": "#",
+		"chain": "#"
 	},
 	"display": {
 		"fixed": {

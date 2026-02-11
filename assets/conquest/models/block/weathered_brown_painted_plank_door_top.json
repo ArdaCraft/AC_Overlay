@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "conquest:xone/simple_worn_wooden_door_top",
-		"top": "conquest:xone/simple_worn_wooden_door_top"
+		"particle": "#",
+		"top": "#"
 	},
 	"elements": [
 		{

@@ -6,10 +6,10 @@
     "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
-		"particle": "conquest:xone/log_basket",
-		"bottom": "conquest:xone/log_basket_bottom",
-		"wood": "conquest:xone/log_basket_wood",
-		"base": "conquest:xone/log_basket_wood_base"
+		"particle": "#",
+		"bottom": "#",
+		"wood": "#",
+		"base": "#"
 	},
 	"display": {
 		"gui": {

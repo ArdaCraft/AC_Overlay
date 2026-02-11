@@ -6,8 +6,8 @@
     "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
-		"particle": "conquest:xone/log_basket",
-		"bottom": "conquest:xone/log_basket_bottom"
+		"particle": "#",
+		"bottom": "#"
 	},
 	"display": {
 		"gui": {

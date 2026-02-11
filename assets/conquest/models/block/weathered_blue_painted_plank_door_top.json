@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "conquest:xone/simple_tall_wooden_door_back_middle",
-		"1": "conquest:xone/simple_tall_wooden_door_back_top",
-		"2": "conquest:xone/simple_tall_wooden_door_middle",
-		"3": "conquest:xone/simple_tall_wooden_door_top",
-		"particle": "conquest:xone/simple_tall_wooden_door_back_middle"
+		"0": "#",
+		"1": "#",
+		"2": "#",
+		"3": "#",
+		"particle": "#"
 	},
 	"elements": [
 		{

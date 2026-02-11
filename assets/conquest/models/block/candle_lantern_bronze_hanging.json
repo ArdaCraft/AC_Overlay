@@ -4,7 +4,7 @@
     "emissive_ambient": true,
     "flip-v": true,
 	"textures": {
-		"particle": "conquest:xone/candle_lantern_bronze",
-		"chain": "conquest:block/3_decoration/2_metal/small_bronze_chains"
+		"particle": "#",
+		"chain": "#"
 	}
 }
