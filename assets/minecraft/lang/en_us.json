@@ -210,5 +210,10 @@
   "block.minecraft.mangrove_sign": "White Screen Sign",
   "block.minecraft.oak_sign": "Dark Brown Wood Framed Sign",
   "block.minecraft.spruce_sign": "Dark Brown Wood Sign",
-  "block.minecraft.warped_sign": "Blue Sign"
+  "block.minecraft.warped_sign": "Blue Sign",
+  "block.minecraft.lime_glazed_terracotta": "Directional Black and White Tesserae Pattern",
+  "block.minecraft.purple_glazed_terracotta": "Directional Black and White Tesserae Pattern Corner",
+  "block.minecraft.raw_copper_block": "Dark Stained Tesserae",
+  "block.minecraft.nether_wart_block": "Stained Tesserae",
+  "block.minecraft.crimson_nylium": "Patterned White Tesserae"
 }
