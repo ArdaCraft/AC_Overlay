@@ -1,0 +1,16 @@
+{
+  "parent_block": "conquest:gray_canvas",
+  "family_blocks": [
+    "conquest:gray_canvas_slab",
+    "conquest:red_6_way_flange",
+    "conquest:gray_canvas_quarter_slab",
+    "conquest:gray_canvas_corner_slab",
+    "conquest:gray_canvas_eighth_slab",
+    "conquest:gray_canvas_vertical_corner_slab",
+    "conquest:gray_canvas_vertical_slab",
+    "conquest:gray_canvas_vertical_corner",
+    "conquest:gray_canvas_vertical_quarter",
+    "conquest:gray_canvas_stairs",
+    "conquest:gray_canvas_cover"
+  ]
+}

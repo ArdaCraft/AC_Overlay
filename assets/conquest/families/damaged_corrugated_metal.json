@@ -1,0 +1,24 @@
+{
+  "parent_block": "conquest:damaged_corrugated_metal",
+  "family_blocks": [
+    "conquest:damaged_corrugated_metal_slab",
+    "conquest:green_6_way_flange",
+    "conquest:damaged_corrugated_metal_quarter_slab",
+    "conquest:damaged_corrugated_metal_corner_slab",
+    "conquest:damaged_corrugated_metal_eighth_slab",
+    "conquest:damaged_corrugated_metal_vertical_corner_slab",
+    "conquest:damaged_corrugated_metal_vertical_slab",
+    "conquest:damaged_corrugated_metal_vertical_corner",
+    "conquest:damaged_corrugated_metal_vertical_quarter",
+    "conquest:damaged_corrugated_metal_stairs",
+    "conquest:damaged_corrugated_metal_wall",
+    "conquest:damaged_corrugated_metal_pillar",
+    "conquest:damaged_corrugated_metal_arrowslit",
+    "conquest:damaged_corrugated_metal_small_window",
+    "conquest:damaged_corrugated_metal_small_window_half",
+    "conquest:damaged_corrugated_metal_balustrade",
+    "conquest:damaged_corrugated_metal_capital",
+    "conquest:damaged_corrugated_metal_sphere"
+
+  ]
+}

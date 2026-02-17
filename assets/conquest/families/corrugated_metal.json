@@ -1,0 +1,24 @@
+{
+  "parent_block": "conquest:corrugated_metal",
+  "family_blocks": [
+    "conquest:corrugated_metal_slab",
+    "conquest:blue_6_way_flange",
+    "conquest:corrugated_metal_quarter_slab",
+    "conquest:corrugated_metal_corner_slab",
+    "conquest:corrugated_metal_eighth_slab",
+    "conquest:corrugated_metal_vertical_corner_slab",
+    "conquest:corrugated_metal_vertical_slab",
+    "conquest:corrugated_metal_vertical_corner",
+    "conquest:corrugated_metal_vertical_quarter",
+    "conquest:corrugated_metal_stairs",
+    "conquest:corrugated_metal_wall",
+    "conquest:corrugated_metal_pillar",
+    "conquest:corrugated_metal_arrowslit",
+    "conquest:corrugated_metal_small_window",
+    "conquest:corrugated_metal_small_window_half",
+    "conquest:corrugated_metal_balustrade",
+    "conquest:corrugated_metal_capital",
+    "conquest:corrugated_metal_sphere"
+
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "parent_block": "minecraft:pink_terracotta",
+  "family_blocks": [
+    "conquest:pink_clay_tile_slab",
+    "conquest:old_green_6_way_flange",
+    "conquest:pink_clay_tile_quarter_slab",
+    "conquest:pink_clay_tile_corner_slab",
+    "conquest:pink_clay_tile_eighth_slab",
+    "conquest:pink_clay_tile_vertical_corner_slab",
+    "conquest:pink_clay_tile_vertical_slab",
+    "conquest:pink_clay_tile_vertical_corner",
+    "conquest:pink_clay_tile_vertical_quarter",
+    "conquest:pink_clay_tile_stairs",
+    "conquest:pink_clay_tile_wall",
+    "conquest:pink_clay_tile_pillar",
+    "conquest:pink_clay_tile_capital"
+
+  ]
+}

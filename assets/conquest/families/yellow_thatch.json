@@ -1,0 +1,15 @@
+{
+  "parent_block": "conquest:yellow_thatch",
+  "family_blocks": [
+    "conquest:yellow_thatch_slab",
+    "conquest:yellow_6_way_flange",
+    "conquest:yellow_thatch_quarter_slab",
+    "conquest:yellow_thatch_corner_slab",
+    "conquest:yellow_thatch_eighth_slab",
+    "conquest:yellow_thatch_vertical_corner_slab",
+    "conquest:yellow_thatch_vertical_slab",
+    "conquest:yellow_thatch_vertical_corner",
+    "conquest:yellow_thatch_vertical_quarter",
+    "conquest:yellow_thatch_stairs"
+  ]
+}

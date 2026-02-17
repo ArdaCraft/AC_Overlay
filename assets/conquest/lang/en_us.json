@@ -148,7 +148,6 @@
   "block.conquest.hanging_mentula_fish": "Hanging Pig",
   "block.conquest.wild_dagga": "Thistles",
   "block.conquest.corn": "Millet",
-  "block.conquest.old_red_6_way_flange": "Burlap Middle Slab",
   "block.conquest.black_elbow_flange": "Bronze Chest",
   "block.conquest.old_blue_elbow_flange": "Wicker Chest",
   "block.conquest.old_brown_gate_valve": "Small Wicker Basket",
@@ -5426,5 +5425,15 @@
   "block.conquest.crimson_nylium_stairs": "Patterned White Tesserae Stairs",
   "block.conquest.crimson_nylium_vertical_corner": "Patterned White Tesserae Vertical Corner",
   "block.conquest.crimson_nylium_vertical_quarter": "Patterned White Tesserae Vertical Quarter",
-  "block.conquest.crimson_nylium_vertical_slab": "Patterned White Tesserae Vertical Slab"
+  "block.conquest.crimson_nylium_vertical_slab": "Patterned White Tesserae Vertical Slab",
+  "block.conquest.6_way_flange": "Brown Thatch Middle Slab",
+  "block.conquest.old_6_way_flange": "Dark Brown Thatch Middle Slab",
+  "block.conquest.blue_6_way_flange": "Dark Gray Tegula Middle Slab",
+  "block.conquest.old_blue_6_way_flange": "Gray Tegula Middle Slab",
+  "block.conquest.green_6_way_flange": "Brown Gray Tegula Middle Slab",
+  "block.conquest.old_green_6_way_flange": "Brown Tegula Middle Slab",
+  "block.conquest.yellow_6_way_flange": "Yellow Thatch Middle Slab",
+  "block.conquest.old_yellow_6_way_flange": "Dark Yellow Thatch Middle Slab",
+  "block.conquest.red_6_way_flange": "Gray Canvas Middle Slab",
+  "block.conquest.old_red_6_way_flange": "Burlap Middle Slab"
 }
