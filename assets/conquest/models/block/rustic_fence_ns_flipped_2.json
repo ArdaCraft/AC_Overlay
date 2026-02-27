@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam",
-		"particle": "conquest:block/1_basic_refined/3_wood/tarred_spruce_wood_beam"
+		"0": "conquest:block/1_basic_refined/3_wood/apple_wood_beam",
+		"particle": "#0"
 	},
 	"elements": [
 		{
