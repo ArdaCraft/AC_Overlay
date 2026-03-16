@@ -1,0 +1,17 @@
+{
+  "parent_block": "conquest:old_brown_gate_valve",
+  "family_blocks": [
+    "conquest:empty_small_old_wicker_basket",
+    "conquest:tall_woven_basket",
+    "conquest:large_woven_basket",
+    "conquest:tall_woven_hand_basket",
+    "conquest:woven_basket",
+    "conquest:small_woven_basket",
+    "conquest:woven_hand_basket",
+    "conquest:tall_lidded_woven_basket",
+    "conquest:short_lidded_woven_basket",
+    "conquest:unfinished_woven_basket",
+    "conquest:vintage_woven_hand_basket",
+    "conquest:small_square_woven_basket"
+  ]
+}
