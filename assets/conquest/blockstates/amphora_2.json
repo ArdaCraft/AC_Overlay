@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "toggle=1,facing=south": { "model": "conquest:block/amphora", "y": 180 },
+        "toggle=1,facing=west": { "model": "conquest:block/amphora", "y": 270 },
+        "toggle=1,facing=north": { "model": "conquest:block/amphora" },
+        "toggle=1,facing=east": { "model": "conquest:block/amphora", "y": 90 },
+
+        "toggle=2,facing=south": { "model": "conquest:block/amphora", "y": 180, "zoffset": 3.5 },
+        "toggle=2,facing=west": { "model": "conquest:block/amphora", "y": 270, "xoffset": 3.5 },
+        "toggle=2,facing=north": { "model": "conquest:block/amphora", "zoffset": -3.5 },
+        "toggle=2,facing=east": { "model": "conquest:block/amphora", "y": 90, "xoffset": -3.5 },
+
+        "toggle=3,facing=south": { "model": "conquest:block/amphora", "y": 180, "xoffset": 3.5,"zoffset": 3.5  },
+        "toggle=3,facing=west": { "model": "conquest:block/amphora", "y": 270, "zoffset": 3.5,"xoffset": 3.5  },
+        "toggle=3,facing=north": { "model": "conquest:block/amphora", "xoffset": -3.5,"zoffset": -3.5  },
+        "toggle=3,facing=east": { "model": "conquest:block/amphora", "y": 90, "zoffset": -3.5, "xoffset": -3.5  }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "conquest:block/flagon",
+	"display": {
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [-1.5, 18, 3],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 35, 0],
+			"translation": [0, 0, -12.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

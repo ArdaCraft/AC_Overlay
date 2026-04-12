@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"particle": "xone/flagon",
-		"3_side": "xone/flagon"
+		"particle": "#",
+		"3_side": "#"
 	},
 	"elements": [
 		{
