@@ -1,6 +1,7 @@
 {
     "targets": [
-        "minecraft:oak_leaves"
+        "minecraft:oak_leaves",
+        "conquest:oak_ground_leaves"
     ],
     "colormap": {
         "x_axis": "biome_id",

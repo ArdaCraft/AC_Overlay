@@ -1,6 +1,7 @@
 {
     "targets": [
         "conquest:light_spruce_needles",
+        "conquest:light_spruce_ground_needles",
         "conquest:light_spruce_leaf_slab",
         "conquest:light_spruce_leaf_branch",
         "conquest:light_spruce_leaf_long_branch",

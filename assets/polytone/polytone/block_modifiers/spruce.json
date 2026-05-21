@@ -1,6 +1,7 @@
 {
     "targets": [
-        "minecraft:spruce_leaves"
+        "minecraft:spruce_leaves",
+        "conquest:spruce_ground_needles"
     ],
     "colormap": {
         "x_axis": "biome_id",

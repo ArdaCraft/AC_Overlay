@@ -1,6 +1,7 @@
 {
     "targets": [
-        "minecraft:birch_leaves"
+        "minecraft:birch_leaves",
+        "conquest:birch_ground_leaves"
     ],
     "colormap": {
         "x_axis": "biome_id",

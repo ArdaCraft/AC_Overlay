@@ -1,6 +1,7 @@
 {
     "targets": [
-        "minecraft:acacia_leaves"
+        "minecraft:acacia_leaves",
+        "conquest:acacia_ground_leaves"
     ],
     "colormap": {
         "x_axis": "biome_id",

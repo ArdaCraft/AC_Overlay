@@ -1,6 +1,7 @@
 {
     "targets": [
-        "minecraft:mangrove_leaves"
+        "minecraft:mangrove_leaves",
+        "conquest::mangrove_ground_leaves"
     ],
     "colormap": {
         "x_axis": "biome_id",

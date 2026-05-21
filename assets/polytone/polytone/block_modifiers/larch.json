@@ -1,6 +1,7 @@
 {
     "targets": [
         "conquest:larch_needles",
+        "conquest:larch_ground_needles",
         "conquest:larch_leaf_slab",
         "conquest:larch_leaf_top",
         "conquest:larch_leaf_long_branch",

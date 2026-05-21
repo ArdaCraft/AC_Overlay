@@ -1,7 +1,9 @@
 {
     "targets": [
         "conquest:beech_tree_leaves",
-        "conquest:dark_beech_tree_leaves"
+        "conquest:beech_tree_ground_leaves",
+        "conquest:dark_beech_tree_leaves",
+        "conquest:dark_beech_tree_ground_leaves"
     ],
     "colormap": {
         "x_axis": "biome_id",
