@@ -331,7 +331,7 @@
         "conquest:overgrown_fir_forest_floor_stairs",
         "conquest:overgrown_fir_forest_floor_vertical_corner",
         "conquest:overgrown_fir_forest_floor_vertical_quarter",
-        "conquest:overgrown_fir_forest_floor_vertical_slab",
+        "conquest:overgrown_fir_forest_floor_vertical_slab"
     ],
     "colormap": {
         "x_axis": "biome_id",
