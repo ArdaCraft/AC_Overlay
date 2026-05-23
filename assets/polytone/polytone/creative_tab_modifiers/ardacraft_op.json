@@ -2,6 +2,9 @@
     "targets": [
         "minecraft:op_blocks"
     ],
+    "require_mods": [
+        "hisea"
+    ],
     "removals": [
         {
             "type": "id_match",
@@ -42,7 +45,8 @@
                             "Name": "{\"text\":\"Horn\",\"color\":\"#cc7755\",\"italic\": false}"
                         }
                     }
-                }
+                },
+                "hisea:arda_mist"
             ]
         }
     ],
