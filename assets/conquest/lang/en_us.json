@@ -5456,5 +5456,7 @@
   "block.conquest.yellow_6_way_flange": "Yellow Thatch Middle Slab",
   "block.conquest.old_yellow_6_way_flange": "Dark Yellow Thatch Middle Slab",
   "block.conquest.red_6_way_flange": "Gray Canvas Middle Slab",
-  "block.conquest.old_red_6_way_flange": "Burlap Middle Slab"
+  "block.conquest.old_red_6_way_flange": "Burlap Middle Slab",
+  "block.conquest.hawthorn_bush": "Hawthorn Leaves",
+  "block.conquest.hawthorn_ground_bush": "Hawthorn Ground Leaves"
 }
