@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/parent_plinth_cornice_3",
+	"textures": {
+		"end": "conquest:block/1_basic_refined/1_stone/light_cornice_topbottom",
+		"side": "conquest:block/2_advanced_refined/1_stone/3_marble/light_plinth"
+	}
+}
