@@ -1,27 +1,18 @@
 {
     "variants": {
-        "facing=north": [
-            {
-                "model": "conquest:block/quern",
-                "y": 90
-            }
-        ],
-        "facing=east": [
-            {
-                "model": "conquest:block/quern",
-                "y": 180
-            }
-        ],
-        "facing=south": [
-            {
-                "model": "conquest:block/quern",
-                "y": 270
-            }
-        ],
-        "facing=west": [
-            {
-                "model": "conquest:block/quern"
-            }
-        ]
+		"toggle=1,facing=north": [{"model":"conquest:block/quern" },{"model":"conquest:block/quern_2"}],
+        "toggle=1,facing=east": [{ "model": "conquest:block/quern", "y": 90 },{ "model": "conquest:block/quern_2", "y": 90 }],
+        "toggle=1,facing=south": [{ "model": "conquest:block/quern", "y": 180 },{ "model": "conquest:block/quern_2", "y": 180 }],
+        "toggle=1,facing=west": [{ "model": "conquest:block/quern", "y": 270 },{ "model": "conquest:block/quern_2", "y": 270 }],
+
+        "toggle=2,facing=north": [{ "model": "conquest:block/quern", "zoffset": 8 },{ "model": "conquest:block/quern_2", "zoffset": 8 }],
+        "toggle=2,facing=east": [{ "model": "conquest:block/quern", "y": 90, "xoffset": -8 },{ "model": "conquest:block/quern_2", "y": 90, "xoffset": -8 }],
+        "toggle=2,facing=south": [{ "model": "conquest:block/quern", "y": 180, "zoffset": -8 },{ "model": "conquest:block/quern_2", "y": 180, "zoffset": -8 }],
+        "toggle=2,facing=west": [{ "model": "conquest:block/quern", "y": 270, "xoffset": 8 },{ "model": "conquest:block/quern_2", "y": 270, "xoffset": 8 }],
+
+        "toggle=3,facing=north": [{ "model": "conquest:block/quern", "zoffset": 8, "xoffset": -8 },{ "model": "conquest:block/quern_2", "zoffset": 8, "xoffset": -8 }],
+        "toggle=3,facing=east": [{ "model": "conquest:block/quern", "y": 90, "xoffset": -8, "zoffset": -8 },{ "model": "conquest:block/quern_2", "y": 90, "xoffset": -8, "zoffset": -8 }],
+        "toggle=3,facing=south": [{ "model": "conquest:block/quern", "y": 180, "zoffset": -8, "xoffset": 8 },{ "model": "conquest:block/quern_2", "y": 180, "zoffset": -8, "xoffset": 8 }],
+        "toggle=3,facing=west": [{ "model": "conquest:block/quern", "y": 270, "xoffset": 8, "zoffset": 8 },{ "model": "conquest:block/quern_2", "y": 270, "xoffset": 8, "zoffset": 8 }]
     }
 }
