@@ -2,140 +2,113 @@
   "pages" : [
     {
       "id": "start_here",
-      "title": "Start Here",
       "entries": [
         {
           "id": "about",
-          "title": "About this Guide",
           "link": "entries/start_here/about.html"
         },
         {
           "id": "updates",
-          "title": "Updates",
           "link": "entries/start_here/updates.html"
         },
         {
           "id": "keybinds",
-          "title": "Keybinds",
           "link": "entries/start_here/keybinds.html"
         }
       ]
     },
     {
       "id": "map",
-      "title": "Map",
       "entries": [
         {
           "id": "overview",
-          "title": "Overview",
           "link": "entries/map/overview.html"
         },
         {
           "id": "markers",
-          "title": "Markers",
           "link": "entries/map/markers.html"
         },
         {
           "id": "layers",
-          "title": "Layers",
           "link": "entries/map/layers.html"
         },
         {
           "id": "configuration",
-          "title": "Configuration",
           "link": "entries/map/configuration.html"
         }
       ]
     },
     {
       "id": "explore",
-      "title": "Explore",
       "entries": [
         {
           "id": "pathfinder",
-          "title": "Pathfinder",
           "link": "entries/explore/pathfinder.html"
         },
         {
           "id": "compass",
-          "title": "Compass",
           "link": "entries/explore/compass.html"
         },
         {
           "id": "toposcope",
-          "title": "Toposcope",
           "link": "entries/explore/toposcope.html"
         },
         {
           "id": "tools",
-          "title": "Tools",
           "link": "entries/explore/tools.html"
         }
       ]
     },
     {
       "id": "community",
-      "title": "Community",
       "entries": [
         {
           "id": "discord",
-          "title": "Discord",
           "link": "entries/community/discord.html"
         },
         {
           "id": "events",
-          "title": "Events",
           "link": "entries/community/events.html"
         },
         {
           "id": "ranks",
-          "title": "Ranks",
           "link": "entries/community/ranks.html"
         },
         {
           "id": "rules",
-          "title": "Rules",
           "link": "entries/community/rules.html"
         },
         {
           "id": "social_media",
-          "title": "Social Media",
           "link": "entries/community/social_media.html"
         }
       ]
     },
     {
       "id": "build",
-      "title": "Build",
       "entries": [
         {
           "id": "claim_a_plot",
-          "title": "Claim a Plot",
           "link": "entries/build/plot.html"
         },
         {
           "id": "what_to_build",
-          "title": "What to Build",
           "link": "entries/build/what_to_build.html"
         },
         {
           "id": "how_to_apply",
-          "title": "How to Apply",
           "link": "entries/build/how_to_apply.html"
         },
         {
           "id": "what_happens_next",
-          "title": "What Happens Next",
           "link": "entries/build/what_next.html"
         },
         {
           "id": "building_keybinds",
-          "title": "Building Keybinds",
           "link": "entries/build/build_keybinds.html"
         },
         {
           "id": "building_commands",
-          "title": "Building Commands",
           "link": "entries/build/build_commands.html"
         }
       ]
