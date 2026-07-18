@@ -3,8 +3,7 @@
         "minecraft:building_blocks"
     ],
     "require_mods": [
-        "ardapaths",
-        "patchouli"
+        "ardapaths"
     ],
     "additions": [
         {
@@ -28,6 +27,8 @@
                         }
                     }
                 },
+                "ardapaths:path_revealer",
+                "ardamaps:guidebook",
                 "minecraft:barrier",
                 "conquest:invisible_block_stairs",
                 "conquest:invisible_block_pane",
@@ -42,13 +43,6 @@
                 "minecraft:jungle_sign",
                 "minecraft:oak_sign",
                 "minecraft:spruce_sign",
-                "ardapaths:path_revealer",
-                {
-                    "id": "patchouli:guide_book",
-                    "tag": {
-                        "patchouli:book": "patchouli:ac_guide"
-                    }
-                },
                 "conquest:planning_sign",
                 "conquest:comment_planning_sign",
                 "create:rose_quartz_tiles",

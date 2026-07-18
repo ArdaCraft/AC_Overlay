@@ -1,0 +1,13 @@
+{
+  "parent_block": "conquest:square_stool",
+  "family_blocks": [
+    "conquest:round_wooden_stool",
+    "conquest:rustic_square_wooden_stool",
+    "conquest:small_square_stool",
+    "conquest:3_legged_stool",
+    "conquest:spruce_wood_stool",
+    "conquest:fabric_folding_stool",
+    "conquest:wooden_cross_stool",
+    "conquest:metal_folding_stool"
+  ]
+}

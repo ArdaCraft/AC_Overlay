@@ -1,0 +1,8 @@
+{
+  "parent_block": "conquest:simple_warp_weighted_loom",
+  "family_blocks": [
+    "conquest:warp_weighted_loom",
+    "conquest:two_beam_loom",
+    "conquest:standing_two_beam_loom"
+  ]
+}

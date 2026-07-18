@@ -2,7 +2,7 @@
   "parent": "conquest:block/templates/parent_vertical_corner_2",
     "textures": {
         "bottom": "conquest:block/1_basic_refined/1_stone/eroded_white_ashlars",
-        "top": "conquest:block/2_advanced_refined/2_metal/white_shipping_container",
+        "top": "conquest:block/1_basic_refined/1_stone/1_clay/lime_mortar_orange_clay_brick",
         "side": "conquest:block/1_basic_refined/1_stone/1_clay/roman_orange_clay_brick_with_sandstone_base"
   }
 }

@@ -1,0 +1,8 @@
+{
+  "parent_block": "conquest:small_kiln",
+  "family_blocks": [
+    "conquest:tall_kiln",
+    "conquest:broken_kiln",
+    "conquest:incomplete_kiln"
+  ]
+}

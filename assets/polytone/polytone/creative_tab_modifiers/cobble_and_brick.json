@@ -33,7 +33,6 @@
                 "conquest:tan_limestone_bricks",
                 "conquest:white_limestone_bricks",
                 "conquest:light_limestone_brick",
-                "conquest:light_small_limestone_brick",
                 "conquest:light_limestone_cobble",
                 "conquest:worn_light_limestone_cobble",
                 "conquest:limestone_fanpattern_setts",
@@ -63,7 +62,6 @@
                 "conquest:cliffstone_cobble",
                 "conquest:graywacke_mortar_wall",
                 "conquest:graywacke_cobble",
-                "conquest:clay_brick_fanpattern_setts",
                 "conquest:small_light_gray_flagstones",
                 "conquest:small_gray_flagstones",
                 "conquest:small_dark_gray_flagstones",
@@ -84,27 +82,45 @@
                 "conquest:mossy_red_clay_brick",
                 "conquest:lime_mortar_red_clay_brick",
                 "conquest:mossy_lime_mortar_red_clay_brick",
-                "conquest:lime_mortar_orange_clay_brick",
-                "conquest:vertical_lime_mortar_orange_clay_brick",
-                "conquest:red_lime_mortar_clay_brick",
-                "conquest:reddish_lime_mortar_clay_brick",
-                "conquest:lightly_plastered_brick",
-                "conquest:worn_lightly_plastered_brick",
-                "conquest:light_lime_mortar_orange_clay_brick",
-                "conquest:dark_lime_mortar_orange_clay_brick",
-                "conquest:dark_lime_mortar_clay_brick",
-                "conquest:dark_roman_orange_clay_brick",
-                "conquest:roman_tan_clay_brick",
-                "conquest:roman_orange_clay_brick",
-                "conquest:vertical_roman_orange_clay_brick",
-                "conquest:roman_orange_clay_brick_with_sandstone_base",
-                "conquest:roman_clay_brick",
-                "conquest:reticulated_brick",
-                "conquest:broken_reticulated_brick",
+
+                        "conquest:light_small_limestone_brick",
+                            "conquest:reddish_lime_mortar_clay_brick",
+                            "conquest:vertical_roman_orange_clay_brick",
+                            "conquest:vertical_lime_mortar_orange_clay_brick",
+                            "conquest:white_shipping_container",                
+                            "conquest:lime_mortar_orange_clay_brick",
+                            "conquest:clay_brick_fanpattern_setts",
+                            "conquest:roman_clay_brick",
+                            "conquest:dark_lime_mortar_orange_clay_brick",
+                            "conquest:light_lime_mortar_orange_clay_brick",
+                            "conquest:worn_lightly_plastered_brick",
+
+                        "conquest:roman_tan_clay_brick",
+
+                        "conquest:roman_orange_clay_brick",
+                            "conquest:dark_lime_mortar_clay_brick",
+                            "conquest:lightly_plastered_brick",
+
+                        "conquest:red_lime_mortar_clay_brick",
+                        "conquest:dark_roman_orange_clay_brick",
+
+                        "conquest:roman_orange_clay_brick_with_sandstone_base",
+                        "conquest:clay_brick_banded_dark_brown_mortar_cobbles",
+
+                        "conquest:clay_brick_mixed_dark_brown_mortar_cobbles",
+
+                        "conquest:broken_reticulated_brick",
+                            "conquest:cross_hatched_metal_plating",
+                            "conquest:rusted_cross_hatched_metal_plating",
+                            "conquest:steel_grating",
+                            "conquest:reticulated_brick",   
+                        
                 "conquest:red_sandstone_brick",
                 "conquest:light_red_sandstone_bricks",
                 "conquest:medium_light_red_sandstone_bricks",
                 "conquest:dark_light_red_sandstone_bricks",
+                "conquest:heavily_overgrown_dark_brown_mortar_cobbles",
+                "conquest:overgrown_dark_brown_mortar_cobbles",
                 "conquest:dark_brown_mortar_cobbles",
                 "conquest:light_brown_mortar_cobbles",
                 "conquest:eroded_off_white_ashlars",
@@ -154,6 +170,6 @@
         }
     ],
     "icon": {
-        "id": "conquest:lime_mortar_masonry"
+        "id": "conquest:dark_lime_mortar_masonry"
     }
 }

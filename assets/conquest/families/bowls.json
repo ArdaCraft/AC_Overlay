@@ -1,0 +1,9 @@
+{
+  "parent_block": "conquest:wooden_bowls",
+  "family_blocks": [
+    "conquest:dark_wooden_bowls",
+    "conquest:terracotta_bowls",
+    "conquest:glazed_terracotta_bowls",
+    "conquest:ash_glazed_terracotta_bowls"
+  ]
+}
