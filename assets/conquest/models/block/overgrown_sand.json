@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/tint_overlay/parent_block",
+	"textures": {
+		"overlay": "conquest:block/8_topography/5_dirt/overgrown_overlay",
+		"side": "minecraft:block/sand"
+	}
+}
