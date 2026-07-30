@@ -16,8 +16,6 @@
         "conquest:birch_vertical_branches",
         "conquest:birch_branches_clump"
 
-
-
     ],
     "colormap": {
         "x_axis": "biome_id",
