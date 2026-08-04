@@ -1,6 +1,0 @@
-{
-	"parent": "conquest:block/templates/parent_boards",
-	"textures": {
-		"particle": "minecraft:block/cherry_planks"
-	}
-}

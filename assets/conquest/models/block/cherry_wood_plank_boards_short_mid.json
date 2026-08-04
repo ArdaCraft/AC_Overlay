@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_boards_horizontal_short_mid",
+  "textures": {
+    "side": "minecraft:block/cherry_planks"
+  }
+}
