@@ -2,9 +2,14 @@ Issues currently include inaccurate items, inaccurate block sounds, and inaccura
 
 ### Changed:
 - Clay brick gradient
+- Peas model
+- Tweaked maple leaf colours
 
 ### Fixed:
+- Swapped oak and ash half extended wicker fence names
+- Mossy sand colourmaps
 - Birch biome colouring
 - Ash biome colouring
 - Beam board toggles
 - Restored hanging rope item frame model
+- Few dozen missing "vertical" part of names
