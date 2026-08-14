@@ -1,7 +1,6 @@
 {
     "targets": [
-        "conquest:pine_needles",
-        "conquest:azalea_ground_leaves"
+        "conquest:pine_needles"
     ],
     "colormap": {
         "x_axis": "biome_id",

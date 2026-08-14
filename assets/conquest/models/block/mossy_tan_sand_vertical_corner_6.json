@@ -1,5 +1,5 @@
 {
-	"parent": "conquest:block/templates/overlay/parent_vertical_corner_6",
+	"parent": "conquest:block/templates/tint_overlay/parent_vertical_corner_6",
 	
 	"textures": {
 		"overlay": "conquest:block/8_topography/5_dirt/mossy_overlay",
