@@ -4,6 +4,9 @@ Issues currently include inaccurate items, inaccurate block sounds, and inaccura
 - Clay brick gradient
 - Peas model
 - Tweaked maple leaf colours
+- Ash colourmap
+- Woodland sedge
+- Nettles
 
 ### Fixed:
 - Swapped oak and ash half extended wicker fence names
