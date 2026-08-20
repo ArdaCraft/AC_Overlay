@@ -1,8 +1,7 @@
 {
     "targets": [
         "conquest:small_fescue",
-        "conquest:timothy_grass",
-        "conquest:purple_moor_grass"
+        "conquest:timothy_grass"
   
     ],
     "colormap": {
